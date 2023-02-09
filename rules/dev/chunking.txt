@@ -1,0 +1,5 @@
+NP=rx+gz+NP
+NP=NP+gz+nx
+NP=NP+gz+ff
+NP=NP+ax
+VP=VP+ux

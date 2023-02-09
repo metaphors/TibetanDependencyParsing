@@ -1,0 +1,4153 @@
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	3	DOBJ	-	-
+2	ཞིག་	ཞིག་	mg	mg	-	1	DIG	-	-
+3	ཉོས་	ཉོས་	vt	vt	-	8	YGFH	-	-
+4	ན་	ན་	cn	cn	-	3	GX	-	-
+5	ཡི་གེ་	ཡི་གེ་	nn	nn	-	8	DOBJ	-	-
+6	ཧ་ཅང་ཆེ་	ཧ་ཅང་ཆེ་	as	as	-	8	ADVA	-	-
+7	བས་	བས་	gx	gx	-	6	GX	-	-
+8	མགོ་ཡུ་འཁོར་བ་	མགོ་ཡུ་འཁོར་བ་	vi	vi	-	11	FH	-	-
+9	ཚོར་བ་	ཚོར་བ་	nn	nn	-	11	DOBJ	-	-
+10	ཡག་པོ་	ཡག་པོ་	as	as	-	9	ADVA	-	-
+11	མི་འདུག	མི་འདུག	vi	vi	-	0	ROOT	-	-
+12	།	།	lz	lz	-	21	PUNCT	-	-
+
+1	དེབ་	དེབ་	nn	nn	-	3	DOBJ	-	-
+2	གོང་མ་	གོང་མ་	tt	tt	-	3	TA	-	-
+3	ཉོས་	ཉོས་	vt	vt	-	6	BLFH	-	-
+4	ནས་	ནས་	cn	cn	-	3	GLC	-	-
+5	བལྟས་	བལྟས་	nv	nv	-	6	DOBJ	-	-
+6	ཚར་སོང་	ཚར་སོང་	vi	vi	-	14	ZZFH	-	-
+7	འོན་ཀྱང་	འོན་ཀྱང་	cj	cj	-	6	GLC	-	-
+8	དེབ་	དེབ་	nn	nn	-	10	QATT	-	-
+9	རྗེས་མ་	རྗེས་མ་	tt	tt	-	14	TA	-	-
+10	ཉོ་བ	ཉོ་བ	nn	nn	-	12	QATT	-	-
+11	འི་	འི་	gz	gz	-	10	GZ	-	-
+12	འདོད་པ་	འདོད་པ་	nn	nn	-	14	DOBJ	-	-
+13	ཅི་ཡང་	ཅི་ཡང་	ry	ry	-	12	RY	-	-
+14	མི་འདུག	མི་འདུག	vi	vi	-	0	ROOT	-	-
+15	།	།	lz	lz	-	21	PUNCT	-	-
+
+1	ཆ་ཚང་	ཆ་ཚང་	as	as	-	2	ADVA	-	-
+2	ཉོས་	ཉོས་	vi	vi	-	6	VA	-	-
+3	ཡོད་	ཡོད་	uc	uc	-	5	COMP	-	-
+4	མང་ཙམ་	མང་ཙམ་	dw	dw	-	5	COMP	-	-
+5	ཡག་པོ་	ཡག་པོ་	as	as	-	6	ADVA	-	-
+6	མི་འདུག	མི་འདུག	vi	vi	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཉོས་	ཉོས་	nv	nv	-	4	DOBJ	-	-
+2	རྗེས་	རྗེས་	tt	tt	-	4	TA	-	-
+3	མྱུར་དུ་	མྱུར་དུ་	dp	dp	-	4	ADVA	-	-
+4	འགྱོད་པ་སྐྱེས	འགྱོད་པ་སྐྱེས	vt	vt	-	9	FH	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+6	ངར་ལངས་པ་	ངར་ལངས་པ་	nn	nn	-	9	SUBJ	-	-
+7	ནི་	ནི་	yy	yy	-	1	YY	-	-
+8	གདོན་འདྲེ་	གདོན་འདྲེ་	nn	nn	-	9	DOBJ	-	-
+9	རེད	རེད	up	up	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	ཉོས་	ཉོས་	nn	nn	-	5	DOBJ	-	-
+2	རྗེས་	རྗེས་	tt	tt	-	5	TA	-	-
+3	ཡུན་རིང་	ཡུན་རིང་	dp	dp	-	5	ADVA	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+5	བལྟ་	བལྟ་	vt	vt	-	10	FH	-	-
+6	མི	མི	un	un	-	5	DF	-	-
+7	ཐུབ	ཐུབ	un	un	-	6	ZC	-	-
+8	།	།	lz	lz	-	5	PUNCT	-	-
+9	སྒྲ་	སྒྲ་	nn	nn	-	10	DOBJ	-	-
+10	ཟློས་	ཟློས་	vt	vt	-	20	ZZFH	-	-
+11	མེད་པ	མེད་པ	df	df	-	10	DF	-	-
+12	།	།	lz	lz	-	10	PUNCT	-	-
+13	ཡང་	ཡང་	cj	cj	-	10	GLC	-	-
+14	ཉིའུ་ཅིན་	ཉིའུ་ཅིན་	nn	nn	-	16	QATT	-	-
+15	གྱི་	གྱི་	gz	gz	-	14	GZ	-	-
+16	གསུང་རབ་	གསུང་རབ་	nn	nn	-	17	QATT	-	-
+17	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	20	DOBJ	-	-
+18	ཞིག་	ཞིག་	uq	uq	-	17	DIG	-	-
+19	དང་	དང་	cd	cd	-	18	CD	-	-
+20	བསྡུར་	བསྡུར་	vt	vt	-	0	ROOT	-	-
+21	ཐུབ་	ཐུབ་	un	un	-	20	COMP	-	-
+22	མེད	མེད	df	df	-	20	DF	-	-
+23	།	།	lz	lz	-	22	PUNCT	-	-
+
+1	ཉོས་	ཉོས་	nv	nv	-	4	QATT	-	-
+2	ཚར་	ཚར་	us	us	-	2	ZC	-	-
+3	རྗེས་	རྗེས་	tt	tt	-	6	TA	-	-
+4	འགྱོད་པ་སྐྱེས་	འགྱོད་པ་སྐྱེས་	nv	nv	-	5	QATT	-	-
+5	ན་	ན་	cn	cn	-	5	CN	-	-
+5	ཕན་པ་	ཕན་པ་	nr	nr	-	6	DOBJ	-	-
+6	ཅི་ཡང་མེད	ཅི་ཡང་མེད	df	df	-	12	FH	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+8	སྤྲོ་སྣང་	སྤྲོ་སྣང་	nn	nn	-	9	QATT	-	-
+9	རང་བཞིན་	རང་བཞིན་	nn	nn	-	12	DOBJ	-	-
+10	ཡང་	ཡང་	cj	cj	-	9	CJ	-	-
+11	མི་	མི་	df	df	-	12	DF	-	-
+12	ཆེ	ཆེ	ad	ad	-	0	ROOT	-	-
+13	།	།	lz	lz	-	12	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	2	QATT	-	-
+2	རིན་ཐང	རིན་ཐང	nn	nn	-	5	DOBJ	-	-
+3	མེད་པ	མེད་པ	df	df	-	2	DF	-	-
+4	ར་	ར་	gl	gl	-	3	GL	-	-
+5	འདོད་པ་	འདོད་པ་	vi	vi	-	0	FH	-	-
+6	རེད	རེད	up	up	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+8	ནང་དོན་	ནང་དོན་	nn	nn	-	10	DOBJ	-	-
+9	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	10	ADVA	-	-
+10	ཉུང་	ཉུང་	ad	ad	-	0	ROOT	-	-
+11	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	4	DOBJ	-	-
+2	འདི་ལག་	འདི་ལག་	rz	rz	-	1	PRON	-	-
+3	ལ་	ལ་	gl	gl	-	5	GL	-	-
+4	འབྱོར་	འབྱོར་	vi	vi	-	0	FH	-	-
+5	རྗེས་	རྗེས་	tt	tt	-	8	TA	-	-
+6	རྒྱུ་སྤུས་	རྒྱུ་སྤུས་	nn	nn	-	8	DOBJ	-	-
+7	ཧ་ཅང	ཧ་ཅང	nr	nr	-	8	ADVA	-	-
+8	ཞན	ཞན	nr	nr	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	དཔེ་ཆ	དཔེ་ཆ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ནང་དོན་	ནང་དོན་	nn	nn	-	5	DOBJ	-	-
+4	དྲང་མོར་	དྲང་མོར་	as	as	-	5	ADVA	-	-
+5	བཤད་	བཤད་	vt	vt	-	9	YGFH	-	-
+6	ན་	ན་	dp	dp	-	5	GL	-	-
+7	རེ་བ་	རེ་བ་	nn	nn	-	9	DOBJ	-	-
+8	ཆེན་པོ་	ཆེན་པོ་	as	as	-	9	ADVA	-	-
+9	མེད	མེད	df	df	-	0	ROOT	-	-
+10	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	དཔེ་ཆ	དཔེ་ཆ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	སྤུས་ཚད་	སྤུས་ཚད་	nn	nn	-	5	DOBJ	-	-
+4	འདི་འདྲ་	འདི་འདྲ་	rz	rz	-	3	PRON	-	-
+5	ཞན་པ་	ཞན་པ་	as	as	-	0	ROOT	-	-
+6	ཅི་རེད	ཅི་རེད	uc	uc	-	5	ZC	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+8	པར་གཞི་	པར་གཞི་	nn	nn	-	9	DOBJ	-	-
+9	རྫུན་མ་	རྫུན་མ་	as	as	-	0	ROOT	-	-
+10	ཡིན་ནམ	ཡིན་ནམ	ry	ry	-	9	RY	-	-
+11	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	ཉིན་བཅུ་ལྷག	ཉིན་བཅུ་ལྷག	tt	tt	-	6	TA	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	6	DOBJ	-	-
+4	ད་རུང་	ད་རུང་	tt	tt	-	6	TA	-	-
+5	མི་	མི་	df	df	-	6	DF	-	-
+6	ཡོང་	ཡོང་	vi	vi	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	དངོས་པོ་	དངོས་པོ་	nn	nn	-	6	DOBJ	-	-
+4	མཉམ་དུ་	མཉམ་དུ་	dw	dw	-	6	ADVA	-	-
+5	མ་	མ་	df	df	-	6	DF	-	-
+6	བསྐུར་བ་	བསྐུར་བ་	vt	vt	-	11	FH	-	-
+7	ཅིའི་ཕྱིར་	ཅིའི་ཕྱིར་	ry	ry	-	6	RY	-	-
+8	ཡིན	ཡིན	up	up	-	6	ZC	-	-
+9	།	།	lz	lz	-	6	PUNCT	-	-
+10	དངོས་པོ་	དངོས་པོ་	nn	nn	-	11	DOBJ	-	-
+11	མེད་	མེད་	df	df	-	16	FH	-	-
+12	དམ	དམ	cx	cx	-	11	CN	-	-
+13	།	།	lz	lz	-	6	PUNCT	-	-
+14	སྔོན་ལ་	སྔོན་ལ་	tt	tt	-	16	TA	-	-
+15	མི་	མི་	df	df	-	16	DF	-	-
+16	བཤད་པ་	བཤད་པ་	vt	vt	-	0	ROOT	-	-
+17	ཅིའི་ཕྱིར་	ཅིའི་ཕྱིར་	ry	ry	-	16	RY	-	-
+18	ཡིན	ཡིན	up	up	-	16	ZC	-	-
+19	།	།	lz	lz	-	16	PUNCT	-	-
+
+1	འོད་སྡེར་	འོད་སྡེར་	nn	nn	-	4	DOBJ	-	-
+2	མེད་པ་	མེད་པ་	df	df	-	4	DF	-	-
+3	ཅི་	ཅི་	ry	ry	-	3	RY	-	-
+4	རེད	རེད	up	up	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཕྱེད་ཀ་	ཕྱེད་ཀ་	nn	nn	-	2	DOBJ	-	-
+2	བལྟས་	བལྟས་	vt	vt	-	8	FH	-	-
+3	ཚར་རྗེས་	ཚར་རྗེས་	tt	tt	-	8	TA	-	-
+4	གཞན་	གཞན་	rz	rz	-	8	IOBJ	-	-
+5	ལ་	ལ་	gl	gl	-	6	GL	-	-
+6	བལྟ་	བལྟ་	nv	nv	-	8	DOBJ	-	-
+7	གི་	གི་	gz	gz	-	6	GZ	-	-
+8	མིན	མིན	df	df	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	གཟའ་འཁོར་	གཟའ་འཁོར་	tt	tt	-	4	TA	-	-
+2	གཉིས་	གཉིས་	mj	mj	-	1	DIG	-	-
+3	ལྷག་	ལྷག་	mg	mg	-	2	SA	-	-
+4	འགོར་	འགོར་	vi	vi	-	11	FH	-	-
+5	སོང་	སོང་	us	us	-	4	ZC	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+7	ཅིའི་ཕྱིར་	ཅིའི་ཕྱིར་	ry	ry	-	11	RY	-	-
+8	ད་རུང་	ད་རུང་	tt	tt	-	11	TA	-	-
+9	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	11	DOBJ	-	-
+10	མ་	མ་	df	df	-	11	DF	-	-
+11	འབྱོར་བ་	འབྱོར་བ་	vi	vi	-	14	FH	-	-
+12	རེད	རེད	up	up	-	11	ZC	-	-
+13	།	།	lz	lz	-	12	PUNCT	-	-
+14	ཁོང་ཁྲོ་ལངས་པ་	ཁོང་ཁྲོ་ལངས་པ་	as	as	-	0	ROOT	-	-
+15	རེད	རེད	up	up	-	14	ZC	-	-
+16	།	།	lz	lz	-	15	PUNCT	-	-
+
+1	ཏང་ཏང	ཏང་ཏང	nt	nt	-	3	QATT	-	-
+2	གི་	གི་	gz	gz	-	1	GZ	-	-
+3	རིན་གོང་	རིན་གོང་	nn	nn	-	7	DOBJ	-	-
+4	ཅིའི་ཕྱིར་	ཅིའི་ཕྱིར་	ry	ry	-	3	RY	-	-
+5	འདི་འདྲ	འདི་འདྲ	rz	rz	-	7	QATT	-	-
+6	འི་	འི་	gz	gz	-	5	GZ	-	-
+7	བརྟན་པོ་	བརྟན་པོ་	as	as	-	0	ROOT	-	-
+8	མིན་པ་	མིན་པ་	df	df	-	7	DF	-	-
+9	རེད	རེད	up	up	-	7	ZC	-	-
+10	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	དཔེ་ཆ	དཔེ་ཆ	nn	nn	-	5	DOBJ	-	-
+2	རྫུན་མ་	རྫུན་མ་	as	as	-	1	HATT	-	-
+3	ཞིག་	ཞིག་	mx	mx	-	1	DIG	-	-
+4	དང་	དང་	cd	cd	-	3	CD	-	-
+5	འདྲ་བར་	འདྲ་བར་	ub	ub	-	7	UX	-	-
+6	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	7	ADVA	-	-
+7	ཡིད་མི་ཚིམ	ཡིད་མི་ཚིམ	as	as	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	6	DOBJ	-	-
+2	འདི་	འདི་	rz	rz	-	1	PRON	-	-
+3	གཅིག་པུ་	གཅིག་པུ་	mz	mz	-	1	DIG	-	-
+4	ཆེས་	ཆེས་	dc	dc	-	6	ADVA	-	-
+5	མི་	མི་	df	df	-	6	DF	-	-
+6	བཟང་	བཟང་	as	as	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	སྤྱོད་སྒོ་	སྤྱོད་སྒོ་	nn	nn	-	4	QATT	-	-
+2	ཡོད་པ་	ཡོད་པ་	hh	hh	-	1	HH	-	-
+3	ཡང་	ཡང་	cj	cj	-	2	CJ	-	-
+4	ཤོག་གྲངས་	ཤོག་གྲངས་	nn	nn	-	6	DOBJ	-	-
+5	གཉིས་གསུམ་	གཉིས་གསུམ་	mg	mg	-	4	DIG	-	-
+6	ལས་བརྒལ་	ལས་བརྒལ་	vt	vt	-	0	ROOT	-	-
+7	མི་རུང་	མི་རུང་	df	df	-	6	DF	-	-
+8	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཁོང་ཁྲོ་	ཁོང་ཁྲོ་	nn	nn	-	3	QATT	-	-
+2	ཡི་	ཡི་	gz	gz	-	1	GZ	-	-
+3	བརྩེ་བ་	བརྩེ་བ་	nn	nn	-	7	DOBJ	-	-
+4	དེ་	དེ་	rx	rx	-	3	PRON	-	-
+5	སྐད་ཆ	སྐད་ཆ	nn	nn	-	7	SUBJ	-	-
+6	ས་	ས་	gx	gx	-	5	GX	-	-
+7	མཚོན་	མཚོན་	vt	vt	-	0	ROOT	-	-
+8	མི་	མི་	df	df	-	7	DF	-	-
+9	ཐུབ	ཐུབ	un	un	-	7	ZC	-	-
+10	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ད་དུང་	ད་དུང་	tt	tt	-	6	TA	-	-
+2	འདི་རུ་	འདི་རུ་	rz	rz	-	6	DOBJ	-	-
+3	དངོས་པོ་	དངོས་པོ་	nn	nn	-	4	QATT	-	-
+4	ཉོ་	ཉོ་	nv	nv	-	6	DOBJ	-	-
+5	རུ་	རུ་	nr	nr	-	4	GL	-	-
+6	ཡོང་འདོད་	ཡོང་འདོད་	vi	vi	-	0	ROOT	-	-
+7	མེད	མེད	df	df	-	6	DF	-	-
+8	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	2	PZ	-	-
+2	དལ་བ་	དལ་བ་	as	as	-	4	FH	-	-
+3	ཉིན་བཅུ་	ཉིན་བཅུ་	tt	tt	-	4	TA	-	-
+4	འགོར་	འགོར་	vi	vi	-	7	FH	-	-
+5	སོང་	སོང་	us	us	-	4	ZC	-	-
+6	ད་རུང་	ད་རུང་	tt	tt	-	7	TA	-	-
+7	འབྱོར	འབྱོར	vx	vx	-	10	FH	-	-
+8	མེད	མེད	df	df	-	7	DF	-	-
+9	།	།	lz	lz	-	7	PUNCT	-	-
+10	རེ་ཐག་ཆད་	རེ་ཐག་ཆད་	vt	vt	-	0	ROOT	-	-
+11	སོང	སོང	us	us	-	10	COMP	-	-
+12	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	ཟླ་བདུན་པ	ཟླ་བདུན་པ	tt	tt	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ཚེས་བདུན་ཉིན་	ཚེས་བདུན་ཉིན་	tt	tt	-	6	TA	-	-
+4	ཉོས་པ	ཉོས་པ	nn	nn	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	8	DOBJ	-	-
+7	ཉིན་ཉི་ཤུ་ལྷག་	ཉིན་ཉི་ཤུ་ལྷག་	tt	tt	-	8	TA	-	-
+8	འགོར་	འགོར་	vi	vi	-	11	VA	-	-
+9	སོང་	སོང་	us	us	-	8	ZC	-	-
+10	ད་རུང་	ད་རུང་	tt	tt	-	11	TA	-	-
+11	ཐོན་	ཐོན་	vi	vi	-	0	ROOT	-	-
+12	མེད	མེད	df	df	-	11	DF	-	-
+13	།	།	lz	lz	-	12	PUNCT	-	-
+
+1	མ་གཞིར་	མ་གཞིར་	dx	dx	-	9	ADVA	-	-
+2	སྐར་མ་	སྐར་མ་	nn	nn	-	4	QATT	-	-
+3	བཞི་	བཞི་	mj	mj	-	2	DIG	-	-
+4	བྱིན་པ	བྱིན་པ	nv	nv	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	མཇུག་འབྲས་	མཇུག་འབྲས་	nn	nn	-	9	DOBJ	-	-
+7	དྲ་ངོས་	དྲ་ངོས་	ns	ns	-	9	FOBJ	-	-
+8	ནས་	ནས་	gj	gj	-	7	GJ	-	-
+9	ནོར་འཁྲུལ་	ནོར་འཁྲུལ་	vi	vi	-	14	BLFH	-	-
+10	བྱུང་	བྱུང་	vi	vi	-	9	COMP	-	-
+11	ནས་	ནས་	cn	cn	-	10	GLC	-	-
+12	སྐར་མ་	སྐར་མ་	nn	nn	-	14	DOBJ	-	-
+13	གཅིག་ཏུ་	གཅིག་ཏུ་	mx	mx	-	14	DIG	-	-
+14	གྱུར་	གྱུར་	vi	vi	-	0	ROOT	-	-
+15	སོང་	སོང་	us	us	-	14	COMP	-	-
+16	།	།	lz	lz	-	14	PUNCT	-	-
+
+1	འོན་ཀྱང་	འོན་ཀྱང་	cj	cj	-	6	CJ	-	-
+2	མཇུག་འབྲས་	མཇུག་འབྲས་	nn	nn	-	4	QATT	-	-
+3	ཀྱི་	ཀྱི་	gz	gz	-	2	GZ	-	-
+4	དམིགས་ཡུལ་	དམིགས་ཡུལ་	nn	nn	-	6	DOBJ	-	-
+5	མ་	མ་	df	df	-	6	DF	-	-
+6	འགྲུབ་པ་	འགྲུབ་པ་	vi	vi	-	12	FH	-	-
+7	དང་	དང་	cd	cd	-	6	CD	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+9	ནང་དོན་	ནང་དོན་	nn	nn	-	12	DOBJ	-	-
+10	ཡང་	ཡང་	cj	cj	-	9	CJ	-	-
+11	མི་	མི་	df	df	-	12	DF	-	-
+12	དགའ	དགའ	vi	vi	-	0	ROOT	-	-
+13	།	།	lz	lz	-	12	PUNCT	-	-
+14	ཚོར་བ་	ཚོར་བ་	nv	nv	-	16	DOBJ	-	-
+15	མི་	མི་	df	df	-	16	DF	-	-
+16	བདེ	བདེ	ad	ad	-	0	COMP	-	-
+17	།	།	lz	lz	-	16	PUNCT	-	-
+
+1	རྗེས་ཕྱོགས་	རྗེས་ཕྱོགས་	tt	tt	-	5	TA	-	-
+2	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	5	DOBJ	-	-
+3	འདི་འདྲ་	འདི་འདྲ་	rz	rz	-	2	PRON	-	-
+4	ཉུང་ཉུང་	ཉུང་ཉུང་	as	as	-	5	ADVA	-	-
+5	ཉོས	ཉོས	vt	vt	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཉོས་	ཉོས་	nn	nn	-	4	DOBJ	-	-
+2	ནས་	ནས་	cn	cn	-	1	CN	-	-
+3	ཡུན་རིང་	ཡུན་རིང་	dp	dp	-	4	ADVA	-	-
+4	འགོར་	འགོར་	vi	vi	-	10	FH	-	-
+5	སོང་	སོང་	us	us	-	4	ZC	-	-
+6	།	།	lz	lz	-	4	PUNCT	-	-
+7	ད་རུང་	ད་རུང་	tt	tt	-	10	TA	-	-
+8	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	10	DOBJ	-	-
+9	མ་	མ་	df	df	-	10	DF	-	-
+10	མཐོང་	མཐོང་	vi	vi	-	0	ROOT	-	-
+11	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	ད་ལྟ་	ད་ལྟ་	tt	tt	-	9	TA	-	-
+2	འདི་	འདི་	rz	rz	-	4	QATT	-	-
+3	ཡི་	ཡི་	gz	gz	-	2	GZ	-	-
+4	ཞབས་ཞུ	ཞབས་ཞུ	nv	nv	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	རྣམ་འགྱུར་	རྣམ་འགྱུར་	nn	nn	-	9	DOBJ	-	-
+7	དེ་འདྲ་	དེ་འདྲ་	rz	rz	-	6	PRON	-	-
+8	མི	མི	df	df	-	9	DF	-	-
+9	བཟང་	བཟང་	as	as	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	གཟའ་འཁོར་	གཟའ་འཁོར་	tt	tt	-	3	TA	-	-
+2	གཉིས་	གཉིས་	mj	mj	-	1	DIG	-	-
+3	འགོར་	འགོར་	vi	vi	-	7	FH	-	-
+4	སོང་	སོང་	us	us	-	3	COMP	-	-
+5	ད་རུང་	ད་རུང་	tt	tt	-	7	TA	-	-
+6	དངོས་པོ་	དངོས་པོ་	nn	nn	-	7	DOBJ	-	-
+7	འབྱོར་	འབྱོར་	vi	vi	-	15	FH	-	-
+8	མེད	མེད	df	df	-	7	DF	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+10	ང	ང	rr	rr	-	15	SUBJ	-	-
+11	ས་	ས་	gx	gx	-	10	GX	-	-
+12	སེམས་ཆུང་མ་བྱས་པ	སེམས་ཆུང་མ་བྱས་པ	as	as	-	15	ADVA	-	-
+13	ར་	ར་	gl	gl	-	12	GL	-	-
+14	དངོས་ཟོག་	དངོས་ཟོག་	nn	nn	-	15	DOBJ	-	-
+15	རྩིས་ལེན་	རྩིས་ལེན་	nv	nv	-	0	ROOT	-	-
+16	བྱས	བྱས	ux	ux	-	15	ZC	-	-
+17	།	།	lz	lz	-	15	PUNCT	-	-
+
+1	ཉེ་ལམ་	ཉེ་ལམ་	tt	tt	-	14	TA	-	-
+2	གཏན་འཁེལ་བྱས་པ	གཏན་འཁེལ་བྱས་པ	nn	nn	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	14	IOBJ	-	-
+5	བཞི་བོ་	བཞི་བོ་	mz	mz	-	4	DIG	-	-
+6	ལ་	ལ་	gl	gl	-	5	GL	-	-
+7	རི་མོ	རི་མོ	nn	nn	-	9	QATT	-	-
+8	འི་	འི་	gz	gz	-	7	GZ	-	-
+9	དཀར་ཆག་	དཀར་ཆག་	nn	nn	-	12	BL	-	-
+10	ཆེན་པོ་	ཆེན་པོ་	as	as	-	9	HATT	-	-
+11	དང་	དང་	cd	cd	-	10	CD	-	-
+12	ཤོག་ངོས་	ཤོག་ངོས་	nn	nn	-	14	DOBJ	-	-
+13	གཅིག་ནས་ལྔ་	གཅིག་ནས་ལྔ་	mx	mx	-	12	DIG	-	-
+14	མེད་པ་	མེད་པ་	df	df	-	0	ROOT	-	-
+15	རེད	རེད	up	up	-	14	ZC	-	-
+16	།	།	lz	lz	-	14	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	2	QATT	-	-
+2	ཉོས་པ་	ཉོས་པ་	nn	nn	-	8	DOBJ	-	-
+3	ནས་བཟུང་	ནས་བཟུང་	tt	tt	-	3	TA	-	-
+4	དཔེ་ཁང་	དཔེ་ཁང་	nn	nn	-	8	SUBJ	-	-
+5	གིས་	གིས་	gx	gx	-	4	GX	-	-
+6	ཤུགས་ཆེན་པོས་	ཤུགས་ཆེན་པོས་	dg	dg	-	8	ADVA	-	-
+7	ས་	ས་	gx	gx	-	6	GX	-	-
+8	ཁྱབ་བསྒྲགས་	ཁྱབ་བསྒྲགས་	nv	nv	-	0	ROOT	-	-
+9	བྱེད་པ	བྱེད་པ	ux	ux	-	8	COMP	-	-
+10	ར་	ར་	gl	gl	-	9	GL	-	-
+11	མི་	མི་	df	df	-	12	DF	-	-
+12	དགའ	དགའ	vi	vi	-	8	HATT	-	-
+13	།	།	lz	lz	-	12	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	6	DOBJ	-	-
+2	འདི་	འདི་	rz	rz	-	1	PRON	-	-
+3	ང	ང	rr	rr	-	6	SUBJ	-	-
+4	ས་	ས་	gx	gx	-	3	GX	-	-
+5	ནམ་ཡང་	ནམ་ཡང་	dp	dp	-	6	ADVA	-	-
+6	ཉོ་རྩིས	ཉོ་རྩིས	vt	vt	-	0	ROOT	-	-
+7	མེད	མེད	df	df	-	6	DF	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	མཉམ་དུ་	མཉམ་དུ་	tt	tt	-	5	TA	-	-
+2	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	5	DOBJ	-	-
+3	མང་པོ་	མང་པོ་	as	as	-	2	HATT	-	-
+4	ཞིག་	ཞིག་	uc	uc	-	3	ZC	-	-
+5	ཉོས་	ཉོས་	vt	vt	-	10	FH	-	-
+6	སོང་	སོང་	us	us	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+8	གཞན་པ་	གཞན་པ་	rz	rz	-	10	DOBJ	-	-
+9	ཚང་མ་	ཚང་མ་	mz	mz	-	8	DIG	-	-
+10	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+11	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	རྒྱུ་སྤུས་	རྒྱུ་སྤུས་	nn	nn	-	3	DOBJ	-	-
+2	མི	མི	df	df	-	3	DF	-	-
+3	བཟང་	བཟང་	as	as	-	0	YGFH	-	-
+4	ན་	ན་	gl	gl	-	3	GL	-	-
+5	རྫུན་མ་	རྫུན་མ་	as	as	-	0	ROOT	-	-
+6	རེད	རེད	up	up	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཤོག་ངོས་	ཤོག་ངོས་	nn	nn	-	4	IOBJ	-	-
+2	གཅིག	གཅིག	mj	mj	-	1	DIG	-	-
+3	ལ་	ལ་	mj	mj	-	2	GL	-	-
+4	བལྟས་	བལྟས་	vt	vt	-	8	FH	-	-
+5	ནས་	ནས་	cn	cn	-	4	CJ	-	-
+6	ཤོག་ངོས་	ཤོག་ངོས་	nn	nn	-	8	DOBJ	-	-
+7	གཅིག་	གཅིག་	mj	mj	-	6	DIG	-	-
+8	ལྷུང་	ལྷུང་	vi	vi	-	11	FH	-	-
+9	སོང་	སོང་	us	us	-	8	ZC	-	-
+10	།	།	lz	lz	-	8	PUNCT	-	-
+11	ཡིད་མུག་པ་	ཡིད་མུག་པ་	as	as	-	0	ROOT	-	-
+12	ཞིག་	ཞིག་	ux	ux	-	11	ZC	-	-
+13	རེད	རེད	up	up	-	11	ZC	-	-
+14	།	།	lz	lz	-	11	PUNCT	-	-
+
+1	ཏང་ཏང་	ཏང་ཏང་	nt	nt	-	8	SUBJ	-	-
+2	གིས་	གིས་	gx	gx	-	1	GX	-	-
+3	འགྲེལ་བཤད་	འགྲེལ་བཤད་	nn	nn	-	8	DOBJ	-	-
+4	ཇི་ལྟར་	ཇི་ལྟར་	ry	ry	-	3	RY	-	-
+5	རྒྱག་	རྒྱག་	ux	ux	-	4	ZC	-	-
+6	དགོས་པ་	དགོས་པ་	un	un	-	5	ZC	-	-
+7	མི	མི	df	df	-	8	DF	-	-
+8	ཤེས	ཤེས	vt	vt	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	COMP	-	-
+
+1	དང་ཐོག་	དང་ཐོག་	tt	tt	-	4	TA	-	-
+2	སྤྲོ་བ་	སྤྲོ་བ་	nn	nn	-	4	DOBJ	-	-
+3	ཆེན་པོ་	ཆེན་པོ་	as	as	-	2	HATT	-	-
+4	འདུག་	འདུག་	vi	vi	-	8	FH	-	-
+5	རྗེས་	རྗེས་	tt	tt	-	8	TA	-	-
+6	ནས་	ནས་	gj	gj	-	5	GJ	-	-
+7	དོན་སྙིང་	དོན་སྙིང་	nn	nn	-	8	DOBJ	-	-
+8	མི་འདུག	མི་འདུག	vi	vi	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	COMP	-	-
+
+1	དེ་ནས་	དེ་ནས་	cj	cj	-	2	CJ	-	-
+2	རྗེས་སུ་སོང་	རྗེས་སུ་སོང་	vt	vt	-	10	FH	-	-
+3	ན་	ན་	cn	cn	-	2	YGFH	-	-
+4	སྔ་ཕྱི	སྔ་ཕྱི	tt	tt	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	བར་ཁྱད་	བར་ཁྱད་	nn	nn	-	10	DOBJ	-	-
+7	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	8	COMP	-	-
+8	ཆེ་བ	ཆེ་བ	as	as	-	10	ADVA	-	-
+9	ར་	ར་	gl	gl	-	8	GL	-	-
+10	འདོད་པ་	འདོད་པ་	vi	vi	-	0	ROOT	-	-
+11	རེད	རེད	up	up	-	10	ZC	-	-
+12	།	།	lz	lz	-	11	PUNCT	-	-
+
+1	ཟླ་གཅིག	ཟླ་གཅིག	tt	tt	-	6	TA	-	-
+2	ལྷག་	ལྷག་	dx	dx	-	6	PZ	-	-
+3	ལ་	ལ་	gl	gl	-	2	GL	-	-
+4	ད་དུང་	ད་དུང་	tt	tt	-	6	TA	-	-
+5	དངོས་པོ་	དངོས་པོ་	nn	nn	-	6	DOBJ	-	-
+6	ལེན་	ལེན་	vt	vt	-	11	FH	-	-
+7	མི་ཐུབ	མི་ཐུབ	df	df	-	6	DF	-	-
+8	།	།	lz	lz	-	6	PUNCT	-	-
+9	ང་	ང་	rr	rr	-	11	DOBJ	-	-
+10	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	11	ADVA	-	-
+11	ཡིད་མི་ཚི	ཡིད་མི་ཚི	vi	vi	-	0	ROOT	-	-
+12	།	།	lz	lz	-	11	PUNCT	-	-
+
+1	ཅུང་ཙམ་	ཅུང་ཙམ་	dc	dc	-	3	ADVA	-	-
+2	ཡང་	ཡང་	cj	cj	-	1	CJ	-	-
+3	མི་བཟང་	མི་བཟང་	as	as	-	8	FH	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+5	དཔེ་ཆ་ཧྲིལ་བོ	དཔེ་ཆ་ཧྲིལ་བོ	nn	nn	-	8	IOBJ	-	-
+6	ར་	ར་	gl	gl	-	5	GL	-	-
+7	དབྱིན་ཡིག་	དབྱིན་ཡིག་	nn	nn	-	8	DOBJ	-	-
+8	ཅི་ཡང་མེད	ཅི་ཡང་མེད	df	df	-	12	FH	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+10	ང་	ང་	rr	rr	-	12	IOBJ	-	-
+11	ལ་	ལ་	gl	gl	-	10	GL	-	-
+12	རོགས་རམ་	རོགས་རམ་	vt	vt	-	0	ROOT	-	-
+13	ཅི་ཡང་མེད	ཅི་ཡང་མེད	df	df	-	12	DF	-	-
+14	།	།	lz	lz	-	12	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	8	SUBJ	-	-
+2	ས་	ས	gx	gx	-	1	GX	-	-
+3	བྱིས་པ་	བྱིས་པ་	nr	nr	-	8	IOBJ	-	-
+4	ལ་	ལ་	nr	nr	-	3	GL	-	-
+5	བལྟ་	བལྟ་	nv	nv	-	9	IOBJ	-	-
+6	རུ་	རུ་	gl	gl	-	5	GL	-	-
+7	འཇུག་	འཇུག་	nn	nn	-	9	DOBJ	-	-
+8	མི་	མི་	df	df	-	8	DF	-	-
+9	འདོད	འདོད	vi	vi	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	ཕྱེད་ཀ	ཕྱེད་ཀ	mg	mg	-	3	DIG	-	-
+2	ར་	ར་	gl	gl	-	1	GL	-	-
+3	སྒྲ་མེད	སྒྲ་མེད	df	df	-	7	FH	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+5	རྒྱུ་སྤུས་	རྒྱུ་སྤུས་	nn	nn	-	7	DOBJ	-	-
+6	ཅི་ཞིག་	ཅི་ཞིག་	ry	ry	-	5	RY	-	-
+7	རེད	རེད	up	up	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	དེ་འདྲ་	དེ་འདྲ་	rz	rz	-	4	DOBJ	-	-
+2	བཟང་	བཟང་	ad	ad	-	4	ADVA	-	-
+3	རྒྱུ་	རྒྱུ་	us	us	-	2	ZC	-	-
+4	མི་འདུག	མི་འདུག	vi	vi	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	2	COMP	-	-
+2	ཡག་པ	ཡག་པ	as	as	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	6	DOBJ	-	-
+5	མ་	མ་	df	df	-	6	DF	-	-
+6	རེད	རེད	up	up	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	སྤྱིར་བཏང་	སྤྱིར་བཏང་	as	as	-	4	ADVA	-	-
+2	དུ་	དུ་	gl	gl	-	1	GL	-	-
+3	རིག་ལམ་	རིག་ལམ་	nn	nn	-	4	DOBJ	-	-
+4	གསར་བ་	གསར་བ་	as	as	-	0	YGFH	-	-
+5	ཡིན་པ	ཡིན་པ	up	up	-	11	ZC	-	-
+6	ས་	ས་	gx	gx	-	5	GLC	-	-
+7	སློབ་ཁྲིད་	སློབ་ཁྲིད་	vt	vt	-	9	QATT	-	-
+8	ཀྱི་	ཀྱི་	gz	gz	-	7	GZ	-	-
+9	ནུས་པ་	ནུས་པ་	nn	nn	-	11	DOBJ	-	-
+10	རྩ་བ་ནས་	རྩ་བ་ནས་	dc	dc	-	11	ADVA	-	-
+11	ཐོན་	ཐོན་	vi	vi	-	0	ROOT	-	-
+12	མི་ཐུབ	མི་ཐུབ	df	df	-	11	DF	-	-
+13	།	།	lz	lz	-	11	PUNCT	-	-
+
+1	སྤྱིར་བཏང་	སྤྱིར་བཏང་	as	as	-	7	ADVA	-	-
+2	དུ་	དུ་	gl	gl	-	1	GL	-	-
+3	གནས་ལུགས་	གནས་ལུགས་	nn	nn	-	7	DOBJ	-	-
+4	ཅི་ཞིག་	ཅི་ཞིག་	ry	ry	-	3	RY	-	-
+5	ཡོད་པ་	ཡོད་པ་	uc	uc	-	4	ZC	-	-
+6	མ་	མ་	df	df	-	7	DF	-	-
+7	ཤེས་པ་	ཤེས་པ་	vt	vt	-	0	ROOT	-	-
+8	ཙམ་	ཙམ་	dw	dw	-	7	COMP	-	-
+9	རེད	རེད	up	up	-	8	ZC	-	-
+10	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	སྤྱིར་བཏང་	སྤྱིར་བཏང་	as	as	-	9	ADVA	-	-
+2	དུ་	དུ་	gl	gl	-	1	GL	-	-
+3	ཀྲང་ཨེ་ལིན་	ཀྲང་ཨེ་ལིན་	nr	nr	-	5	QATT	-	-
+4	གྱི་	གྱི་	gz	gz	-	3	GZ	-	-
+5	ཁྱད་ཆོས་	ཁྱད་ཆོས་	nn	nn	-	9	IOBJ	-	-
+6	ལ	ལ་	gl	gl	-	5	GL	-	-
+7	ཧ་ཅང་	ཧ་ཅང་	dx	dx	-	9	ADVA	-	-
+8	མི་	མི་	df	df	-	9	DF	-	-
+9	དགའ	དགའ	vi	vi	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	སྤྱིར་བཏང་	སྤྱིར་བཏང་	as	as	-	6	ADVA	-	-
+2	དུ་	དུ་	gl	gl	-	1	GL	-	-
+3	ཅིའི་ཕྱིར་	ཅིའི་ཕྱིར་	ry	ry	-	2	RY	-	-
+4	བཙོང་བ་	བཙོང་བ་	nn	nn	-	6	DOBJ	-	-
+5	འདི་འདྲ་	འདི་འདྲ་	rz	rz	-	6	DOBJ	-	-
+6	བཟང་བ་	བཟང་བ་	as	as	-	0	ROOT	-	-
+7	མི་ཤེས	མི་ཤེས	df	df	-	6	DF	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	མི་གཤིས་ཀྱི་ཞན་ཆ	མི་གཤིས་ཀྱི་ཞན་ཆ	nn	nn	-	2	DOBJ	-	-
+2	བསྡུར་	བསྡུར་	vt	vt	-	0	YGFH	-	-
+3	ན་	ན་	gl	gl	-	2	GLC	-	-
+4	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	6	DOBJ	-	-
+5	འདི་	འདི་	rz	rz	-	4	PRON	-	-
+6	ཧ་ཅང་ཞན	ཧ་ཅང་ཞན	as	as	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ནང་དོན་	ནང་དོན་	nn	nn	-	2	DOBJ	-	-
+2	གཏིང་ཟབ་མོ་	གཏིང་ཟབ་མོ་	as	as	-	9	FH	-	-
+3	མི་འདུག་	མི་འདུག་	df	df	-	2	DF	-	-
+4	ང	ང	rr	rr	-	9	SUBJ	-	-
+5	ས་	ས་	gx	gx	-	4	GX	-	-
+6	མཐོ་འབྲིང་སྐབས་སུ་	མཐོ་འབྲིང་སྐབས་སུ་	tt	tt	-	9	TA	-	-
+7	གནས་ལུགས་	གནས་ལུགས་	nn	nn	-	9	DOBJ	-	-
+8	འདི་	འདི་	rz	rz	-	7	PRON	-	-
+9	ཤེས	ཤེས	vt	vt	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	མི་སྣ་	མི་སྣ་	nn	nn	-	10	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	རྩོམ་པ་པོ	རྩོམ་པ་པོ	nn	nn	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	གཤིས་ཀ་	གཤིས་ཀ་	nn	nn	-	9	DOBJ	-	-
+6	ལས་	ལས་	gj	gj	-	5	GJ	-	-
+7	རང་ཉིད་	རང་ཉིད་	rr	rr	-	9	QATT	-	-
+8	ཀྱི་	ཀྱི་	gz	gz	-	7	GZ	-	-
+9	གཤིས་ཀ་	གཤིས་ཀ་	nn	nn	-	10	DOBJ	-	-
+10	མེད	མེད	df	df	-	0	ROOT	-	-
+11	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	8	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	དྲན་	དྲན་	vt	vt	-	8	BLFH	-	-
+4	ནས་	ནས་	cn	cn	-	3	GLC	-	-
+5	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	6	COMP	-	-
+6	བཟང་བ	བཟང་བ	as	as	-	8	ADVA	-	-
+7	ར་	ར་	gl	gl	-	6	GL	-	-
+8	མི་འདུག	མི་འདུག	vi	vi	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	གཅིག་བྱས་ན་	གཅིག་བྱས་ན་	dx	dx	-	8	ADVA	-	-
+2	དེ་	དེ་	rx	rx	-	8	DOBJ	-	-
+3	རྒྱུ་མཚན་	རྒྱུ་མཚན་	nn	nn	-	8	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	COMP	-	-
+5	ཡག་པོ་	ཡག་པོ་	as	as	-	8	ADVA	-	-
+6	ཞིག་	ཞིག་	ux	ux	-	5	ZC	-	-
+7	མ་	མ་	df	df	-	8	DF	-	-
+8	རེད	རེད	up	up	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	3	QATT	-	-
+2	འདི་	འདི་	rz	rz	-	1	PRON	-	-
+3	པར་འདེབས་བྱས་པ	པར་འདེབས་བྱས་པ་	nn	nn	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	3	GZ	-	-
+6	སྣུམ་སྣག་	སྣུམ་སྣག་	nn	nn	-	7	DOBJ	-	-
+7	མི་བཟང་	མི་བཟང་	as	as	-	0	HATT	-	-
+8	བ་	བ་	hh	hh	-	7	HH	-	-
+9	ཡིན་ནམ་	ཡིན་ནམ་	ux	ux	-	7	ZC	-	-
+10	ཡང་ན་	ཡང་ན་	cj	cj	-	7	GLC	-	-
+11	རྒྱུ་རྐྱེན་	རྒྱུ་རྐྱེན་	nn	nn	-	13	DOBJ	-	-
+12	ཅི་ཞིག་	ཅི་ཞིག་	ry	ry	-	11	RY	-	-
+13	ཡིན་ནམ	ཡིན་ནམ	ux	ux	-	0	ROOT	-	-
+14	།	།	lz	lz	-	13	PUNCT	-	-
+
+1	དྲི་ངན་བྲོ་བ	དྲི་ངན་བྲོ་བ	nn	nn	-	3	DOBJ	-	-
+2	བཟང་	བཟང་	ad	ad	-	1	HATT	-	-
+3	མི་འདུག	མི་འདུག	vi	vi	-	0	ROOT	-	-
+4	།	།	lz	lz	-	13	PUNCT	-	-
+1	ཕལ་ཆེར་	ཕལ་ཆེར་	dw	dw	-	6	ADVA	-	-
+2	ང	ང	rr	rr	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	ཆུ་ཚད་	ཆུ་ཚད་	nn	nn	-	6	DOBJ	-	-
+5	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	6	ADVA	-	-
+6	དམའ་བས	དམའ་བས	as	as	-	12	FH	-	-
+7	ང་	ང་	rr	rr	-	12	DOBJ	-	-
+8	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	12	IOBJ	-	-
+9	འདི་	འདི་	rz	rz	-	8	PRON	-	-
+10	ལ་	ལ་	gl	gl	-	9	GL	-	-
+11	མི་	མི་	df	df	-	12	DF	-	-
+12	དགའ	དགའ	vi	vi	-	0	ROOT	-	-
+13	།	།	lz	lz	-	12	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	5	SUBJ	-	-
+2	ཚང་མ	ཚང་མ	mz	mz	-	1	DIG	-	-
+3	ས་	ས་	gx	gx	-	2	GX	-	-
+4	རྫུན	རྫུན་	as	as	-	5	ADVA	-	-
+5	བཤད་	བཤད་	vt	vt	-	0	ROOT	-	-
+6	བཞིན་	བཞིན་	us	us	-	5	ZC	-	-
+7	ཡོད	ཡོད	uc	uc	-	5	ZC	-	-
+8	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ད་ལྟའི་བར་	ད་ལྟའི་བར་	tt	tt	-	3	TA	-	-
+2	དུ་	དུ་	gl	gl	-	1	GL	-	-
+3	བལྟས་	བལྟས་	vt	vt	-	0	ROOT	-	-
+4	ཚར་	ཚར་	us	us	-	3	ZC	-	-
+5	མེད	མེད	df	df	-	3	DF	-	-
+6	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཕལ་ཆེར་	ཕལ་ཆེར་	dw	dw	-	5	ADVA	-	-
+2	ང	ང	rr	rr	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	དབྱིན་ཡིག་	དབྱིན་ཡིག་	nn	nn	-	5	DOBJ	-	-
+5	མི་བཟང་	མི་བཟང་	as	as	-	0	ROOT	-	-
+6	བ་	བ་	hx	hx	-	5	HH	-	-
+7	རེད	རེད	up	up	-	5	ZC	-	-
+8	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཡི་གེ་	ཡི་གེ་	nn	nn	-	2	QATT	-	-
+2	བྲིས་པ་	བྲིས་པ་	nv	nv	-	4	DOBJ	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	4	ADVA	-	-
+4	གཏིང་ཟབ་པོ་	གཏིང་ཟབ་པོ་	as	as	-	0	ROOT	-	-
+5	མི་འདུག	མི་འདུག	df	df	-	4	DF	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	རིན་གོང་བསྡུར་ཚད་	རིན་གོང་བསྡུར་ཚད་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	དམའ་བ་	དམའ་བ་	as	as	-	0	ROOT	-	-
+4	ཡོད	ཡོད	uc	uc	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	གནས་ལུགས་	གནས་ལུགས་	nn	nn	-	6	DOBJ	-	-
+2	དེ་དག་	དེ་དག་	rz	rz	-	1	PRON	-	-
+3	ཚང་མ	ཚང་མ	rr	rr	-	5	SUBJ	-	-
+4	ས་	ས་	gx	gx	-	3	GX	-	-
+5	ཤེས་པས་	ཤེས་པས་	nv	nv	-	6	DOBJ	-	-
+6	མི་བཟང་	མི་བཟང་	as	as	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	བྲིས་པ་	བྲིས་པ་	nv	nv	-	4	DOBJ	-	-
+2	དངོས་གནས་	དངོས་གནས་	dc	dc	-	3	COMP	-	-
+3	ཡག་པོ་	ཡག་པོ་	as	as	-	4	ADVA	-	-
+4	མི་འདུག	མི་འདུག	vi	vi	-	0	ROOT	-	-
+5	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	རྩོམ་རྩལ་	རྩོམ་རྩལ་	nn	nn	-	2	DOBJ	-	-
+2	མེད་པ	མེད་པ	df	df	-	0	ROOT	-	-
+3	།	།	lz	lz	-	2	PUNCT	-	-
+
+1	ཕྱི་རྒྱལ་	ཕྱི་རྒྱལ་	nn	nn	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	ཁེ་ལས་	ཁེ་ལས་	nn	nn	-	8	IOBJ	-	-
+4	དང་	དང་	cd	cd	-	3	CD	-	-
+5	ཡང་	ཡང་	cj	cj	-	4	CJ	-	-
+6	འབྲེལ་བ་	འབྲེལ་བ་	nn	nn	-	8	DOBJ	-	-
+7	ཆེན་པོ་	ཆེན་པོ་	as	as	-	8	ADVA	-	-
+8	མེད	མེད	df	df	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	རི་མོ་	རི་མོ་	nn	nn	-	2	DOBJ	-	-
+2	འབྲི་པ	འབྲི་པ	vt	vt	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	ཉམས་འགྱུར་	ཉམས་འགྱུར་	nn	nn	-	8	IOBJ	-	-
+5	ལ་	ལ་	gl	gl	-	4	GL	-	-
+6	ང་	ང་	rr	rr	-	8	DOBJ	-	-
+7	དེ་འདྲ་	དེ་འདྲ་	rz	rz	-	8	DOBJ	-	-
+8	དགའ་པོ་	དགའ་པོ་	vi	vi	-	0	ROOT	-	-
+9	མེད	མེད	df	df	-	8	DF	-	-
+10	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	ཡི་གེ	ཡི་གེ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ཕྱི་ངོས་	ཕྱི་ངོས་	nn	nn	-	7	DOBJ	-	-
+4	ཙམ་	ཙམ་	dw	dw	-	6	PZ	-	-
+5	ལས་	ལས་	gj	gj	-	4	GJ	-	-
+6	གཏིང་ཟབ་པོ་	གཏིང་ཟབ་པོ་	as	as	-	7	ADVA	-	-
+7	བྱུང་	བྱུང་	vi	vi	-	0	ROOT	-	-
+8	མེད	མེད	df	df	-	7	DF	-	-
+9	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	བྲིས་པ་	བྲིས་པ་	nv	nv	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	COMP	-	-
+3	མི་བཟང་	མི་བཟང་	as	as	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	རྙོག་གཏམ་	རྙོག་གཏམ་	nn	nn	-	2	QATT	-	-
+2	བྲིས་པ་	བྲིས་པ་	nv	nv	-	4	DOBJ	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	4	COMP	-	-
+4	མི་བཟང་	མི་བཟང་	as	as	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	བྲིས་པ་	བྲིས་པ་	nv	nv	-	2	DOBJ	-	-
+2	མི་བཟང་	མི་བཟང་	as	as	-	0	ROOT	-	-
+3	།	།	lz	lz	-	2	PUNCT	-	-
+
+1	ཞའོ་ཙི་	ཞའོ་ཙི་	nr	nr	-	4	SUBJ	-	-
+2	ཡིས་	ཡིས་	gx	gx	-	1	GX	-	-
+3	བྲིས་པ་	བྲིས་པ་	nv	nv	-	4	DOBJ	-	-
+4	སྐྱུག་བྲོ་བ་	སྐྱུག་བྲོ་བ་	as	as	-	0	ROOT	-	-
+5	ཞིག་	ཞིག་	ug	ug	-	4	ZC	-	-
+6	རེད	རེད	up	up	-	4	ZC	-	-
+7	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ང་རང་ཉིད་	ང་རང་ཉིད་	rr	rr	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	མི་ཚེ་	མི་ཚེ་	nn	nn	-	5	IOBJ	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+5	དགའ་བ་	དགའ་བ	vi	vi	-	11	FH	-	-
+6	ལས་	ལས་	gj	gj	-	5	GLC	-	-
+7	བསམ་གཟས་	བསམ་གཟས་་	as	as	-	11	ADVA	-	-
+8	ནས་	ནས་	cn	cn	-	7	CJ	-	-
+9	མི་གཞན་	མི་གཞན་	rr	rr	-	11	IOBJ	-	-
+10	ལ་	ལ་	gl	gl	-	9	GL	-	-
+11	བསྟུན་ཐབས་	བསྟུན་ཐབས་	nv	nv	-	0	ROOT	-	-
+12	བྱེད་པ་	བྱེད་པ་	ux	ux	-	11	ZC	-	-
+13	མིན	མིན	df	df	-	11	DF	-	-
+14	།	།	lz	lz	-	11	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	3	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	བསམ་	བསམ་	vt	vt	-	6	YGFH	-	-
+4	ན་	ན་	cn	cn	-	3	GLC	-	-
+5	དེ་འདྲ་	དེ་འདྲ་	rz	rz	-	6	DOBJ	-	-
+6	དགོད་སྤྲོ་བ་	དགོད་སྤྲོ་བ་	vi	vi	-	0	ROOT	-	-
+7	ཞིག་	ཞིག་	ug	ug	-	6	ZC	-	-
+8	མ་རེད	མ་རེད	df	df	-	6	DF	-	-
+9	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཆེད་ལས་	ཆེད་ལས་	nn	nn	-	2	QATT	-	-
+2	དབྱིན་ཡིག་	དབྱིན་ཡིག་	nn	nn	-	4	QATT	-	-
+3	གི་	གི་	gz	gz	-	2	GZ	-	-
+4	ཆུ་ཚད་	ཆུ་ཚད་	nn	nn	-	5	QATT	-	-
+5	མཐོར་འདེགས་གཏོང་བ	མཐོར་འདེགས་གཏོང་བ	nv	nv	-	9	IOBJ	-	-
+6	ར་	ར་	gl	gl	-	5	GL	-	-
+7	ཡང་	ཡང་	cj	cj	-	6	CJ	-	-
+8	མི་	མི་	df	df	-	9	DF	-	-
+9	ཕན	ཕན	vi	vi	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	ད་ལྟ་	ད་ལྟ་	tt	tt	-	4	TA	-	-
+2	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	4	DOBJ	-	-
+3	འདི་རིགས་	འདི་རིགས་	rz	rz	-	2	PRON	-	-
+4	ཧ་ཅང་མང་བས་	ཧ་ཅང་མང་བས་	as	as	-	8	FH	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+6	ངོ་སྤྲོད་	ངོ་སྤྲོད་	nn	nn	-	8	DOBJ	-	-
+7	བྱས་པ་	བྱས་པ་	ux	ux	-	6	ZC	-	-
+8	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+9	རྒྱུ་	རྒྱུ་	us	us	-	8	ZC	-	-
+10	མེད	མེད	df	df	-	8	DF	-	-
+11	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	མ་	མ་	nn	nn	-	2	DF	-	-
+2	བལྟས་	བལྟས་	vt	vt	-	4	YGFH	-	-
+3	ན་	ན་	cn	cn	-	2	GLC	-	-
+4	མི་ཤེས	མི་ཤེས	vt	vt	-	7	FH	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+6	བལྟས་མ་ཐག་	བལྟས་མ་ཐག་	tt	tt	-	7	TA	-	-
+7	གཡུག་	གཡུག་	vt	vt	-	0	ROOT	-	-
+8	ན་	ན་	cn	cn	-	7	CJ	-	-
+9	འདོད	འདོད	vi	vi	-	7	COMP	-	-
+10	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	འགུག་ཤུགས་	འགུག་ཤུགས་	nv	nv	-	4	QATT	-	-
+2	མེད་པ	མེད་པ	df	df	-	1	DF	-	-
+3	ས་	ས་	gx	gx	-	2	GX	-	-
+4	དཔེ་ཆ	དཔེ་ཆ	nn	nn	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	དཔྱད་བརྗོད་	དཔྱད་བརྗོད་	nn	nn	-	8	SUBJ	-	-
+7	ཀྱིས་	ཀྱིས་	gx	gx	-	6	GX	-	-
+8	མགོ་སྐོར་ཐེབས་པ	མགོ་སྐོར་ཐེབས་པ	vi	vi	-	12	YGFH	-	-
+10	ས་	ས་	gx	gx	-	8	GLC	-	-
+11	བལྟ་རིན་	བལྟ་རིན་	nn	nn	-	12	DOBJ	-	-
+12	མི་འདུག	མི་འདུག	df	df	-	0	DF	-	-
+
+1	གནས་ལུགས་བཤད་	གནས་ལུགས་བཤད་	nn	nn	-	6	IOBJ	-	-
+2	པ་	པ་	hh	hh	-	1	HH	-	-
+3	ཙམ་	ཙམ་	dw	dw	-	6	ADVA	-	-
+4	ལས་	ལས་	gj	gj	-	3	CN	-	-
+5	བཀོལ་སྤྱོད་རང་བཞིན་	བཀོལ་སྤྱོད་རང་བཞིན་	nn	nn	-	6	DOBJ	-	-
+6	མེད	མེད	df	df	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཉོས་ཡོང	ཉོས་ཡོང	nn	nn	-	4	IOBJ	-	-
+2	ན་	ན་	cn	cn	-	1	CJ	-	-
+3	སྒོར་མོ་	སྒོར་མོ་	nn	nn	-	4	DOBJ	-	-
+4	འཕྲོ་བརླག་	འཕྲོ་བརླག་	vt	vt	-	0	ROOT	-	-
+5	རེད	རེད	up	up	-	4	ZC	-	-
+6	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	དགའ་ཞེན་	དགའ་ཞེན་	nn	nn	-	2	DOBJ	-	-
+2	མེད	མེད	df	df	-	7	FH	-	-
+3	།	།	lz	lz	-	2	PUNCT	-	-
+4	སྐད་ཆ་	སྐད་ཆ་	nn	nn	-	7	DOBJ	-	-
+5	ཡང་	ཡང་	cj	cj	-	4	CJ	-	-
+6	མི	མི	df	df	-	7	DF	-	-
+7	བཟང་	བཟང་	nn	nn	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	3	DOBJ	-	-
+2	འདི་	འདི་	rz	rz	-	1	PRON	-	-
+3	ཉོས་པ	ཉོས་པ	nn	nn	-	5	IOBJ	-	-
+4	ར་	ར་	gl	gl	-	3	GL	-	-
+5	འགྱོད་པ་སྐྱེས	འགྱོད་པ་སྐྱེས	vt	vt	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	དགའ་ཞེན་	དགའ་ཞེན་	nn	nn	-	2	DOBJ	-	-
+2	མེད	མེད	df	df	-	0	ROOT	-	-
+3	།	།	lz	lz	-	2	PUNCT	-	-
+
+1	དོན་སྙིང་	དོན་སྙིང་	nn	nn	-	4	DOBJ	-	-
+2	ཆེན་པོ་	ཆེན་པོ་	as	as	-	1	HATT	-	-
+3	མི	མི	df	df	-	4	DF	-	-
+4	འདུག	འདུག	vi	vi	-	0	ROOT	-	-
+
+1	ལོ་བཅུ་ཡན	ལོ་བཅུ་ཡན	tt	tt	-	3	QATT	-	-
+2	་གྱི་	་གྱི་	gz	gz	-	1	GZ	-	-
+3	གྲོགས་པོ	གྲོགས་པོ	nn	nn	-	6	SUBJ	-	-
+4	རྣམས་	རྣམས་	qj	qj	-	3	LA	-	-
+5	ས་	ས་	gx	gx	-	3	GX	-	-
+6	ཉོ་	ཉོ་	vt	vt	-	9	BLFH	-	-
+7	ནས་	ནས་	cn	cn	-	6	GLC	-	-
+8	དུས་ཚོད་	དུས་ཚོད་	nn	nn	-	9	DOBJ	-	-
+9	འཕྲོ་བརླག་	འཕྲོ་བརླག་	vt	vt	-	0	ROOT	-	-
+10	རེད་	རེད་	up	up	-	9	ZC	-	-
+
+1	ང་རང་ཉིད་	ང་རང་ཉིད་	rr	rr	-	4	SUBJ	-	-
+2	དེ་འདྲ་	དེ་འདྲ་	rz	rz	-	4	DOBJ	-	-
+3	མི་	མི་	df	df	-	4	DF	-	-
+4	དགའ	དགའ	vi	vi	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	བརྩམས་ཆོས་	བརྩམས་ཆོས་	nn	nn	-	7	IOBJ	-	-
+2	བཟང་བོ་	བཟང་བོ་	as	as	-	1	HATT	-	-
+3	ཞིག་	ཞིག་	ux	ux	-	2	ZC	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+5	གོ་རིམ་	གོ་རིམ་	nn	nn	-	7	DOBJ	-	-
+6	རྙོག་འཛིང་	རྙོག་འཛིང་	as	as	-	5	HATT	-	-
+7	ལྡན་	ལྡན་	vi	vi	-	0	ROOT	-	-
+8	འདུག	འདུག	uc	uc	-	7	COMP	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	3	QATT	-	-
+2	འི	འི	gz	gz	-	1	GZ	-	-
+3	བཤད་འདོད་པ་	བཤད་འདོད་པ་	nn	nn	-	15	SUBJ	-	-
+4	ནི་	ནི་	yy	yy	-	3	YY	-	-
+5	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	15	DOBJ	-	-
+6	འདི་	འདི་	rz	rz	-	5	PRON	-	-
+7	ནི་	ནི་	yy	yy	-	6	YY	-	-
+8	ངོ་ཚ་མེད་པ	ངོ་ཚ་མེད་པ	as	as	-	10	QATT	-	-
+9	འི་	འི་	gz	gz	-	8	gz	-	-
+10	མི་ཞིག་	མི་ཞིག་	rr	rr	-	14	QATT	-	-
+11	གི་	གི་	gz	gz	-	10	GZ	-	-
+12	ངོ་ཚ་མེད་པ	ངོ་ཚ་མེད་པ	as	as	-	14	QATT	-	-
+13	འི་	འི་	gz	gz	-	12	GZ	-	-
+14	རང་ཉིད་	རང་ཉིད་	rz	rz	-	15	DOBJ	-	-
+15	ཡིན	ཡིན	up	up	-	0	ROOT	-	-
+16	།	།	lz	lz	-	15	PUNCT	-	-
+
+1	གལ་ཏེ་	གལ་ཏེ་	dx	dx	-	4	PZ	-	-
+2	དཔེ་ཁང་	དཔེ་ཁང་	nn	nn	-	4	IOBJ	-	-
+3	དུ་	དུ་	gl	gl	-	2	GL	-	-
+4	བཞག་	བཞག་	vt	vt	-	12	BLFH	-	-
+5	ན་	ན་	cn	cn	-	4	GLC	-	-
+6	བཙོང་མི་ཐུབ་པ	བཙོང་མི་ཐུབ་པ	nn	nn	-	8	QATT	-	-
+7	འི་	འི་	gz	gz	-	8	GZ	-	-
+8	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	10	DOBJ	-	-
+9	ཞིག་	ཞིག་	mg	mg	-	10	DIG	-	-
+10	རེད་	རེད་	up	up	-	0	ROOT	-	-
+11	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	ནང་དོན་	ནང་དོན་	nn	nn	-	5	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	དོན་སྙིང་	དོན་སྙིང་	nn	nn	-	5	DOBJ	-	-
+4	མི་	མི་	df	df	-	5	DF	-	-
+5	འདུག་	འདུག་	uc	uc	-	0	YGFH	-	-
+6	གལ་ཏེ་	གལ་ཏེ་	cx	cx	-	9	GLC	-	-
+7	ཤོག་ངོས་	ཤོག་ངོས་	nn	nn	-	9	DOBJ	-	-
+8	འགའ་	འགའ་	mg	mg	-	7	DIG	-	-
+9	སློག་	སློག་	vt	vt	-	12	BLFH	-	-
+10	ན་	ན་	cn	cn	-	9	GLC	-	-
+11	ཉོ་མཁན་	ཉོ་མཁན་	nn	nn	-	12	DOBJ	-	-
+12	ཡོད་མི་སྲིད	ཡོད་མི་སྲིད	uc	uc	-	0	ROOT	-	-
+13	།	།	lz	lz	-	12	PUNCT	-	-
+
+1	ང་	ང་	rr	rr	-	3	SUBJ	-	-
+2	ངོ་མ་	ངོ་མ་	dc	dc	-	3	ADVA	-	-
+3	རེ་ཐག་ཆད་	རེ་ཐག་ཆད་	vt	vt	-	0	COOR	-	-
+4	སོང་	སོང་	us	us	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+6	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	7	FH	-	-
+7	ཡིད་ཆད་པ་	ཡིད་ཆད་པ་	vi	vi	-	13	COOR	-	-
+8	རེད	རེད	up	up	-	7	ZC	-	-
+9	།	།	lz	lz	-	7	PUNCT	-	-
+10	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	15	DOBJ	-	-
+11	འདི་	འདི་	rz	rz	-	10	PRON	-	-
+12	དོན་མེད་	དོན་མེད་	as	as	-	13	ADVA	-	-
+13	ཉོས་པ་	ཉོས་པ་	vt	vt	-	0	ROOT	-	-
+14	རེད	རེད	up	up	-	13	ZC	-	-
+15	།	།	lz	lz	-	13	PUNCT	-	-
+
+1	གཟའ་འཁོར་	གཟའ་འཁོར་	tt	tt	-	3	TA	-	-
+2	གཉིས་	གཉིས་	mj	mj	-	1	DIG	-	-
+3	འགོར་	འགོར་	vi	vi	-	7	FH	-	-
+4	སོང་	སོང་	us	us	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+6	ད་དུང་	ད་དུང་	tt	tt	-	7	TA	-	-
+7	ཐག་གཅོད་	ཐག་གཅོད་	nv	nv	-	0	ROOT	-	-
+8	བྱས་	བྱས་	ux	ux	-	7	ZC	-	-
+9	མེད	མེད	df	df	-	7	DF	-	-
+10	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	5	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	གསང་མིག་	གསང་མིག་	nn	nn	-	5	DOBJ	-	-
+4	མི་	མི་	df	df	-	5	DF	-	-
+5	རྙེད་པ་	རྙེད་པ་	vi	vi	-	0	ROOT	-	-
+6	ཅི་ཡིན་ནམ	ཅི་ཡིན་ནམ	ry	ry	-	5	RY	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	གཟའ་འཁོར་	གཟའ་འཁོར་	tt	tt	-	3	TA	-	-
+2	གཉིས་	གཉིས་	mj	mj	-	1	DIG	-	-
+3	འགོར་	འགོར་	vi	vi	-	12	FH	-	-
+4	སོང་	སོང་	us	us	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+6	ང	ང	rr	rr	-	8	QATT	-	-
+7	འི་	འི་	gz	gz	-	6	GZ	-	-
+8	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	12	DOBJ	-	-
+9	ཅི་འདྲ་ཞིག་ཡིན་པ་	ཅི་འདྲ་ཞིག་ཡིན་པ་	ry	ry	-	8	RY	-	-
+10	ད་རུང་	ད་རུང་	tt	tt	-	12	TA	-	-
+11	མ་	མ་	df	df	-	12	DF	-	-
+12	མཐོང་	མཐོང་	vi	vi	-	0	ROOT	-	-
+13	།	།	lz	lz	-	13	PUNCT	-	-
+
+1	རྩོམ་པ་པོ་	རྩོམ་པ་པོ་	nn	nn	-	3	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	དམིགས་	དམིགས་	vt	vt	-	5	BLFH	-	-
+4	ནས་	ནས་	cn	cn	-	3	CN	-	-
+5	ཉོས་པ་	ཉོས་པ་	vt	vt	-	11	FH	-	-
+6	ཡིན	ཡིན	up	up	-	5	ZC	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+8	ནང་དོན་	ནང་དོན་	nn	nn	-	10	BL	-	-
+9	དང་	དང་	cd	cd	-	8	CD	-	-
+10	ཟབ་ཚད་	ཟབ་ཚད་	nn	nn	-	11	DOBJ	-	-
+11	ཡག་པོ་	ཡག་པོ་	as	as	-	0	ROOT	-	-
+12	མི	མི	df	df	-	13	DF	-	-
+13	འདུག	འདུག	ux	ux	-	11	ZC	-	-
+14	།	།	lz	lz	-	13	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ཆུང་མ་	ཆུང་མ་	nn	nn	-	5	DOBJ	-	-
+4	མི་	མི་	df	df	-	5	DF	-	-
+5	དགོས	དགོས	un	un	-	0	FH	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+7	ང	ང	rr	rr	-	9	QATT	-	-
+8	འི་	འི་	gz	gz	-	7	GZ	-	-
+9	ནུ་མོ་	ནུ་མོ་	nn	nn	-	14	IOBJ	-	-
+10	ལ	ལ	gl	gl	-	9	GL	-	-
+11	བྱིན་ན་	བྱིན་ན་	nn	nn	-	14	DOBJ	-	-
+12	ཡང་	ཡང་	cj	cj	-	11	CJ	-	-
+13	མི་	མི་	df	df	-	14	DF	-	-
+14	ཡག	ཡག	ad	ad	-	0	ROOT	-	-
+15	།	།	lz	lz	-	14	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	3	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	བལྟས་	བལྟས་	vt	vt	-	7	BLFH	-	-
+4	ན་	ན་	cn	cn	-	3	GLC	-	-
+5	སྤྱིར་བཏང་བ་	སྤྱིར་བཏང་བ་	dw	dw	-	7	ADVA	-	-
+6	ཞིག་	ཞིག་	ux	ux	-	5	ZC	-	-
+7	རེད	རེད	up	up	-	13	FH	-	-
+8	།	།	lz	lz	-	5	PUNCT	-	-
+9	ཀློག་ཐུབ་པ	ཀློག་ཐུབ་པ	nn	nn	-	11	QATT	-	-
+10	འི་	འི་	gz	gz	-	9	GZ	-	-
+11	རང་བཞིན་	རང་བཞིན་	nn	nn	-	13	DOBJ	-	-
+12	མི་	མི་	df	df	-	13	DF	-	-
+13	ཆེ	ཆེ	ad	ad	-	0	ROOT	-	-
+14	།	།	lz	lz	-	13	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	8	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	བལྟས་པ་	བལྟས་པ་	nn	nn	-	8	IOBJ	-	-
+4	ཙམ་	ཙམ་	dw	dw	-	8	ADVA	-	-
+5	གྱིས་	གྱིས་	gx	gx	-	4	BG	-	-
+6	ཕན་ཐོགས་	ཕན་ཐོགས་	nv	nv	-	8	DOBJ	-	-
+7	ཆེན་པོ་	ཆེན་པོ་	as	as	-	6	HATT	-	-
+8	མེད	མེད	df	df	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	5	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	དཔྱད་བརྗོད་	དཔྱད་བརྗོད་	vt	vt	-	5	DOBJ	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+5	བལྟས་	བལྟས་	vt	vt	-	9	BLFH	-	-
+6	ནས་	ནས་	cn	cn	-	5	CN	-	-
+7	ཆ་ཚང་	ཆ་ཚང་	mj	mj	-	9	DIG	-	-
+8	ཞིག་	ཞིག་	ux	ux	-	7	ZC	-	-
+9	ཉོས	ཉོས	vt	vt	-	16	ZZFH	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+11	འོན་ཀྱང་	འོན་ཀྱང་	cj	cj	-	16	CJ	-	-
+12	ལོ་ལོ་	ལོ་ལོ་	nr	nr	-	16	DOBJ	-	-
+13	ཅུང་ཙམ་	ཅུང་ཙམ་	dw	dw	-	16	ADVA	-	-
+14	ཡང་	ཡང་	cj	cj	-	13	CJ	-	-
+15	མི་	མི་	df	df	-	16	DF	-	-
+16	དགའ	དགའ	vi	vi	-	0	ROOT	-	-
+17	།	།	lz	lz	-	16	PUNCT	-	-
+
+1	དཔེ་མཚོན་རང་བཞིན་	དཔེ་མཚོན་རང་བཞིན་	nn	nn	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	ཚན་རིག་	ཚན་རིག་	nn	nn	-	4	DOBJ	-	-
+4	རྫུན་མ	་རྫུན་མ	as	as	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཆེད་ལས་	ཆེད་ལས་	nn	nn	-	2	QATT	-	-
+2	རང་བཞིན་	རང་བཞིན་	nn	nn	-	5	BL	-	-
+3	དང་	དང	cd	cd	-	2	CD	-	-
+4	མ་ལག་	མ་ལག་	nn	nn	-	5	QATT	-	-
+5	རང་བཞིན་	རང་བཞིན་	nn	nn	-	7	DOBJ	-	-
+6	མི་	མི་	df	df	-	7	DF	-	-
+7	འདང་	འདང་	vi	vi	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ཡུས་ཏན	ཡུས་ཏན	nn	nn	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	8	IOBJ	-	-
+4	རྗེས་	རྗེས་	tt	tt	-	8	TA	-	-
+5	ནས་	ནས་	gj	gj	-	4	CN	-	-
+6	ཉོ་	ཉོ་	nv	nv	-	8	DOBJ	-	-
+7	གི་	གི་	gz	gz	-	7	GZ	-	-
+8	མིན	མིན	df	df	-	14	FH	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+10	ང་ཚོ	ང་ཚོ	rr	rr	-	12	QATT	-	-
+11	འི་	འི་	gz	gz	-	10	GZ	-	-
+12	བར་དང་ཐག	བར་དང་ཐག	nn	nn	-	14	DOBJ	-	-
+13	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	14	ADVA	-	-
+14	རིང་	རིང་	ad	ad	-	0	ROOT	-	-
+15	།	།	lz	lz	-	14	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	4	SUBJ	-	-
+2	ས	ས	nr	nr	-	1	GX	-	-
+3	ཚང་མ་	ཚང་མ་	rr	rr	-	4	DOBJ	-	-
+4	ངོ་སྤྲོད་	ངོ་སྤྲོད་	nv	nv	-	0	ROOT	-	-
+5	བྱེད་	བྱེད་	ux	ux	-	4	ZC	-	-
+6	གི་	གི་	gz	gz	-	5	GZ	-	-
+7	མི	མི	nn	nn	-	4	DF	-	-
+8	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཡང་	ཡང་	cj	cj	-	7	CJ	-	-
+2	བྲིན་ཁ་རྒྱུག་པ	བྲིན་ཁ་རྒྱུག་པ	nn	nn	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	12	IOBJ	-	-
+5	ཟེར་བ་	ཟེར་བ་	as	as	-	4	HATT	-	-
+6	ཞིག་	ཞིག་	uq	uq	-	5	COMP	-	-
+7	ཀློག་པ	ཀློག་པ	vt	vt	-	9	QATT	-	-
+8	འི་	འི་	gz	gz	-	7	GZ	-	-
+9	སྐབས་སུ་	སྐབས་སུ་	tt	tt	-	12	TA	-	-
+10	ནས་	ནས་	gj	gj	-	9	CN	-	-
+11	སྤྲོ་བ་	སྤྲོ་བ་	nv	nv	-	12	DOBJ	-	-
+12	མེད	མེད	df	df	-	0	ROOT	-	-
+13	།	།	lz	lz	-	11	PUNCT	-	-
+
+1	བཤད་པ་	བཤད་པ་	nv	nv	-	4	DOBJ	-	-
+2	ཚང་མ་	ཚང་མ་	mj	mj	-	1	DIG	-	-
+3	གནས་ལུགས་	གནས་ལུགས་	nn	nn	-	4	DOBJ	-	-
+4	སྟོང་བ་	སྟོང་བ་	as	as	-	12	FH	-	-
+5	རེད	རེད	up	up	-	4	COMP	-	-
+6	།	།	lz	lz	-	4	PUNCT	-	-
+7	ང་	ང་	rr	rr	-	12	IOBJ	-	-
+8	ལ་	ལ་	gl	gl	-	7	GL	-	-
+9	ནུས་པ་	ནུས་པ་	nn	nn	-	12	DOBJ	-	-
+10	ཅི་ཡང་	ཅི་ཡང་	ry	ry	-	9	RY	-	-
+11	མི་	མི	df	df	-	12	DF	-	-
+12	འདུག	འདུག	vi	vi	-	0	ROOT	-	-
+
+1	རིན་གོང་	རིན་གོང་	nn	nn	-	4	DOBJ	-	-
+2	མཐོ་	མཐོ་	as	as	-	4	BL	-	-
+3	ལ	ལ	gl	gl	-	2	GL	-	-
+4	ཞན་པ	ཞན་པ	as	as	-	10	FH	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+6	རིས་དབྱིབས་	རིས་དབྱིབས་	nn	nn	-	10	IOBJ	-	-
+7	མི་འདྲ་	མི་འདྲ་	df	df	-	6	DF	-	-
+8	ལ་	ལ་	gl	gl	-	7	GL	-	-
+9	ཧ་ཅང་	ཧ་ཅང་	dx	dx	-	10	ADVA	-	-
+10	བཙོག་	བཙོག་	as	as	-	13	FH	-	-
+11	གཏམ་རྒྱུད་	གཏམ་རྒྱུད་	nn	nn	-	13	DOBJ	-	-
+12	དང་	དང་	cd	cd	-	11	CD	-	-
+13	འདྲ	འདྲ	ub	ub	-	0	ROOT	-	-
+14	།	།	lz	lz	-	13	PUNCT	-	-
+
+1	སློབ་ཆུང་	སློབ་ཆུང་	nn	nn	-	2	QATT	-	-
+2	སློབ་མ	སློབ་མ	nn	nn	-	6	IOBJ	-	-
+3	ར་	ར་	gl	gl	-	2	GL	-	-
+4	མཚོན་ན་	མཚོན་ན་	dx	dx	-	6	ADVA	-	-
+5	དེ་འདྲ་	དེ་འདྲ་	rz	rz	-	6	DOBJ	-	-
+6	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+7	རྒྱུ་	རྒྱུ་	us	us	-	6	ZC	-	-
+8	མེད	མེད	df	df	-	6	DF	-	-
+9	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	རི་མོ་	རི་མོ་	nn	nn	-	4	DOBJ	-	-
+2	འགའ་	འགའ་	mg	mg	-	1	DIG	-	-
+3	གསལ་བོ་	གསལ་བོ་	as	as	-	4	ADVA	-	-
+4	མིན་པ	མིན་པ	df	df	-	6	FH	-	-
+5	ས་	ས་	gx	gx	-	4	GLC	-	-
+6	བསམ་ཡུལ་ལས་འདས་པ་	བསམ་ཡུལ་ལས་འདས་པ་	vx	vx	-	0	ROOT	-	-
+7	ཞིག་	ཞིག་	ug	ug	-	6	ZC	-	-
+8	རེད	རེད	up	up	-	7	ZC	-	-
+9	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	འུད་སྒྲོག་	འུད་སྒྲོག་	nn	nn	-	3	BL	-	-
+2	དང་	དང་	cd	cd	-	1	CD	-	-
+3	བརྡ་ཁྱབ་	བརྡ་ཁྱབ་	nn	nn	-	5	QATT	-	-
+4	ཀྱི་	ཀྱི་	gz	gz	-	3	GZ	-	-
+5	དོགས་གཞི་	དོགས་གཞི་	nn	nn	-	6	DOBJ	-	-
+6	ཆེན་པོ་	ཆེན་པོ་	as	as	-	0	FH	-	-
+7	ཡོད	ཡོད	uc	uc	-	6	ZC	-	-
+8	།	།	lz	lz	-	6	PUNCT	-	-
+9	མ་	མ་	df	df	-	12	DF	-	-
+10	ཉོ་བ	ཉོ་བ	vi	vi	-	12	QATT	-	-
+11	འི་	འི་	gz	gz	-	10	GZ	-	-
+12	བསམ་འཆར	བསམ་འཆར	nn	nn	-	13	DOBJ	-	-
+13	བཏོན	བཏོན	vt	vt	-	0	ROOT	-	-
+14	།	།	lz	lz	-	13	PUNCT	-	-
+
+1	རེ་ཐག་ཆད་པ	རེ་ཐག་ཆད་པ	vi	vi	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ཚོར་བ་	ཚོར་བ་	nn	nn	-	11	IOBJ	-	-
+4	ཞིག་	ཞིག་	mg	mg	-	3	DIG	-	-
+5	ཡོད་པ་	ཡོད་པ་	uc	uc	-	14	ZC	-	-
+6	ནི་	ནི་	yy	yy	-	5	YY	-	-
+7	དེ་འདྲ	དེ་འདྲ	rz	rz	-	9	QATT	-	-
+8	འི་	འི་	gz	gz	-	7	GZ	-	-
+9	དགོད་བྲོ་བ་	དགོད་བྲོ་བ་	nn	nn	-	11	DOBJ	-	-
+10	ཞིག་	ཞིག་	mg	mg	-	9	DIG	-	-
+11	མིན་པ་	མིན་པ་	df	df	-	0	ROOT	-	-
+12	རེད	རེད	up	up	-	11	ZC	-	-
+13	།	།	lz	lz	-	11	PUNCT	-	-
+
+1	རེ་ཐག་	རེ་ཐག་	nn	nn	-	2	DOBJ	-	-
+2	ཆད་སོང་	ཆད་སོང་	as	as	-	6	ROOT	-	-
+3	།	།	lz	lz	-	2	PUNCT	-	-
+4	དགོད་རྒྱུ་	དགོད་རྒྱུ་	nn	nn	-	6	DOBJ	-	-
+5	ཅི་ཡང་	ཅི་ཡང་	ry	ry	-	4	RY	-	-
+6	མི་འདུག	མི་འདུག	df	df	-	0	ROOT	-	-
+
+1	ཕབ་གཅོག	ཕབ་གཅོག་	nn	nn	-	2	QATT	-	-
+2	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	7	DOBJ	-	-
+3	ཡིན་ན་ཡང་	ཡིན་ན་ཡང་	cj	cj	-	2	CJ	-	-
+4	སྔར་བཞིན་	སྔར་བཞིན་	tt	tt	-	7	TA	-	-
+5	རིན་ཐང་མེད་པ	རིན་ཐང་མེད་པ	nn	nn	-	7	IOBJ	-	-
+6	ར་	ར་	gl	gl	-	5	GL	-	-
+7	འདོད	འདོད	vi	vi	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ཤོག་ངོས་	ཤོག་ངོས་	nn	nn	-	9	IOBJ	-	-
+2	རེ་	རེ་	rz	rz	-	1	PRON	-	-
+3	ལ་	ལ་	gl	gl	-	2	GL	-	-
+4	ཕལ་ཆེར་	ཕལ་ཆེར་	dw	dw	-	9	ADVA	-	-
+5	ཡི་གེ་	ཡི་གེ་	nn	nn	-	9	DOBJ	-	-
+6	གཉིས་ནས་གསུམ་	གཉིས་ནས་གསུམ་	mx	mx	-	5	DIG	-	-
+8	མ་གཏོགས་	མ་གཏོགས་	dx	dx	-	9	ADVA	-	-
+9	མེད་པ་	མེད་པ་	df	df	-	0	ROOT	-	-
+10	རེད	རེད	up	up	-	9	ZC	-	-
+11	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	3	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	བསམ་	བསམ་	vt	vt	-	7	BLFH	-	-
+4	ན་	ན་	cn	cn	-	3	CJ	-	-
+5	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	7	DOBJ	-	-
+6	འདི་	འདི་	rz	rz	-	5	PRON	-	-
+7	ཉོས་	ཉོས་	vt	vt	-	10	BLFH	-	-
+8	ན་	ན་	cn	cn	-	7	CJ	-	-
+9	ང་	ང་	rr	rr	-	10	DOBJ	-	-
+10	གྱོང་གུད་	གྱོང་གུད་	vi	vi	-	0	ROOT	-	-
+11	ཐེབས་སོང	ཐེབས་སོང	vi	vi	-	10	COMP	-	-
+12	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	སྒོར་མོ་	སྒོར་མོ་	nn	nn	-	3	DOBJ	-	-
+2	འདི་	འདི་	rz	rz	-	1	PRON	-	-
+3	བཀོལ་རིན་	བཀོལ་རིན་	vt	vt	-	0	ROOT	-	-
+4	མི་འདུག	མི་འདུག	df	df	-	3	DF	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	བལྟས་	བལྟས་	nn	nn	-	4	DOBJ	-	-
+2	རྗེས་	རྗེས་	tt	tt	-	1	TA	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	4	ADVA	-	-
+4	སུན་སྣང་སྐྱེས	སུན་སྣང་སྐྱེས	vt	vt	-	11	FH	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+6	ཧ་ཅང་	ཧ་ཅང་སུན་	dx	dx	-	7	COMP	-	-
+7	སུན་པ	སུན་པ	as	as	-	9	QATT	-	-
+8	འི་	འི་	gz	gz	-	7	GZ	-	-
+9	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	11	DOBJ	-	-
+10	ཞིག་	ཞིག་	mg	mg	-	9	DIG	-	-
+11	རེད	རེད	up	up	-	0	ROOT	-	-
+12	།	།	lz	lz	-	12	PUNCT	-	-
+
+1	ང་	ང་	rr	rr	-	3	SUBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	ཁོང་ཁྲོ་ལངས	ཁོང་ཁྲོ་ལངས	vi	vi	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	ROOT	-	-
+
+1	དེ་རིང་	དེ་རིང་	tt	tt	-	2	QATT	-	-
+2	ཟླ་༥བའི་ཚེས་༧ཉིན	ཟླ་༥བའི་ཚེས་༧ཉིན	tt	tt	-	10	TA	-	-
+3	རེད་	རེད་	up	up	-	2	ZC	-	-
+4	ང	ང	rr	rr	-	10	SUBJ	-	-
+5	ས་	ས་	gx	gx	-	4	GX	-	-
+6	ད་དུང་	ད་དུང་	tt	tt	-	10	TA	-	-
+7	དཔེ་ཆ	དཔེ་ཆ	nn	nn	-	9	QATT	-	-
+8	འི་	འི་	gz	gz	-	7	GZ	-	-
+9	གྲིབ་མ་	གྲིབ་མ་	nn	nn	-	10	DOBJ	-	-
+10	མཐོང་	མཐོང་	vi	vi	-	0	ROOT	-	-
+11	མ་བྱུང་	མ་བྱུང་	vi	vi	-	10	COMP	-	-
+12	།	།	lz	lz	-	11	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	4	DOBJ	-	-
+2	འདི་	འདི་	rz	rz	-	1	PRON	-	-
+3	དེ་འདྲ་	དེ་འདྲ་	rz	rz	-	5	DOBJ	-	-
+4	བཟང་རྒྱུ་	བཟང་རྒྱུ་	as	as	-	5	ADVA	-	-
+5	མེད	མེད	df	df	-	0	ROOT	-	-
+6	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ངོ་མ་	ངོ་མ་	dc	dc	-	2	COMP	-	-
+2	བཟང་གི་	བཟང་གི་	ad	ad	-	3	ADVA	-	-
+3	མི་འདུག	མི་འདུག	vi	vi	-	8	FH	-	-
+4	བྱིས་སྒྲུང་	བྱིས་སྒྲུང་	nn	nn	-	6	IOBJ	-	-
+5	དང་	དང་	cd	cd	-	5	CD	-	-
+6	ཅུང་ཙམ་	ཅུང་ཙམ་	dw	dw	-	8	ADVA	-	-
+7	ཡང་	ཡང་	cj	cj	-	6	CJ	-	-
+8	མི་འདྲ	མི་འདྲ	ub	ub	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	བྱིས་	བྱིས་	nn	nn	-	3	IOBJ	-	-
+2	ནས་	ནས་	gj	gj	-	1	CJ	-	-
+3	བཤད་	བཤད་	vt	vt	-	6	BLFH	-	-
+4	ན་	ན་	cn	cn	-	3	GLC	-	-
+5	སྤྲོ་བ་	སྤྲོ་བ་	nn	nn	-	6	DOBJ	-	-
+6	མེད	མེད	df	df	-	0	ROOT	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	མི་རྣམས་	མི་རྣམས་	rr	rr	-	3	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	བལྟས་ན་	བལྟས་ན་	vt	vt	-	6	FH	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dx	dx	-	6	ADVA	-	-
+5	མི་	མི་	nn	nn	-	6	DF	-	-
+6	བདེ་བ་	བདེ་བ་	as	as	-	0	ROOT	-	-
+7	རེད	རེད	up	up	-	6	ZC	-	-
+8	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཤོག་བུ་	ཤོག་བུ་	nn	nn	-	4	DOBJ	-	-
+2	མང་ཆེ་བ་	མང་ཆེ་བ་	mz	mz	-	1	DIG	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dx	dx	-	4	ADVA	-	-
+4	ཞན	ཞན	as	as	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	པར་འདེབས་	པར་འདེབས་	nn	nn	-	2	QATT	-	-
+2	སྤུས་ཚད་	སྤུས་ཚད་	nn	nn	-	4	DOBJ	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dx	dx	-	3	ADVA	-	-
+4	ཞན	ཞན	as	as	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཡིད་མི་ཚིམ་	ཡིད་མི་ཚིམ་	as	as	-	6	FH	-	-
+2	ན་	ན་	gl	gl	-	1	GLC	-	-
+3	ང	ང	rr	rr	-	6	SUBJ	-	-
+4	ས་	ས་	gx	gx	-	3	GX	-	-
+5	དངོས་པོ་	དངོས་པོ་	hh	hh	-	6	DOBJ	-	-
+6	ཕྱིར་སློག་	ཕྱིར་སློག་	vt	vt	-	9	BLFH	-	-
+7	ནས་	ནས་	cn	cn	-	6	CJ	-	-
+8	གཅིག་	གཅིག་	mj	mj	-	9	DIG	-	-
+9	བརྗེ་	བརྗེ་	vt	vt	-	0	ROOT	-	-
+10	དགོས	དགོས	un	un	-	9	ZC	-	-
+11	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	སྤྱོད་པ	སྤྱོད་པ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ཡག་པོ་	ཡག་པོ་	as	as	-	0	ROOT	-	-
+4	མི་འདུག	མི་འདུག	df	df	-	3	DF	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ང་	ང་	rr	rr	-	4	IOBJ	-	-
+2	ལ	ལ་	nr	nr	-	1	GL	-	-
+3	པ་སེ་	པ་སེ་	nr	nr	-	4	DOBJ	-	-
+4	མི་སྟེར་	མི་སྟེར་	vt	vt	-	7	FH	-	-
+5	དོན་	དོན་	nn	nn	-	7	DOBJ	-	-
+6	ཅི་	ཅི་	ry	ry	-	5	RY	-	-
+7	ཡིན	ཡིན	up	up	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ང་	ང་	rr	rr	-	6	SUBJ	-	-
+2	རྗེས་ཕྱོགས་	རྗེས་ཕྱོགས་	tt	tt	-	6	TA	-	-
+3	ཅིན་ཏུང་	ཅིན་ཏུང་	nr	nr	-	6	IOBJ	-	-
+4	ལ་	ལ་	nr	nr	-	3	GL	-	-
+5	དངོས་པོ་	དངོས་པོ་	nn	nn	-	6	DOBJ	-	-
+6	ཉོ་རུ་འགྲོ་	ཉོ་རུ་འགྲོ་	vt	vt	-	0	ROOT	-	-
+7	གི་	གི་	gz	gz	-	6	GZ	-	-
+8	མིན	མིན	df	df	-	6	DF	-	-
+9	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	གཏན་ནས་	གཏན་ནས་	dc	dc	-	3	ADVA	-	-
+2	མ་	མ་	df	df	-	3	DF	-	-
+3	ཉོ	ཉོ	vt	vt	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	རིན་གོང་	རིན་གོང་	nn	nn	-	3	DOBJ	-	-
+2	སླ་མོ་	སླ་མོ་	as	as	-	1	HATT	-	-
+3	ཡིན་ན་	ཡིན་ན་	up	up	-	6	FH	-	-
+4	དངོས་པོ་	དངོས་པོ་	nn	nn	-	6	DOBJ	-	-
+5	བཟང་པོ་	བཟང་པོ་	as	as	-	6	ADVA	-	-
+6	མེད	མེད	df	df	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	དངོས་པོ་	དངོས་པོ་	nn	nn	-	2	DOBJ	-	-
+2	བཟང་	བཟང་	ad	ad	-	8	VA	-	-
+3	ལ་	ལ་	nr	nr	-	2	GL	-	-
+4	ཅིན་ཏུང་	ཅིན་ཏུང་	nr	nr	-	6	QATT	-	-
+5	གི་	གི་	gz	gz	-	4	GZ	-	-
+6	ཞབས་ཞུ་	ཞབས་ཞུ་	nv	nv	-	8	DOBJ	-	-
+7	ཧ་ཅང་	ཧ་ཅང་	dx	dx	-	8	ADVA	-	-
+8	ཞན	ཞན	nr	nr	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-
+
+1	བདེན་	བདེན་	nn	nn	-	4	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	མ་	མ་	df	df	-	4	DF	-	-
+4	རེད	རེད	up	up	-	0	FOOR	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	རང་ཚུགས་	རང་ཚུགས་	nn	nn	-	3	DOBJ	-	-
+2	མ་	མ་	df	df	-	3	DF	-	-
+3	ཤོར	ཤོར	vi	vi	-	7	FH	-	-
+4	དང	དང	cd	cd	-	3	CD	-	-
+5	གཞན་སེམས་	གཞན་སེམས་	nn	nn	-	7	DOBJ	-	-
+6	མ་	མ་	df	df	-	7	DF	-	-
+7	དཀྲུགས	དཀྲུགས	vt	vt	-	0	COOR	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ངོ་མ་	ངོ་མ་	as	as	-	3	ADVA	-	-
+2	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	4	DOBJ	-	-
+3	བཟང་བོ་ཞིག་རེད	བཟང་བོ་ཞིག་རེད	vp	vp	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	རྒྱ་ཡིག་	རྒྱ་ཡིག་	nn	nn	-	3	QATT	-	-
+2	གི་	གི་	gz	gz	-	1	GZ	-	-
+3	བུད་མེད་	བུད་མེད་	nn	nn	-	5	QATT	-	-
+4	ཀྱི་	ཀྱི་	gz	gz	-	3	GZ	-	-
+5	སྐད་	སྐད་	nn	nn	-	7	DOBJ	-	-
+6	ཡང་	ཡང་	cj	cj	-	5	CJ	-	-
+7	ཧ་ཅང་བཟང་	ཧ་ཅང་བཟང་	vp	vp	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ད་ལྟ་	ད་ལྟ་	tt	tt	-	5	TA	-	-
+2	ཁོ་མོ་	ཁོ་མོ་	rr	rr	-	5	SUBJ	-	-
+3	ཁྲིན་ཏུའུ་	ཁྲིན་ཏུའུ་	ns	ns	-	5	FOBJ	-	-
+4	ན་	ན་	gl	gl	-	3	GL	-	-
+5	ཡོད་	ཡོད་	vi	vi	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཁོ་ཚོ	ཁོ་ཚོ	rr	rr	-	4	IOBJ	-	-
+2	ར་	ར་	gl	gl	-	1	GL	-	-
+3	བློ་སྒོ་	བློ་སྒོ་	nn	nn	-	4	DOBJ	-	-
+4	འབྱེད་ཐུབ་པ	འབྱེད་ཐུབ་པ	vt	vt	-	6	YGFH	-	-
+5	ར་	ར་	gl	gl	-	4	GL	-	-
+6	ཡིད་ཆེས་	ཡིད་ཆེས་	vi	vi	-	0	ROOT	-	-
+7	ཡོད	ཡོད	uc	uc	-	6	ZC	-	-
+8	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཚང་མ	ཚང་མ	mz	mz	-	4	DIG	-	-
+2	ས	ས	gx	gx	-	1	GX	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	4	ADVA	-	-
+4	དགའ་བསུ་	དགའ་བསུ་	vi	vi	-	0	ROOT	-	-
+5	བྱེད	བྱེད	ux	ux	-	4	ZC	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	དཔེ་ཆ	དཔེ་ཆ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ནང་	ནང་	ff	ff	-	8	FOBJ	-	-
+4	དུ་	དུ་	gl	gl	-	3	GL	-	-
+5	རིན་བྲལ་	རིན་བྲལ་	as	as	-	7	QATT	-	-
+6	གྱི་	གྱི་	gz	gz	-	5	GZ	-	-
+7	ཤེས་བྱ་	ཤེས་བྱ་	nn	nn	-	8	DOBJ	-	-
+8	ཡོད	ཡོད	uc	uc	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	ཐུམ་སྒྲིལ་	ཐུམ་སྒྲིལ་	nn	nn	-	2	DOBJ	-	-
+2	ཡག་པོ	ཡག་པོ་	as	as	-	0	ROOT	-	-
+3	འདུག	འདུག	uc	uc	-	2	ZC	-	-
+4	།	།	lz	lz	-	2	PUNCT	-	-
+
+1	ལས་གནས་	ལས་གནས་	nn	nn	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	མི་སྣ་	མི་སྣ་	nn	nn	-	8	SUBJ	-	-
+4	ཚང་མ	ཚང་མ	mz	mz	-	3	DIG	-	-
+5	ས་	ས	gx	gx	-	4	GX	-	-
+6	རང་ཉིད་	རང་ཉིད་	rz	rz	-	8	IOBJ	-	-
+7	ལ་	ལ་	gl	gl	-	6	GL	-	-
+8	རྒྱབ་སྐྱོར་བྱེད་	རྒྱབ་སྐྱོར་བྱེད་	vi	vi	-	0	PUNCT	-	-
+9	ཆོག	ཆོག	un	un	-	8	ZC	-	-
+10	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	ཚང་མ	ཚང་མ	rr	rr	-	3	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	ཀློག་	ཀློག་	vt	vt	-	6	BLFH	-	-
+4	ན་	ན་	cn	cn	-	3	CN	-	-
+5	ཕན་པ་	ཕན་པ་	nr	nr	-	6	DOBJ	-	-
+6	ཡོད་པ་	ཡོད་པ་	uc	uc	-	0	ROOT	-	-
+7	རེད	རེད	up	up	-	6	ZYQA	-	-
+8	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	8	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	མུ་མཐུད་དུ་	མུ་མཐུད་དུ་	dp	dp	-	8	ADVA	-	-
+4	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	8	DOBJ	-	-
+5	བཟང་བོ་	བཟང་བོ་	as	as	-	4	HATT	-	-
+6	འདི་	འདི་	rz	rz	-	4	PRON	-	-
+7	ལ་	ལ་	gl	gl	-	6	GL	-	-
+8	བྲོ་བ་མྱོང་དགོས	བྲོ་བ་མྱོང་དགོས	vi	vi	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	འཐབ་གྲོགས་ཚོ	འཐབ་གྲོགས་ཚོ	rn	rn	-	9	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	ཕུ་བོ་	ཕུ་བོ་	nn	nn	-	4	QATT	-	-
+4	ཧའོ་ལགས་	ཧའོ་ལགས་	nr	nr	-	6	QATT	-	-
+5	ཀྱི་	ཀྱི་	gz	gz	-	4	GZ	-	-
+6	དཔེ་དེབ་	དཔེ་དེབ་	nn	nn	-	9	DOBJ	-	-
+7	རིགས་	རིགས་	qj	qj	-	6	LA	-	-
+8	ལ	ལ་	gl	gl	-	7	GL	-	-
+9	རྒྱབ་སྐྱོར་ཡོད	རྒྱབ་སྐྱོར་ཡོད	vi	vi	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	2	COMP	-	-
+2	བཟང་བ	བཟང་བ	as	as	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	6	DOBJ	-	-
+5	ཞིག་	ཞིག་	mg	mg	-	4	DIG	-	-
+6	རེད	རེད	up	up	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	རྒན་རྒོན་ཚོ	རྒན་རྒོན་ཚོ	rr	rr	-	5	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	4	COMP	-	-
+4	དགའ་པོ་	དགའ་པོ་	as	as	-	5	ADVA	-	-
+5	བྱེད་ཀྱི་འདུག	བྱེད་ཀྱི་འདུག	vi	vi	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ལས་གྲོགས་	ལས་གྲོགས་	nn	nn	-	3	BL	-	-
+2	དང་	དང་	cd	cd	-	1	CD	-	-
+3	གྲོགས་པོ་	གྲོགས་པོ་	nn	nn	-	6	IOBJ	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+5	ངོ་སྤྲོད་	ངོ་སྤྲོད་	nv	nv	-	6	DOBJ	-	-
+6	བྱས	བྱས	ux	ux	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	བྱིས་པ་	བྱིས་པ་	nn	nn	-	4	IOBJ	-	-
+2	ཆུང་ཆུང	ཆུང་ཆུང	as	as	-	1	HATT	-	-
+3	ལ་	ལ་	nr	nr	-	2	GL	-	-
+4	སྦྱིན་	སྦྱིན་	vt	vt	-	9	BLFH	-	-
+5	ན་	ན་	cn	cn	-	4	FW	-	-
+6	ལེགས་སྐྱེས་	ལེགས་སྐྱེས་	nn	nn	-	9	DOBJ	-	-
+7	བཟང་བོ་	བཟང་བོ་	as	as	-	9	ADVA	-	-
+8	ཞིག་	ཞིག་	ug	ug	-	9	ZC	-	-
+9	ཡིན	ཡིན	up	up	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ཁྱིམ་མི་	ཁྱིམ་མི་	nn	nn	-	6	DOBJ	-	-
+4	ཚང་མ་	ཚང་མ་	mz	mz	-	3	DIG	-	-
+5	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	6	COMP	-	-
+6	དགའ	དགའ	ad	ad	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ང་	ང་	rr	rr	-	5	SUBJ	-	-
+2	དང་	དང་	cd	cd	-	1	CD	-	-
+3	མཉམ་དུ་	མཉམ་དུ་	dw	dw	-	5	ADVA	-	-
+4	ཁ་བརྡ་བྱེད་པ	ཁ་བརྡ་བྱེད་པ	nn	nn	-	5	IOBJ	-	-
+5	ར་	ར་	gl	gl	-	4	GL	-	-
+6	དགའ་བསུ་ཞུ	དགའ་བསུ་ཞུ	vp	vp	-	0	ROOT	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	མོ	མོ	rr	rr	-	3	SUBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dw	dw	-	3	ADVA	-	-
+3	དགའ	དགའ	vi	vi	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	དེབ་	དེབ་	nn	nn	-	4	DOBJ	-	-
+2	དེ་	དེ་	rz	rz	-	1	PRON	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	4	ADVA	-	-
+4	ཡག་པོ་འདུག	ཡག་པོ་འདུག	as	as	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ང་	ང་	rr	rr	-	3	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	ཡིད་ཆེས་	ཡིད་ཆེས་	vt	vt	-	0	ROOT	-	-
+4	བྱོས་	བྱོས་	us	us	-	3	ZC	-	-
+5	དང་	དང་	cd	cd	-	4	CN	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ངོ་མ་	ངོ་མ་	as	as	-	6	ADVA	-	-
+2	རིན་ཐང་ལྡན་པ	རིན་ཐང་ལྡན་པ	nn	nn	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	6	DOBJ	-	-
+5	ཞིག་	ཞིག་	mg	mg	-	4	DIG	-	-
+6	རེད	རེད	up	up	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	གཏམ་རྒྱུད་	གཏམ་རྒྱུད་	nn	nn	-	2	DOBJ	-	-
+2	ཡག་པོ་འདུག	ཡག་པོ་འདུག	as	as	-	0	ROOT	-	-
+3	།	།	lz	lz	-	2	PUNCT	-	-
+
+1	པར་འདེབས་	པར་འདེབས་	nn	nn	-	3	DOBJ	-	-
+2	མཛེས་པོ་	མཛེས་པོ་	as	as	-	3	ADVA	-	-
+3	འདུག	འདུག	vi	vi	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	གྲོགས་པོ་	གྲོགས་པོ་	nn	nn	-	4	IOBJ	-	-
+2	གཞན་	གཞན་	rz	rz	-	1	PRON	-	-
+3	ལ་	ལ་	gl	gl	-	2	GL	-	-
+4	བྱིན་	བྱིན་	vt	vt	-	7	BLFH	-	-
+5	ན	ན	gl	gl	-	4	GLC	-	-
+6	ཡང་	ཡང་	cj	cj	-	5	CJ	-	-
+7	ཡག་པོ་འདུག	ཡག་པོ་འདུག	as	as	-	0	ROOT	-	-
+8	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	2	ADVA	-	-
+2	དགའ་པོ་འདུག	དགའ་པོ་འདུག	vi	vi	-	0	ROOT	-	-
+3	།	།	lz	lz	-	2	PUNCT	-	-
+
+1	ད་ལྟ	ད་ལྟ	tt	tt	-	7	TA	-	-
+2	འི་	འི་	gz	gz	-	2	GZ	-	-
+3	འཚོ་བ་	འཚོ་བ་	nn	nn	-	5	BL	-	-
+4	དང་	དང་	cd	cd	-	3	CD	-	-
+5	བརྩེ་དུང་	བརྩེ་དུང་	nn	nn	-	7	DOBJ	-	-
+6	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	7	ADVA	-	-
+7	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	3	DOBJ	-	-
+2	འདི་	འདི་	rz	rz	-	1	PRON	-	-
+3	ཀློག་	ཀློག་	vt	vt	-	6	FH	-	-
+4	ན་	ན་	cn	cn	-	3	GLC	-	-
+5	བྲོ་བ་	བྲོ་བ་	nn	nn	-	6	DOBJ	-	-
+6	རྫོགས་མཐའ་མེད	རྫོགས་མཐའ་མེད	vi	vi	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	5	DOBJ	-	-
+2	བཟང་པོ་	བཟང་པོ་	as	as	-	1	HATT	-	-
+3	ཚང་མ	ཚང་མ་	dw	dw	-	5	ADVA	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+5	ཉམ་སྤྱོད་བྱེད་དགོས	ཉམ་སྤྱོད་བྱེད་དགོས	vi	vi	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	སྤྲོ་སེམས་འཁོལ་བ	སྤྲོ་སེམས་འཁོལ་བ	as	as	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ངང་ནས་	ངང་ནས་	dc	dc	-	6	ADVA	-	-
+4	ཚང་མ	ཚང་མ	rr	rr	-	6	IOBJ	-	-
+5	ར་	ར་	gl	gl	-	4	GL	-	-
+6	ངོ་སྤྲོད་བྱེད	ངོ་སྤྲོད་བྱེད	vp	vp	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	དཔེ་ཆ	དཔེ་ཆ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ནང་	ནང་	nn	nn	-	5	QATT	-	-
+4	གི་	གི་	gz	gz	-	3	GZ	-	-
+5	སྐད་ཆ་	སྐད་ཆ་	nn	nn	-	11	SUBJ	-	-
+6	གཅིག་	གཅིག་	mj	mj	-	5	DIG	-	-
+7	གིས་	གིས་	gx	gx	-	6	GX	-	-
+8	ང་	ང་	rr	rr	-	11	IOBJ	-	-
+9	ལ་	ལ་	gl	gl	-	8	GL	-	-
+10	བག་ཆགས་ཟབ་མོ་	བག་ཆགས་ཟབ་མོ་	as	as	-	11	ADVA	-	-
+11	བཞག	བཞག	vt	vt	-	0	ROOT	-	-
+12	།	།	lz	lz	-	11	PUNCT	-	-
+
+1	ང་ཚོ	ང་ཚོ	rr	rr	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	གྲོང་ཚོ	གྲོང་ཚོ་	nn	nn	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	ལག་ཤེས་པ	ལག་ཤེས་པ	nn	nn	-	6	QATT	-	-
+6	བཀྲ་ཤིས་	བཀྲ་ཤིས་	nr	nr	-	8	QATT	-	-
+7	ཀྱི་	ཀྱི་	gz	gz	-	6	GZ	-	-
+8	བུ	བུ	nn	nn	-	21	SUBJ	-	-
+9	ས་	ས་	gx	gx	-	8	GX	-	-
+10	རྣོ་ངར་	རྣོ་ངར་	nn	nn	-	13	QATT	-	-
+11	ཆེ་བ	ཆེ་བ	as	as	-	10	HATT	-	-
+12	འི	འི	gz	gz	-	11	GZ	-	-
+13	སྟ་རེ་	སྟ་རེ་	nn	nn	-	21	SUBJ	-	-
+14	ཡིས	ཡིས	gx	gx	-	13	GX	-	-
+15	ནགས་ཚལ་	ནགས་ཚལ་	nn	nn	-	18	QATT	-	-
+16	སྟུག་པོ	སྟུག་པོ	as	as	-	15	HATT	-	-
+17	འི	འི	gz	gz	-	16	GZ	-	-
+18	ནང་	ནང	ff	ff	-	21	FOBJ	-	-
+19	སྡོང་པོ	སྡོང་པོ	nn	nn	-	21	DOBJ	-	-
+20	མང་པོ་	མང་པོ་	ax	ax	-	19	HATT	-	-
+21	བཅད	བཅད	vt	vt	-	0	ROOT	-	-
+22	།	།	lz	lz	-	21	PUNCT	-	-
+
+1	ང་	ང་	rr	rr	-	4	SUBJ	-	-
+2	ཡང་	ཡང་	cj	cj	-	1	CJ	-	-
+3	ཤིན་ཏུ་	ཤིན་ཏུ་	dc	dc	-	4	COMP	-	-
+4	དགའ	དགའ	ad	ad	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཏང་	ཏང་	nt	nt	-	3	QATT	-	-
+2	གི་	གི་	gz	gz	-	1	GZ	-	-
+3	ཞབས་ཞུ་	ཞབས་ཞུ་	nv	nv	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	གནད་ལ་འཁེལ་བ་	གནད་ལ་འཁེལ་བ་	vi	vi	-	0	ROOT	-	-
+6	ཞིག་	ཞིག་	ug	ug	-	5	ZC	-	-
+7	རེད	རེད	up	up	-	5	ZC	-	-
+8	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	3	DOBJ	-	-
+2	གཉིས་	གཉིས་	mj	mj	-	1	DIG	-	-
+3	ཉོས་	ཉོས་	vi	vi	-	7	BLFH	-	-
+4	ན་	ན་	cj	cj	-	3	GLC	-	-
+5	་ཡང་	་ཡང་	cj	cj	-	4	CJ	-	-
+6	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	6	ADVA	-	-
+7	དགའ	དགའ	ad	ad	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ཁོ་་	ཁོ་་	rr	rr	-	3	SUBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	as	as	-	3	ADVA	-	-
+3	དགའ	དགའ	vi	vi	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	གཟའ་ཟླ་བ	གཟའ་ཟླ་བ	tt	tt	-	6	TA	-	-
+2	ར་	ར་	gl	gl	-	1	GL	-	-
+3	སློབ་མ་	སློབ་མ་	nn	nn	-	6	IOBJ	-	-
+4	རྣམས་	རྣམས་	qj	qj	-	3	LA	-	-
+5	ལ་	ལ་	gl	gl	-	4	GL	-	-
+6	སྦྱིན་རྒྱུ་	སྦྱིན་རྒྱུ་	vt	vt	-	0	ROOT	-	-
+7	ཡིན	ཡིན	up	up	-	6	ZC	-	-
+8	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	དངོས་པོ་	དངོས་པོ་	nn	nn	-	2	DOBJ	-	-
+2	བསྐུར་བ་	བསྐུར་བ་	vt	vt	-	4	FH	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	4	ADVA	-	-
+4	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	དངོས་གནས་	དངོས་གནས་	dx	dx	-	5	ADVA	-	-
+2	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	5	DOBJ	-	-
+3	ཡག་པོ་	ཡག་པོ་	as	as	-	5	ADVA	-	-
+4	ཞིག་	ཞིག་	mg	mg	-	5	DIG	-	-
+5	ཀློག་	ཀློག་	vt	vt	-	0	ROOT	-	-
+6	དགོས	དགོས	un	un	-	5	ZC	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཁོ་མོ	ཁོ་མོ	rr	rr	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	6	IOBJ	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+5	ཡང་	ཡང་	cj	cj	-	4	CJ	-	-
+6	དགའ	དགའ	vi	vi	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	དབྱེ་ཞིབ་བྱས་པ་	དབྱེ་ཞིབ་བྱས་པ་	nv	nv	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVCA	-	-
+3	གསལ་བོ་	གསལ་བོ་	as	as	-	0	ROOT	-	-
+4	རེད	རེད	up	up	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	གནས་ལུགས་	གནས་ལུགས་	nn	nn	-	5	DOBJ	-	-
+2	མང་པོ་	མང་པོ་	mx	mx	-	1	DIG	-	-
+3	ཞིག་	ཞིག་	ug	ug	-	2	ZC	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	ཡག་པོ་	ཡག་པོ་	as	as	-	0	ROOT	-	-
+6	རེད	རེད	up	up	-	5	ZC	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	རབ་ཡིན་ན་	རབ་ཡིན་ན་	dc	dc	-	5	ADVA	-	-
+2	དེབ་	དེབ་	nn	nn	-	5	DOBJ	-	-
+3	གསུམ་	གསུམ་	mj	mj	-	2	DIG	-	-
+4	མཉམ་དུ་	མཉམ་དུ་	dw	dw	-	5	ADVA	-	-
+5	བལྟས་	བལྟས་	vt	vt	-	6	FH	-	-
+5	ན་	ན་	gl	gl	-	5	GLC	-	-
+6	བཟང་	བཟང་	as	as	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཡུལ་དངོས་	ཡུལ་དངོས་	nn	nn	-	6	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	COMP	-	-
+3	རྒྱ་ཆེ་	རྒྱ་ཆེ་	as	as	-	5	BL	-	-
+4	ཞིང་	ཞིང་	cd	cd	-	3	CN	-	-
+5	བརྗིད་ཉམས་	བརྗིད་ཉམས་	as	as	-	0	ROOT	-	-
+6	ལྡན	ལྡན	uc	uc	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	བྱུང་རིམ་	བྱུང་རིམ་	nn	nn	-	4	SUBJ	-	-
+2	གྱིས་	གྱིས་	gx	gx	-	1	GX	-	-
+3	མི་སེམས་	མི་སེམས་	nn	nn	-	4	DOBJ	-	-
+4	འགུག་	འགུག་	vt	vt	-	0	ROOT	-	-
+5	ཐུབ	ཐུབ	un	un	-	4	ZC	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	པར་འདེབས་	པར་འདེབས་	nn	nn	-	3	BL	-	-
+2	དང་	དང་	cd	cd	-	1	CN	-	-
+3	པར་སྒྲིག་	པར་སྒྲིག་	nn	nn	-	7	DOBJ	-	-
+4	གང་ཡིན་རུང	གང་ཡིན་རུང	ry	ry	-	3	PRON	-	-
+5	ཚང་མ་	་ཚང་མ་	qx	qx	-	3	LA	-	-
+6	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	7	ADVA	-	-
+7	ཡག་པོ་འདུག	ཡག་པོ་འདུག	as	as	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	7	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	ཕུལ་བྱུང་	ཕུལ་བྱུང་	as	as	-	5	QATT	-	-
+4	གི་	གི་	gz	gz	-	3	GZ	-	-
+5	བརྩམས་ཆོས་	བརྩམས་ཆོས་	nn	nn	-	7	DOBJ	-	-
+6	འདི་དག་	འདི་དག་	rz	rz	-	5	PRON	-	-
+7	བྲིས་པ	བྲིས་པ	vt	vt	-	9	YGFH	-	-
+8	ར་	ར་	gl	gl	-	7	GL	-	-
+9	བཀའ་དྲིན་ཆེ་ཞུ	བཀའ་དྲིན་ཆེ་ཞུ	vi	vi	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	རྩོམ་པ་པོ	རྩོམ་པ་པོ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	རྩོམ་རྩལ་	རྩོམ་རྩལ་	nn	nn	-	4	DOBJ	-	-
+4	ཡག་པོ་འདུག	ཡག་པོ་འདུག	as	as	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	དེ་	དེ་	rz	rz	-	9	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	ལྟོས་མེད་	ལྟོས་མེད་	as	as	-	5	QATT	-	-
+4	ཀྱི་	ཀྱི་	gz	gz	-	3	GZ	-	-
+5	དྭངས་གཙང་	དྭངས་གཙང་	as	as	-	7	QATT	-	-
+6	གི་	གི་	gz	gz	-	5	GZ	-	-
+7	ཆུ་དཔྱད་	ཆུ་དཔྱད་	nn	nn	-	9	DOBJ	-	-
+8	ཅིག་	ཅིག་	mg	mg	-	7	DIG	-	-
+9	རེད	རེད	up	up	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	དངོས་པོ་	དངོས་པོ་	nn	nn	-	2	QATT	-	-
+2	སྐྱེལ་བ	སྐྱེལ་བ	nn	nn	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	མྱུར་ཚད་	མྱུར་ཚད་	nn	nn	-	7	DOBJ	-	-
+5	ཀྱང་	ཀྱང་	cj	cj	-	4	CJ	-	-
+6	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	7	ADVA	-	-
+7	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	འཚེམ་སྒྲིག་བྱས	འཚེམ་སྒྲིག་བྱས	nn	nn	-	4	DOBJ	-	-
+2	ན	ན	gl	gl	-	1	GL	-	-
+3	ཡང་	ཡང་	cj	cj	-	2	CJ	-	-
+4	སྟབས་བདེ་བོ་	སྟབས་བདེ་བོ་	as	as	-	0	ROOT	-	-
+5	རེད	རེད	up	up	-	4	ZC	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	6	IOBJ	-	-
+2	འདི་	འདི་	rz	rz	-	1	PRON	-	-
+3	ལ་	ལ་	gl	gl	-	2	GL	-	-
+4	ཞིབ་འཇུག་	ཞིབ་འཇུག་	nv	nv	-	6	DOBJ	-	-
+5	ཞིབ་མོ་	ཞིབ་མོ་	as	as	-	4	HATT	-	-
+6	བྱེད་རིན་	བྱེད་རིན་	vi	vi	-	0	ROOT	-	-
+7	ཡོད	ཡོད	uc	uc	-	6	ZC	-	-
+8	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	XS	-	-
+3	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	དགེ་རྒན་	དགེ་རྒན་	nn	nn	-	2	QATT	-	-
+2	ཀྲོའུ་	ཀྲོའུ་	nn	nn	-	5	QATT	-	-
+3	ལགས་	ལགས་	uc	uc	-	2	ZC	-	-
+4	ཀྱི་	ཀྱི་	gz	gz	-	3	GZ	-	-
+5	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	6	DOBJ	-	-
+6	ཀློག་རིན་	ཀློག་རིན་་	vi	vi	-	0	ROOT	-	-
+7	ཡོད་པ་	ཡོད་པ	ux	ux	-	6	ZC	-	-
+8	ཁོ་ཐག་ཡིན	ཁོ་ཐག་ཡིན	up	up	-	6	ZC	-	-
+
+1	ང	ང	rr	rr	-	9	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	ཚང་མ	ཚང་མ	rr	rr	-	9	IOBJ	-	-
+4	ར་	ར་	gl	gl	-	3	GL	-	-
+5	གཟབ་ནན་	གཟབ་ནན་	as	as	-	9	ADVA	-	-
+6	གྱིས་	གྱིས་	gx	gx	-	5	GX	-	-
+7	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	9	DOBJ	-	-
+8	འདི་	འདི་	rz	rz	-	7	PRON	-	-
+9	ངོ་སྤྲོད་	ངོ་སྤྲོད་	vi	nv	-	0	ROOT	-	-
+10	བྱེད	བྱེད	ux	ux	-	9	ZC	-	-
+11	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	ལྷག་ཏུ་	ལྷག་ཏུ་	dc	dc	-	8	ADVA	-	-
+2	ལོ་རིམ་	ལོ་རིམ་	nn	nn	-	6	QATT	-	-
+3	བཞི་ལྔ་ཅན་	བཞི་ལྔ་ཅན་	mj	mj	-	2	DIG	-	-
+4	གྱི་	གྱི་	gz	gz	-	5	GZ	-	-
+5	སློབ་ཆུང་	སློབ་ཆུང་	nn	nn	-	6	QATT	-	-
+6	སློབ་མ	སློབ་མ	nn	nn	-	10	IOBJ	-	-
+7	ར་	ར་	gl	gl	-	8	GL	-	-
+8	འཚམ	འཚམ	as	as	-	0	ROOT	-	-
+9	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	ཁོ་ཚོ	ཁོ་ཚོ	rr	rr	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	རྩོམ་འབྲི	རྩོམ་འབྲི	nv	nv	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	ཆུ་ཚད་	ཆུ་ཚད་	nn	nn	-	7	IOBJ	-	-
+6	ལ་	ལ་	gl	gl	-	5	GL	-	-
+7	ཕན་པ་ཡོད	ཕན་པ་ཡོད	uc	uc	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	དངོས་གནས་	དངོས་གནས་	dx	dx	-	6	ADVA	-	-
+2	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	6	IOBJ	-	-
+3	འདི་	འདི་	rz	rz	-	2	PRON	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+5	ཧ་ཅང་	ཧ་ཅང་	dx	dx	-	6	ADVA	-	-
+6	དགའ	དགའ	vi	vi	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཕིན་ལའོ	ཕིན་ལའོ	nr	nr	-	3	QATT	-	-
+2	དང་	དང་	cd	cd	-	1	CD	-	-
+3	འབྲེལ་བ	འབྲེལ་བ	nn	nn	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	9	IOBJ	-	-
+6	འདི་	འདི་	rz	rz	-	5	PRON	-	-
+7	ལ་	ལ་	gl	gl	-	6	GL	-	-
+8	ཧ་ཅང་	ཧ་ཅང་	dx	dx	-	9	ADVA	-	-
+9	དགའ	དགའ	vi	vi	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	མདུན་ཤོག་	མདུན་ཤོག་	nn	nn	-	5	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	ཚོར་བ་	ཚོར་བ་	nv	nv	-	5	DOBJ	-	-
+4	ཆེན་པོ་	ཆེན་པོ་	as	as	-	4	ADVA	-	-
+5	འདུག	འདུག	vi	vi	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	2	DOBJ	-	-
+2	ལས་པ་	ལས་པ་	vt	vt	-	5	ZZFH	-	-
+3	ཡང་	ཡང་	cj	cj	-	2	GLC	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	འོས་སྦྱོར་	འོས་སྦྱོར་	nn	nn	-	2	DOBJ	-	-
+2	བྱེད་རིན་	བྱེད་རིན་	vi	vi	-	0	ROOT	-	-
+3	འདུག	འདུག	vi	vi	-	2	COMP	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	མི་རྣམས་	མི་རྣམས་	rr	rr	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	ཡིད་དབང་འཕྲོག་	ཡིད་དབང་འཕྲོག་	nn	nn	-	4	DOBJ	-	-
+4	ཐུབ	ཐུབ	un	un	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	རི་མོ་	རི་མོ་	nn	nn	-	2	QATT	-	-
+2	བྲིས་པ་	བྲིས་པ་	nn	nn	-	3	DOBJ	-	-
+3	ཡག་པོ་	ཡག་པོ་	as	as	-	0	ROOT	-	-
+4	འདུག	འདུག	uc	uc	-	3	ZC	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	དཔེ་ཆ	དཔེ་ཆ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ནང་	ནང་	ff	ff	-	5	QATT	-	-
+4	གི་	གི་	gz	gz	-	3	GZ	-	-
+5	སྐད་ཆ	སྐད་ཆ	nn	nn	-	9	SUBJ	-	-
+6	ས་	ས་	gx	gx	-	5	GX	-	-
+7	ང་	ང་	rr	rr	-	9	IOBJ	-	-
+8	ལ་	ལ་	gl	gl	-	7	GL	-	-
+9	སེམས་འགུལ་ཐེབས་སུ་བཅུག	སེམས་འགུལ་ཐེབས་སུ་བཅུག	vi	vi	-	0	ROOT	-	-
+10	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཤོག་ངོས་གྲུ་ཟུར	ཤོག་ངོས་གྲུ་ཟུར	nn	nn	-	8	SUBJ	-	-
+2	རེ་རེ་	རེ་རེ་	rz	rz	-	1	PRON	-	-
+3	ནི་	ནི་	yy	yy	-	2	YY	-	-
+4	རྩོམ་པ་པོ	རྩོམ་པ་པོ	nn	nn	-	8	SUBJ	-	-
+5	ས་	ས་	gx	gx	-	4	GX	-	-
+6	བློ་རྩེ་གཅིག་སྒྲིམ་	བློ་རྩེ་གཅིག་སྒྲིམ་	as	as	-	8	ADVA	-	-
+7	གྱིས་	གྱིས་	gx	gx	-	6	GX	-	-
+8	ཇུས་འགོད་བྱས་པ་	ཇུས་འགོད་བྱས་པ	vi	vi	-	0	ROOT	-	-
+9	ཡིན་པས	ཡིན་པས	up	up	-	8	ZC	-	-
+10	ཧ་ཅང་བཟང་	ཧ་ཅང་བཟང་	as	as	-	8	ADVA	-	-
+12	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	བསྐུར་ཡོང་བ	བསྐུར་ཡོང་བ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	2	GZ	-	-
+3	སྒམ་	སྒམ་	nn	nn	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	6	ADVA	-	-
+5	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	དཔེ་ཆ	དཔེ་ཆ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	རྒྱུ་སྤུས་	རྒྱུ་སྤུས་	nn	nn	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ངོ་མ་	ངོ་མ་	dc	dc	-	5	ADVA	-	-
+2	མིན་ཞའོ་ཞི	མིན་ཞའོ་ཞི	df	df	-	4	QATT	-	-
+3	ཡི་	ཡི་	gz	gz	-	2	GZ	-	-
+4	ཁྱད་ཆོས	ཁྱད་ཆོས་	nn	nn	-	5	DOBJ	-	-
+5	ལྡན	ལྡན	uc	uc	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	བུ་	བུ་	nn	nn	-	5	BL	-	-
+4	དང་	དང་	cd	cd	-	3	CD	-	-
+5	གྲོགས་པོ་ཚོ	གྲོགས་པོ་ཚོ	nn	nn	-	7	IOBJ	-	-
+6	ར་	ར་	gl	gl	-	2	GL	-	-
+7	འོས་སྦྱོར་	འོས་སྦྱོར་	vt	vt	-	0	ROOT	-	-
+8	བྱས	བྱས	ux	ux	-	7	ZC	-	-
+9	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	གྲོགས་པོ	གྲོགས་པོ	nn	nn	-	5	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	5	DOBJ	-	-
+4	འདི་	འདི་	rz	rz	-	3	PRON	-	-
+5	ངོ་སྤྲོད་	ངོ་སྤྲོད་	nv	nv	-	0	ROOT	-	-
+6	བྱས་པ་	བྱས་པ་	ux	ux	-	6	ZC	-	-
+7	རེད	རེད	up	up	-	6	ZC	-	-
+8	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	སྤྱི་ཡོངས་ནས་བཤད་ན	སྤྱི་ཡོངས་ནས་བཤད་ན	dw	dw	-	4	ADVA	-	-
+2	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	4	DOBJ	-	-
+3	འདི་	འདི་	rz	rz	-	2	PRON	-	-
+4	ཡག་པོ་འདུག	ཡག་པོ་འདུག	as	as	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	དཔེ་ཆ་ཧྲིལ་བོ་	དཔེ་ཆ་ཧྲིལ་བོ་	nn	nn	-	9	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	ཐུང་	ཐུང་	as	as	-	5	BL	-	-
+4	ཞིང་	ཞིང་	cn	cn	-	3	CJ	-	-
+5	སྤྲོ་སྣང་ལྡན་པ	སྤྲོ་སྣང་ལྡན་པ	as	as	-	7	QATT	-	-
+6	འི་	འི་	gz	gz	-	5	GZ	-	-
+7	གཏམ་རྒྱུད་	གཏམ་རྒྱུད་	nn	nn	-	9	SUBJ	-	-
+8	ཀྱིས་	ཀྱིས་	gx	gx	-	7	GX	-	-
+9	གྲུབ	གྲུབ	vi	vi	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	ངོ་མ་	ངོ་མ་	dx	dx	-	3	ADVA	-	-
+2	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	3	DOBJ	-	-
+3	ཡག་པོ་	ཡག་པོ་	as	as	-	0	ROOT	-	-
+4	ཞིག་	ཞིག་	mg	mg	-	2	DIG	-	-
+5	རེད་	རེད་	up	up	-	4	ZC	-	-
+6	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	12	SUBJ	-	-
+2	འདི་	འདི་	rz	rz	-	1	PRON	-	-
+3	ནི་	ནི་	yy	yy	-	2	YY	-	-
+4	འཚེམ་སྒྲིག	འཚེམ་སྒྲིག	nn	nn	-	6	BL	-	-
+5	དང་	དང་	cd	cd	-	4	CD	-	-
+6	རྒྱུ་སྤུས་	རྒྱུ་སྤུས་	nn	nn	-	12	DOBJ	-	-
+7	སོགས་	སོགས་	qj	qj	-	6	LA	-	-
+8	གང་ཅ	གང་ཅ	ry	ry	-	6	PRON	-	-
+9	འི་	འི་	gz	gz	-	8	GZ	-	-
+10	ཐད་	ཐད་	nn	nn	-	12	DOBJ	-	-
+11	ནས་	ནས་	gj	gj	-	10	CN	-	-
+12	ཡག་པོ་	ཡག་པོ་	as	as	-	0	ROOT	-	-
+13	ཞིག་	ཞིག་	ug	ug	-	12	ZC	-	-
+14	ཡིན	ཡིན	up	up	-	13	ZC	-	-
+15	།	།	lz	lz	-	14	PUNCT	-	-
+
+1	འདི་	འདི་	rz	rz	-	8	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	ཡང་དང་བསྐྱར་དུ་	ཡང་དང་བསྐྱར་དུ་	dp	dp	-	8	ADVA	-	-
+4	ཀློག་ཆོག་པ	ཀློག་ཆོག་པ	nn	nn	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	8	DOBJ	-	-
+7	ཞིག་	ཞིག་	mg	mg	-	6	DIG	-	-
+8	རེད	རེད	up	up	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	དངོས་གནས་	དངོས་གནས་	dx	dx	-	5	ADVA	-	-
+2	ཁེ་ཕན་	ཁེ་ཕན་	nn	nn	-	4	DOBJ	-	-
+3	མང་པོ་	མང་པོ་	as	as	-	4	ADVA	-	-
+4	ཐོབ་པ་	ཐོབ་པ་	vi	vi	-	0	ROOT	-	-
+5	རེད	རེད	up	up	-	4	ZC	-	-
+6	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	འདི་	འདི་	rz	rz	-	8	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	བལྟ་རིན་ཡོད་པ	བལྟ་རིན་ཡོད་པ	nn	nn	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	6	DOBJ	-	-
+6	བཟང་བོ་	བཟང་བོ་	as	as	-	0	ROOT	-	-
+7	ཞིག་	ཞིག་	mg	mg	-	6	DIG	-	-
+8	རེད	རེད	up	up	-	7	ZC	-	-
+9	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	འདི་	འདི་	rz	rz	-	10	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	གནམ་དཔྱད་	གནམ་དཔྱད་	nv	nv	-	5	BL	-	-
+4	དང་	དང་	cd	cd	-	3	CD	-	-
+5	ས་ཁམས་	ས་ཁམས་	nn	nn	-	5	QATT	-	-
+6	ཤེས་བྱ་འདུས་པ	ཤེས་བྱ་འདུས་པ	nn	nn	-	8	QATT	-	-
+7	འི་	འི་	gz	gz	-	6	GZ	-	-
+8	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	10	DOBJ	-	-
+9	ཞིག་	ཞིག་	mg	mg	-	8	DIG	-	-
+10	རེད	རེད	up	up	-	0	ROOT	-	-
+11	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	6	DOBJ	-	-
+2	འདི་	འདི་	rz	rz	-	1	PRON	-	-
+3	བྱིས་པ་	བྱིས་པ་	nn	nn	-	5	IOBJ	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dx	dx	-	5	ADVA	-	-
+5	འཚམ	འཚམ	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	འདི་	འདི་	rz	rz	-	12	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	ང་རང་ཉིད་	ང་རང་ཉིད་	rr	rr	-	5	SUBJ	-	-
+4	ཀྱིས་	ཀྱིས་	gx	gx	-	3	GX	-	-
+5	བལྟས	བལྟས	vt	vt	-	12	FH	-	-
+6	ན	ན	gl	gl	-	5	GLC	-	-
+7	ཧ་ཅང་	་ཧ་ཅང་	dx	dx	-	8	COMP	-	-
+8	སྤྱོད་གོ་ཆོད་པ	སྤྱོད་གོ་ཆོད་པ	as	as	-	10	QATT	-	-
+9	འི་	འི་	gz	gz	-	8	GZ	-	-
+10	དཔེ་དེབ་	དཔེ་དེབ་	nn	nn	-	12	DOBJ	-	-
+11	ཅིག་	ཅིག་	mg	mg	-	12	DIG	-	-
+12	ཡིན	ཡིན	up	up	-	0	ROOT	-	-
+13	།	།	lz	lz	-	12	PUNCT	-	-
+
+1	འདི་	འདི་	rz	rz	-	7	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	སྤྱོད་སྒོ་ཆེ་བ	སྤྱོད་སྒོ་ཆེ་བ	nv	nv	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	7	DOBJ	-	-
+6	ཞིག་	ཞིག་	mg	mg	-	5	DIG	-	-
+7	རེད	རེད	up	up	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	གདམ་ག་བྱས་	གདམ་ག་བྱས་	vi	vi	-	4	FH	-	-
+2	ན་	ན	gl	gl	-	1	GL	-	-
+3	ཡག་པོ་	ཡག་པོ་	as	as	-	0	ROOT	-	-
+4	ཞིག་	ཞིག་	ug	ug	-	3	ZC	-	-
+5	རེད	རེད	up	up	-	4	ZC	-	-
+6	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	འདི་	འདི་	rz	rz	-	8	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	མི་སེམས་	མི་སེམས་	nn	nn	-	4	QATT	-	-
+4	འགུག་པ	འགུག་པ	vi	vi	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	8	DOBJ	-	-
+7	ཞིག་	ཞིག་	mg	mg	-	6	DIG	-	-
+8	རེད	རེད	up	up	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	སྙིང་རྗེ་བ	སྙིང་རྗེ་བ	as	as	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ཤེས་བྱ་ཀུན་འདུས	ཤེས་བྱ་ཀུན་འདུས	nn	nn	-	5	QATT	-	-
+4	ཀྱི་	ཀྱི་	gz	gz	-	3	GZ	-	-
+5	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	7	DOBJ	-	-
+6	ཞིག་	ཞིག་	mg	mg	-	5	DIG	-	-
+7	རེད	རེད	up	up	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	དེ་	དེ་	rz	rz	-	4	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	དོན་སྙིང་	དོན་སྙིང་	nn	nn	-	4	DOBJ	-	-
+4	ཧ་ཅང་ཆེན་པོ་	ཧ་ཅང་ཆེན་པོ་	as	as	-	13	COOR	-	-
+5	ལྡན་	ལྡན་	uc	uc	-	13	FH	-	-
+6	ཞིང་	ཞིང་	cd	cd	-	5	GLC	-	-
+7	བློ་སྒོ་འབྱེད་པ	བློ་སྒོ་འབྱེད་པ	nn	nn	-	9	QATT	-	-
+8	འི་	འི་	gz	gz	-	7	GZ	-	-
+9	སློབ་གསོ	སློབ་གསོ	nn	nn	-	11	QATT	-	-
+10	འི་	འི་	gz	gz	-	9	GZ	-	-
+11	དཔེ་དེབ་	དཔེ་དེབ་	nn	nn	-	13	DOBJ	-	-
+12	ཅིག་	ཅིག་	mg	mg	-	11	DIG	-	-
+13	ཡིན	ཡིན	up	up	-	0	ROOT	-	-
+14	།	།	lz	lz	-	13	PUNCT	-	-
+
+1	འདི་	འདི་	rz	rz	-	8	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	4	COMP	-	-
+4	ཡག་པ	ཡག་པ	as	as	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	བརྩམས་སྒྲུང་	བརྩམས་སྒྲུང་	nn	nn	-	8	DOBJ	-	-
+7	ཞིག་	ཞིག་	mg	mg	-	6	DIG	-	-
+8	རེད	རེད	up	up	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	4	DOBJ	-	-
+2	འདི་	འདི་	rz	rz	-	1	PRON	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	4	ADVA	-	-
+4	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	སློབ་གྲོགས་	སློབ་གྲོགས་	nn	nn	-	5	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	རོགས་བྱས་	རོགས་བྱས་	vt	vt	-	5	BLFH	-	-
+4	ནས་	ནས་	cn	cn	-	3	GLC	-	-
+5	ཉོས་པ་	ཉོས་པ་	vt	vt	-	0	ROOT	-	-
+6	ཡིན	ཡིན	up	up	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	སློབ་གྲོགས་	སློབ་གྲོགས་	nn	nn	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	ཚོར་བ་	ཚོར་བ་	nn	nn	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+6	ཟེར	ཟེར	ux	ux	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	དངོས་པོ་	དངོས་པོ་	nn	nn	-	2	DOBJ	-	-
+2	ཡག་པོ་འདུག	ཡག་པོ་འདུག	as	as	-	0	ROOT	-	-
+3	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཅིན་ཏུང་	ཅིན་ཏུང་	nr	nr	-	3	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	ཡིད་ཆེས་བྱེད་རིན་	ཡིད་ཆེས་བྱེད་རིན་	as	as	-	0	ROOT	-	-
+4	ཡོད	ཡོད	uc	uc	-	3	ZC	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	དེ་རིང་	དེ་རིང་	tt	tt	-	2	TA	-	-
+2	ཐོན་	ཐོན་	vt	vt	-	0	ROOT	-	-
+3	སོང་	སོང་	us	us	-	2	ZC	-	-
+4	།	།	lz	lz	-	2	PUNCT	-	-
+
+1	ཅིན་ཏུང་	ཅིན་ཏུང་	nn	nn	-	3	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	ཡིད་རྟོན་རུང་བ་	ཡིད་རྟོན་རུང་བ་	as	as	-	0	ROOT	-	-
+4	ཞིག་	ཞིག་	ug	ug	-	3	ZC	-	-
+5	རེད	རེད	up	up	-	4	ZC	-	-
+6	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཧྭ་ཝེ	ཧྭ་ཝེ	nn	nn	-	3	QATT	-	-
+2	ཡི་	ཡི་	gz	gz	-	1	GZ	-	-
+3	རྒྱུ་སྤུས་	རྒྱུ་སྤུས་	nn	nn	-	5	DOBJ	-	-
+4	སྔར་བཞིན་	སྔར་བཞིན་	tt	tt	-	5	TA	-	-
+5	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	རང་རྒྱལ་	རང་རྒྱལ་	nn	nn	-	3	QZTT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	ཚོང་ཟོག་	ཚོང་ཟོག་	nn	nn	-	5	IOBJ	-	-
+4	ལ་	ལ	gl	gl	-	3	GL	-	-
+5	རྒྱབ་སྐྱོར་	རྒྱབ་སྐྱོར་	nv	nv	-	0	ROOT	-	-
+6	བྱེད	བྱེད	ux	ux	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཐེངས་དང་པོ	ཐེངས་དང་པོ	mx	mx	-	4	DIG	-	-
+2	ར་	ར་	gl	gl	-	1	GL	-	-
+3	ཧྭ་ཝེ་	ཧྭ་ཝེ་	nn	nn	-	4	DOBJ	-	-
+4	བཀོལ་བ་	བཀོལ་བ་	vt	vt	-	0	ROOT	-	-
+5	ཡིན	ཡིན	up	up	-	4	ZC	-	-
+6	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	གྲོགས་པོ་	གྲོགས་པོ་	nn	nn	-	3	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	བྱིན་པ་	བྱིན་པ་	vt	vt	-	0	ROOT	-	-
+4	ཡིན	ཡིན	up	up	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཁ་སང་	ཁ་སང་	tt	tt	-	2	QATT	-	-
+2	དགོང་མོ་	དགོང་མོ་	tt	tt	-	3	TA	-	-
+3	ཉོས་པ་	ཉོས་པ་	vt	vt	-	0	ROOT	-	-
+4	ཡིན	ཡིན	up	up	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	དེ་རིང་	དེ་རིང་	tt	tt	-	2	QATT	-	-
+2	སྔ་མོ	སྔ་མོ	tt	tt	-	5	TA	-	-
+3	ནས་	ནས་	cx	cx	-	2	CN	-	-
+4	དངོས་པོ་	དངོས་པོ་	nn	nn	-	5	DOBJ	-	-
+5	འབྱོར་	འབྱོར་	vt	vt	-	0	ROOT	-	-
+6	སོང་	སོང་	us	us	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	སྔོན་ཆད་	སྔོན་ཆད་	tt	tt	-	5	TA	-	-
+2	རང་	རང་	rr	rr	-	5	SUBJ	-	-
+3	གིས་	གིས་	gx	gx	-	2	GX	-	-
+4	གཅིག་	གཅིག་	mj	mj	-	5	DIG	-	-
+5	ཉོས་པ་	ཉོས་པ་	vt	vt	-	0	ROOT	-	-
+6	ཡིན	ཡིན	up	up	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	གྲོགས་པོ་	གྲོགས་པོ་	nn	nn	-	3	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	རོགས་བྱས་	རོགས་བྱས་	vt	vt	-	5	BLFH	-	-
+4	ནས་	ནས་	cn	cn	-	3	GLC	-	-
+5	ཉོས་པ་	ཉོས་པ་	vt	vt	-	0	ROOT	-	-
+6	ཡིན་	ཡིན་	up	up	-	5	ZC	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	གྲོགས་པོ	གྲོགས་པོ	nn	nn	-	3	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	བཤད་	བཤད་	vt	vt	-	6	BLFH	-	-
+4	ན་	ན་	cx	cx	-	3	GLC	-	-
+5	ཧ་ཅང་	་ཧ་ཅང་	dx	dx	-	6	ADVA	-	-
+6	དགའ་	དགའ་	ad	ad	-	0	ROOT	-	-
+7	ཟེར	ཟེར	ux	ux	-	7	ZC	-	-
+8	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ནུས་པ་	ནུས་པ་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	མཐོ	མཐོ	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཅིན་ཏུང་	ཅིན་ཏུང་	ns	ns	-	2	QATT	-	-
+2	མྱུར་སྐྱེལ་	མྱུར་སྐྱེལ་	nn	nn	-	4	QATT	-	-
+3	གྱི་	གྱི་	gz	gz	-	2	GZ	-	-
+4	མྱུར་ཚད་	མྱུར་ཚད་	nn	nn	-	6	DOBJ	-	-
+5	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	6	ADVA	-	-
+6	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	རྒྱལ་ནང་	རྒྱལ་ནང་	nn	nn	-	3	QATT	-	-
+2	གི་	གི་	gz	gz	-	1	GZ	-	-
+3	ཐོན་རྫས་	ཐོན་རྫས་	nn	nn	-	5	IOBJ	-	-
+4	ལ	ལ	gl	gl	-	3	GL	-	-
+5	རྒྱབ་སྐྱོར་	རྒྱབ་སྐྱོར་	nv	nv	-	0	ROOT	-	-
+6	བྱེད	བྱེད	ux	ux	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཨ་མྱེ	ཨ་མྱེ	nn	nn	-	7	SUBJ	-	-
+2	ས་	ས་	nn	nn	-	1	GX	-	-
+3	འཆར་ངོས་	འཆར་ངོས	nn	nn	-	5	DOBJ	-	-
+4	ཤིན་ཏུ	ཤིན་ཏུ	as	as	-	5	COMP	-	-
+5	ཆེ་	ཆེ་	dw	dw	-	7	FH	-	-
+6	ན་	ན་	gl	gl	-	5	GLC	-	-
+7	དགའ	དགའ	vi	vi	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	གཟའ་འཁོར་	གཟའ་འཁོར་	tt	tt	-	4	TA	-	-
+2	གཅིག་	གཅིག	mj	mj	-	1	DIG	-	-
+3	ལ་	ལ་	gl	gl	-	2	GL	-	-
+4	བཀོལ་བ་	བཀོལ་བ་	vt	vt	-	0	ROOT	-	-
+5	ཡིན	ཡིན	up	up	-	4	ZC	-	-
+6	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	མི་སྒེར་	མི་སྒེར་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	ཡིད་ཚིམ་	ཡིད་ཚིམ་	as	as	-	0	ROOT	-	-
+4	ཡོད	ཡོད	uc	uc	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ནམ་རྒྱུན་	ནམ་རྒྱུན་	tt	tt	-	8	ADVA	-	-
+2	བྱིས་པ	བྱིས་པ	nn	nn	-	8	SUBJ	-	-
+3	ས་	ས་	gx	gx	-	2	GX	-	-
+4	སློབ་སྦྱོང་	སློབ་སྦྱོང་	nv	nv	-	6	BL	-	-
+5	དང་	དང་	cd	cd	-	4	CD	-	-
+6	བརྙན་འཕྲིན་	བརྙན་འཕྲིན་	nn	nn	-	8	IOBJ	-	-
+7	ལ་	ལ་	gl	gl	-	6	GL	-	-
+8	བལྟས་པ་	བལྟས་པ་	vi	vi	-	0	ROOT	-	-
+9	ཡིན	ཡིན	up	up	-	8	ZC	-	-
+10	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	དངོས་པོ་	དངོས་པོ་	nn	nn	-	2	QATT	-	-
+2	འབྱོར་བ་	འབྱོར་བ་	nn	nn	-	4	DOBJ	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	4	ADVA	-	-
+4	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཐུམ་སྒྲིལ་	ཐུམ་སྒྲིལ་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	མཛེས	མཛེས	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	འཆར་ངོས	འཆར་ངོས	nn	nn	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	ནུས་པ་	ནུས་པ་	nn	nn	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཟོག་འདྲེན་	ཟོག་འདྲེན་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	དྲ་བ	དྲ་བ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	མྱུར་ཚད་	མྱུར་ཚད་	nn	nn	-	4	DOBJ	-	-
+4	མགྱོགས་པོ་	མགྱོགས་པོ་	as	as	-	0	ROOT	-	-
+5	འདུག	འདུག	uc	uc	-	4	ZC	-	-
+6	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	བྱིས་པ	བྱིས་པ	nn	nn	-	4	DOBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	རྒྱུན་དུ་	རྒྱུན་དུ་	dp	dp	-	4	ADVA	-	-
+4	བལྟས་	བལྟས་	vt	vt	-	0	ROOT	-	-
+5	འདུག	འདུག	uc	uc	-	4	ZC	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	གཙོ་བོ་	གཙོ་བོ་	dx	dx	-	8	ADVA	-	-
+2	ཡིག་ཚགས་	ཡིག་ཚགས་	nn	nn	-	4	BL	-	-
+3	དང་	དང་	cd	cd	-	2	CD	-	-
+4	བརྙན་	བརྙན་	nn	nn	-	6	IOBJ	-	-
+5	ལ་	ལ་	gl	gl	-	4	GL	-	-
+6	བལྟ་བ	བལྟ་བ	vt	vt	-	8	YGFH	-	-
+7	ར་	ར་	gl	gl	-	6	GLC	-	-
+8	བཀོལ་བ་	བཀོལ་བ་	vt	vt	-	0	ROOT	-	-
+9	ཡིན	ཡིན	up	up	-	8	ZC	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	གྲོགས་པོ་	གྲོགས་པོ་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	ཡིད་ཚིམ་	ཡིད་ཚིམ་	as	as	-	0	ROOT	-	-
+4	ཡོད	ཡོད	uc	uc	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	གློག་ཀླད་	གློག་ཀླད་	nz	nz	-	4	QATT	-	-
+2	འདི	འདི	rz	rz	-	1	PRON	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	རྒྱུ་སྤུས་	རྒྱུ་སྤུས་	nn	nn	-	6	DOBJ	-	-
+5	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	6	ADVA	-	-
+6	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	གཅེས་ཕྲུག་	གཅེས་ཕྲུག་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	དགའ་པོ་	དགའ་པོ་	vi	vi	-	0	ROOT	-	-
+4	ཡོད	ཡོད	uc	uc	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཨ་མ་	ཨ་མ་	nr	nr	-	3	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	བྱིན་པ་	བྱིན་པ་	vi	vi	-	0	ROOT	-	-
+4	ཡིན	ཡིན	up	up	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཨ་མ་	ཨ་མ་	rr	rr	-	5	SUBJ	-	-
+2	ས་	ས་	rr	rr	-	1	GX	-	-
+3	བཀོལ་བ	བཀོལ་བ	nn	nn	-	5	IOBJ	-	-
+4	ར	ར	gl	gl	-	2	GL	-	-
+5	འཚམ	འཚམ	as	as	-	0	ROOT	-	-
+6	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	རྒྱལ་ནང་	རྒྱལ་ནང་	nn	nn	-	3	QATT	-	-
+2	གི་	གི་	gz	gz	-	1	GZ	-	-
+3	ཐོན་རྫས་	ཐོན་རྫས་	nn	nn	-	5	IOBJ	-	-
+4	ལ	ལ	gl	gl	-	3	GL	-	-
+5	རྒྱབ་སྐྱོར་	རྒྱབ་སྐྱོར་	vi	vi	-	9	BLFH	-	-
+6	དང་	དང་	cd	cd	-	4	CD	-	-
+7	ཧྭ་ཝེ་	ཧྭ་ཝེ་	nn	nn	-	9	IOBJ	-	-
+8	ལ་	ལ་	gl	gl	-	7	GL	-
+9	རྒྱབ་སྐྱོར་	རྒྱབ་སྐྱོར་	vi	vi	-	0	ROOT	-	-
+10	བྱེད་	བྱེད་	ux	ux	-	9	ZC	-	-
+11	དགོས	དགོས	un	un	-	10	ZC	-	-
+12	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	ཧྭ་ཝེ་	ཧྭ་ཝེ	nn	nn	-	2	QATT	-	-
+2	ཁ་པ	ཁ་པ	nn	nn	-	5	IOBJ	-	-
+3	ར་	ར་	gl	gl	-	2	GL	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	རྒྱུན་དུ་	རྒྱུན་དུ་	dp	dp	-	3	ADVA	-	-
+2	ཧྭ་ཝེ་	ཧྭ་ཝེ་	nn	nn	-	3	DOBJ	-	-
+3	བཀོལ་	བཀོལ་	vt	vt	-	0	ROOT	-	-
+4	བཞིན་	བཞིན་	us	us	-	3	ZC	-	-
+5	ཡོད	ཡོད	uc	uc	-	4	ZC	-	-
+6	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	རིན་གོང་	རིན་གོང་	nn	nn	-	3	QATT	-	-
+2	གི་	གི་	gz	gz	-	1	GZ	-	-
+3	བསྡུར་ཚད་	བསྡུར་ཚད་	nn	nn	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	མཐོ	མཐོ	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཧྭ་ཝེ་	ཧྭ་ཝེ་	nr	nr	-	3	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	རྒྱབ་སྐྱོར་	རྒྱབ་སྐྱོར་	vt	vt	-	0	ROOT	-	-
+4	བྱོས	བྱོས	uq	uq	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཁྱིམ་མི་	ཁྱིམ་མི་	rr	rr	-	5	SUBJ	-	-
+2	ཚང་མ	ཚང་མ	mz	mz	-	1	DIG	-	-
+3	ས་	ས་	nr	nr	-	3	GX	-	-
+4	ཧྭ་ཝེ་	ཧྭ་ཝེ་	nr	nr	-	5	DOBJ	-	-
+5	བཀོལ་	བཀོལ་	vt	vt	-	9	BLFH	-	-
+6	ན་	ན་	cn	cn	-	5	GLC	-	-
+7	ཚོར་བ་	ཚོར་བ་	nn	nn	-	9	DOBJ	-	-
+8	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	9	ADVA	-	-
+9	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	རང་རྒྱལ་	རང་རྒྱལ་	nn	nn	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	ཐོན་སྐྱེད་བྱེད་པ	ཐོན་སྐྱེད་བྱེད་པ	nn	nn	-	5	IOBJ	-	-
+4	ར་	ར་	gl	gl	-	3	GL	-	-
+5	རྒྱབ་སྐྱོར་	རྒྱབ་སྐྱོར་	nv	nv	-	0	ROOT	-	-
+6	བྱས	བྱས	ux	ux	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	དོ་སྣང་བྱས	དོ་སྣང་བྱས	nn	nn	-	4	DOBJ	-	-
+2	ནས་	ནས་	cn	cn	-	1	CN	-	-
+3	ཡུན་རིང་	ཡུན་རིང་	tt	tt	-	4	TA	-	-
+4	འགོར་	འགོར་	vi	vi	-	0	ROOT	-	-
+5	སོང་	སོང་	us	us	-	4	ZC	-	-
+6	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ལས་གྲོགས་	ལས་གྲོགས་	nn	nn	-	4	SUBJ	-	-
+2	ཚང་མ	ཚང་མ	mz	mz	-	1	DIG	-	-
+3	ས་	ས་	gx	gx	-	2	GX	-	-
+4	ཚོང་རྟགས་	ཚོང་རྟགས་	nn	nn	-	6	DOBJ	-	-
+5	འདི་	འདི་	rz	rz	-	4	PRON	-	-
+6	བཀོལ་	བཀོལ་	vt	vt	-	0	ROOT	-	-
+7	བཞིན་	བཞིན་	us	us	-	6	ZC	-	-
+8	ཡོད་པ་	ཡོད་པ་	uc	uc	-	7	ZC	-	-
+9	རེད	རེད	up	up	-	8	ZC	-	-
+10	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	གྲོགས་པོ་ཆུང་ཆུང་	གྲོགས་པོ་ཆུང་ཆུང་	nn	nn	-	3	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	ཉོས་	ཉོས་	vt	vt	-	6	BLFH	-	-
+4	ནས་	ནས་	cn	cn	-	3	CN	-	-
+5	སློབ་སྦྱོང་	སློབ་སྦྱོང་	nn	nn	-	6	DOBJ	-	-
+6	བྱེད་དུ་བཅུག	བྱེད་དུ་བཅུག	vt	vt	-	0	ROOT	-	-
+
+1	ང་	ང་	rr	rr	-	3	SUBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	ཡིད་ཚིམ་	ཡིད་ཚིམ་	as	as	-	0	ROOT	-	-
+4	ཡོད	ཡོད	uc	uc	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	བྱིས་པ་	བྱིས་པ་	nn	nn	-	4	DOBJ	-	-
+2	ཚོ་	ཚོ་	qj	qj	-	1	LA	-	-
+3	ཤིན་ཏུ་	ཤིན་ཏུ་	dc	dc	-	4	ADVA	-	-
+4	དགའ་	དགའ་	ad	ad	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	འགྲོས་ཚད་	འགྲོས་ཚད་	nn	nn	-	3	DOBJ	-	-
+2	ཤིན་ཏུ་	ཤིན་ཏུ་	dc	dc	-	3	ADVA	-	-
+3	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	3	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	བཀོལ་བ་	བཀོལ་བ་	vt	vt	-	5	FH	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	སྐྱིད	སྐྱིད	ad	ad	-	3	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཐུམ་སྒྲིལ་	ཐུམ་སྒྲིལ་	nn	nn	-	4	DOBJ	-	-
+2	ཡང་	ཡང་	cj	cj	-	1	CN	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	4	ADVA	-	-
+4	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	དངོས་པོ་	དངོས་པོ་	nn	nn	-	2	QATT	-	-
+2	བསྐུར་བ	བསྐུར་བ	nv	nv	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	མྱུར་ཚད་	མྱུར་ཚད་	nn	nn	-	6	DOBJ	-	-
+5	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	6	ADVA	-	-
+6	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	བེད་སྤྱོད་	བེད་སྤྱོད་	vt	vt	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	མྱུར་ཚད་	མྱུར་ཚད་	nn	nn	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	དངོས་ཟོག་སྐྱེལ་འདྲེན་	དངོས་ཟོག་སྐྱེལ་འདྲེན་	nn	nn	-	2	DOBJ	-	-
+2	མགྱོགས་	མགྱོགས་	ad	ad	-	5	BLFH	-	-
+3	ལ་	ལ་	gl	gl	-	2	GLC	-	-
+4	དངོས་པོ་	དངོས་པོ་	nn	nn	-	5	DOBJ	-	-
+5	ཡག་པོ་འདུག	ཡག་པོ་འདུག	as	as	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཁ་པར་	ཁ་པར་	nn	nn	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	ཆེ་ཆུང་	ཆེ་ཆུང་	nn	nn	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	འོས་འཚམ་	འོས་འཚམ་	as	as	-	0	ROOT	-	-
+6	རེད	རེད	up	up	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཅིན་ཏུང་	ཅིན་ཏུང་	ns	ns	-	4	SUBJ	-	-
+2	གིས་	གིས་	gx	gx	-	1	GX	-	-
+3	དངོས་ཟོག་	དངོས་ཟོག་	nn	nn	-	4	DOBJ	-	-
+4	སྐྱེལ་བ་	སྐྱེལ་བ་	vi	vi	-	0	ROOT	-	-
+5	མགྱོགས	མགྱོགས	ad	ad	-	4	COMP	-	-
+6	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཨ་ཕ	ཨ་ཕ་	nr	nr	-	3	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	ཉོས་པ་	ཉོས་པ་	vt	vt	-	0	ROOT	-	-
+4	ཡིན	ཡིན	up	up	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	དངོས་པོ་	དངོས་པོ་	nn	nn	-	2	QATT	-	-
+2	སྐྱེལ་བ	སྐྱེལ་བ	nv	nv	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	1	GZ	-	-
+4	མྱུར་ཚད་	མྱུར་ཚད་	nn	nn	-	6	DOBJ	-	-
+5	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	6	ADVA	-	-
+6	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཆེ་ཆུང་	ཆེ་ཆུང་	nn	nn	-	2	DOBJ	-	-
+2	འོས་འཚམ་	འོས་འཚམ་	as	as	-	0	ROOT	-	-
+3	རེད	རེད	up	up	-	2	ZC	-	-
+4	།	།	lz	lz	-	2	PUNCT	-	-
+
+1	རྒན་པོ	རྒན་པོ	nn	nn	-	3	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	བཀོལ་	བཀོལ་	vt	vt	-	5	FH	-	-
+4	ན	ན	ns	ns	-	3	GLC	-	-
+5	བཟང་	བཟང་	vx	vx	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	འཁོར་སྐྱོད་	འཁོར་སྐྱོད་	nv	nv	-	2	QATT	-	-
+2	མྱུར་ཚད་	མྱུར་ཚད་	nn	nn	-	3	DOBJ	-	-
+3	ཡག་པོ་འདུག	ཡག་པོ་འདུག	as	as	-	0	ROOT	-	-
+
+1	འཆར་ངོས་	འཆར་ངོས་	tt	tt	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	གསལ་ཚད་	གསལ་ཚད་	nn	nn	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	མཐོ	མཐོ	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	དངོས་ཟོག་སྐྱེལ་འདྲེན་	དངོས་ཟོག་སྐྱེལ་འདྲེན་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཁྱིམ་མི	ཁྱིམ་མི	nn	nn	-	3	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	བཀོལ་བ་	བཀོལ་བ་	vt	vt	-	0	ROOT	-	-
+4	ཡིན	ཡིན	up	up	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཅིན་ཏུང་	ཅིན་ཏུང་	ns	ns	-	5	FOBJ	-	-
+2	ནས་	ནས་	gj	gj	-	1	GJ	-	-
+3	མང་པོ་	མང་པོ་	as	as	-	5	ADVA	-	-
+4	ཞིག་	ཞིག་	ug	ug	-	3	ZC	-	-
+5	ཉོས་	ཉོས་	vt	vt	-	0	ROOT	-	-
+6	སོང་	སོང་	us	us	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཧྭ་ཝེ	ཧྭ་ཝེ	nn	nn	-	2	QATT	-	-
+2	སྤུས་ཚད་	སྤུས་ཚད་	nn	nn	-	3	DOBJ	-	-
+3	ལོན་	ལོན་	vi	vi	-	0	ROOT	-	-
+4	འདུག	འདུག	vi	vi	-	3	COMP	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཅིན་ཏུང་	ཅིན་ཏུང་	ns	ns	-	3	QATT	-	-
+2	གི་	གི་	gz	gz	-	1	GZ	-	-
+3	རྒྱུ་སྤུས་	རྒྱུ་སྤུས་	nn	nn	-	5	IOBJ	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+5	ཡིད་རྟོན་	ཡིད་རྟོན་	vi	vi	-	0	ROOT	-	-
+6	རུང་	རུང་	un	un	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	གློག་བརྙན་	གློག་བརྙན་	nn	nn	-	7	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	བལྟ་བ	བལྟ་བ	nv	nv	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	ནུས་པ་	ནུས་པ་	nn	nn	-	7	DOBJ	-	-
+6	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	7	ADVA	-	-
+7	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ཧྥེ་ལིས་ཕུའུ	ཧྥེ་ལིས་ཕུའུ	nr	nr	-	3	QATT	-	-
+2	ཡི་	ཡི་	gz	gz	-	1	GZ	-	-
+3	ཐོན་རྫས་	ཐོན་རྫས་	nn	nn	-	4	DOBJ	-	-
+4	རྩེ་གྲ་	རྩེ་གྲ་	nv	nv	-	0	ROOT	-	-
+5	རེད	རེད	up	up	-	4	ZC	-	-
+6	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཕྱི་ཚུལ་	ཕྱི་ཚུལ་	nn	nn	-	2	DOBJ	-	-
+2	རྫིགས་པོ་	རྫིགས་པོ་	as	as	-	0	ROOT	-	-
+3	འདུག	འདུག	ux	ux	-	2	ZC	-	-
+4	།	།	lz	lz	-	2	PUNCT	-	-
+
+1	སྤྱི་ཡོངས་	སྤྱི་ཡོངས་	dw	dw	-	4	ADVA	-	-
+2	ནས་	ནས་	gj	gj	-	1	GJ	-	-
+3	བཟོ་རྩལ་	བཟོ་རྩལ་	nn	nn	-	4	DOBJ	-	-
+4	ཡག་པོ་བྱས་	ཡག་པོ་བྱས་	as	as	-	0	ROOT	-	-
+5	འདུག	འདུག	us	us	-	4	ZC	-	-
+6	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	དངོས་གནས་	དངོས་གནས་	dc	dc	-	3	ADVA	-	-
+2	སྤྱོད་	སྤྱོད་	nv	nv	-	3	DOBJ	-	-
+3	བདེ་པོ་	བདེ་པོ་	as	as	-	0	ROOT	-	-
+4	འདུག	འདུག	uc	uc	-	3	ZC	-	-
+
+1	ཅོང་བརྡ་	ཅོང་བརྡ་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	གསལ་བོ་	གསལ་བོ་	as	as	-	0	ROOT	-	-
+4	རེད	རེད	up	up	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	5	SUBJ	-	-
+2	ས་	ས་	gx	gx	-	1	GX	-	-
+3	ཟླ་གཉིས་	ཟླ་གཉིས་	tt	tt	-	5	TA	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+5	བཀོལ་བ་	བཀོལ་བ་	vt	vt	-	0	ROOT	-	-
+6	ཡིན	ཡིན	up	up	-	5	ZC	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཕྱི་ཚུལ་	ཕྱི་ཚུལ་	nn	nn	-	3	BL	-	-
+2	དང་	དང་	cd	cd	-	1	CD	-	-
+3	ཅོང་བརྡ་	ཅོང་བརྡ་	nn	nn	-	4	DOBJ	-	-
+4	ཡག་པོ་འདུག	ཡག་པོ་འདུག	as	as	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	བྱེད་ནུས་	བྱེད་ནུས་	nn	nn	-	4	IOBJ	-	-
+2	ཀྱང་	ཀྱང་	cj	cj	-	1	CJ	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	nr	nr	-	4	ADVA	-	-
+4	མང་	མང་	as	as	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ང་རང་	ང་རང་	rr	rr	-	7	SUBJ	-	-
+2	ཁ་པར་	ཁ་པར་	nn	nn	-	5	QATT	-	-
+3	འདི	འདི	rz	rz	-	2	PRON	-	-
+4	འི་	འི་	gz	gz	-	1	GZ	-	-
+5	པར་ལེན་པ	པར་ལེན་པ	nn	nn	-	6	IOBJ	-	-
+6	ར་	ར་	gl	gl	-	6	GL	-	-
+7	དགའ	དགའ	vi	vi	-	0	ROOT	-	-
+8	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	ཁ་པར་	ཁ་པར་	nn	nn	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	ཕྱི	ཕྱི	ff	ff	-	5	FOBJ	-	-
+4	འི་	འི་	gz	gz	-	2	GZ	-	-
+5	རྣམ་པ་	རྣམ་པ་	nn	nn	-	7	DOBJ	-	-
+6	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	7	ADVA	-	-
+7	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ཡི་གེ་	ཡི་གེ་	nn	nn	-	3	BL	-	-
+2	དང་	དང་	cd	cd	-	1	CD	-	-
+3	པར་རིས་	པར་རིས་	nn	nn	-	6	DOBJ	-	-
+4	གཞི་རྩའི་ཆ་	གཞི་རྩའི་ཆ་	as	as	-	6	ADVA	-	-
+5	ནས་	ནས་	gj	gj	-	4	CN	-	-
+6	ཕབ་ལེན་	ཕབ་ལེན་	nv	nv	-	0	ROOT	-	-
+7	བྱས་	བྱས་	ux	ux	-	6	ZC	-	-
+8	ཆོག	ཆོག	un	un	-	7	ZC	-	-
+9	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ང	ང	rr	rr	-	5	SUBJ	-	-
+2	ས་	ས	gx	gx	-	1	GX	-	-
+3	ཟླ་གསུམ་	ཟླ་གསུམ་	tt	tt	-	5	TA	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+5	བཀོལ་བ་	བཀོལ་བ་	vt	vt	-	0	ROOT	-	-
+6	ཡིན	ཡིན	up	up	-	5	ZC	-	-
+7	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཕྱི་ཚུལ་	ཕྱི་ཚུལ་	nn	nn	-	2	QATT	-	-
+2	མུ་ཏིག་	མུ་ཏིག་	nn	nn	-	4	DOBJ	-	-
+3	དཀར་པོ་	དཀར་པོ་	as	as	-	2	HATT	-	-
+4	ཡག་པོ་འདུག	ཡག་པོ་འདུག	as	as	-	0	ROOT	-	-
+5	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ལེགས་སྐྱེས་	ལེགས་སྐྱེས་	nn	nn	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	ཚུལ་	ཚུལ་	nn	nn	-	7	IOBJ	-	-
+4	དུ་	དུ་	nn	nn	-	3	GZ	-	-
+5	མོ	མོ	ns	ns	-	4	IOBJ	-	-
+6	ལ་	ལ་	ns	ns	-	4	GL	-	-
+7	བྱིན་པ་	བྱིན་པ་	vi	vi	-	0	ROOT	-	-
+8	ཡིན	ཡིན	up	up	-	6	ZC	-	-
+9	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཕྱི	ཕྱི	ff	ff	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	རྣམ་པ་	རྣམ་པ་	nn	nn	-	9	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	COMP	-	-
+5	ཁྱད་པར་ཅན་	ཁྱད་པར་ཅན་	as	as	-	7	QATT	-	-
+6	གྱི་	གྱི་	gz	gz	-	5	GZ	-	-
+7	འཕྲུལ་ཆས་	འཕྲུལ་ཆས་	nn	nn	-	9	DOBJ	-	-
+8	ཤིག་	ཤིག་	mg	mg	-	7	DIG	-	-
+9	རེད	རེད	up	up	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	ཕྱི་	ཕྱི་	ff	ff	-	3	QATT	-	-
+2	ཡི་	ཡི་	gz	gz	-	1	GZ	-	-
+3	ཇུས་འགོད་	ཇུས་འགོད་	nv	nv	-	4	DOBJ	-	-
+4	ཡག་པོ་འདུག	ཡག་པོ་འདུག	as	as	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	བཟོ་རྩལ་	བཟོ་རྩལ་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	ཡག	ཡག	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ལག་བྲིས་	ལག་བྲིས་	nn	nn	-	2	QATT	-	-
+2	དབྱེ་འབྱེད་	དབྱེ་འབྱེད་	nn	nn	-	3	QATT	-	-
+3	ནུས་པ་	ནུས་པ་	nn	nn	-	4	DOBJ	-	-
+4	མཐོ	མཐོ	ad	ad	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	འཆར་ངོས	འཆར་ངོས	nn	nn	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	ཕན་འབྲས་	ཕན་འབྲས་	nn	nn	-	4	DOBJ	-	-
+4	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཕྱི་ཚུལ་	ཕྱི་ཚུལ་	nn	nn	-	4	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	COMP	-	-
+3	རྫིག་པོ་	རྫིག་པོ་	as	as	-	4	ADVA	-	-
+4	འདུག	འདུག	vi	vi	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཚོན་མདོག་	ཚོན་མདོག་	nn	nn	-	3	QATT	-	-
+2	གི་	གི་	gz	gz	-	1	GZ	-	-
+3	རིམ་པ་	རིམ་པ་	nn	nn	-	4	DOBJ	-	-
+4	མངོན་གསལ་	མངོན་གསལ་	as	as	-	0	ROOT	-	-
+5	ཡིན	ཡིན	up	up	-	4	ZC	-	-
+
+1	པར་ལེན་	པར་ལེན་	nn	nn	-	2	QATT	-	-
+2	ནུས་པ་	ནུས་པ་	nn	nn	-	4	DOBJ	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	4	ADVA	-	-
+4	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	འཆར་ངོས	འཆར་ངོས	nn	nn	-	2	QATT	-	-
+2	ལས་པ་	ལས་པ་	nn	nn	-	4	DOBJ	-	-
+3	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	4	ADVA	-	-
+4	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	མཐེབ་གཞོང་	མཐེབ་གཞོང་	nn	nn	-	5	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	ཁྱད་པར་ཅན་	ཁྱད་པར་ཅན་	nn	nn	-	5	DOBJ	-	-
+4	ཞིག་	ཞིག་	mg	mg	-	3	DIG	-	-
+5	ཡིན་	ཡིན་	up	up	-	0	ROOT	-	-
+6	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཇུས་འགོད་	ཇུས་འགོད་	nn	nn	-	3	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	གསར་བ་	གསར་བ་	as	as	-	0	ROOT	-	-
+4	ཞིག་	ཞིག་	ux	ux	-	3	ZC	-	-
+5	ཡིན	ཡིན	up	up	-	3	ZC	-	-
+6	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ལག་པ	ལག་པ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ཚོར་བ་	ཚོར་བ་	nn	nn	-	5	SUBJ	-	-
+4	ནི་	ནི་	yy	yy	-	3	YY	-	-
+5	བདེ	བདེ	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	འཆར་ངོས་	འཆར་ངོས་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	གསལ་བོ་	གསལ་བོ་	as	as	-	0	ROOT	-	-
+4	རེད	རེད	up	up	-	3	ZC	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	160	160	mj	mj	-	3	QATT	-	-
+2	ཡི་	ཡི་	gz	gz	-	1	GZ	-	-
+3	འཆར་ངོས	འཆར་ངོས	nn	nn	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཁ་པར་	ཁ་པར་	nn	nn	-	2	DOBJ	-	-
+2	ཡོང་	ཡོང་	vi	vi	-	5	BLFH	-	-
+3	ན་	ན་	cn	cn	-	2	GLC	-	-
+4	གསལ་བོ་	གསལ་བོ་	as	as	-	4	ADVA	-	-
+5	གོ	གོ	vi	vi	-	0	ROOT	-	-
+
+1	ཁ་པར་	ཁ་པར་	nn	nn	-	2	QATT	-	-
+2	འབྲི་དེབ་	འབྲི་དེབ་	nn	nn	-	4	BL	-	-
+3	དང་	དང་	cd	cd	-	2	CD	-	-
+4	འཕྲིན་ཐུང་	འཕྲིན་ཐུང་	nn	nn	-	5	QATT	-	-
+5	གསོག་ཚད་	གསོག་ཚད་	nn	nn	-	6	DOBJ	-	-
+6	ཆེ	ཆེ	ad	ad	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ནང་ངོས་	ནང་ངོས་	nn	nn	-	2	DOBJ	-	-
+2	མཛེས་སྡུག་ལྡན་པ་	མཛེས་སྡུག་ལྡན་པ་	as	as	-	0	ROOT	-	-
+3	ཞིག་	ཞིག་	ug	ug	-	2	ZC	-	-
+4	རེད	རེད	up	up	-	2	ZC	-	-
+5	།	།	lz	lz	-	2	PUNCT	-	-
+
+1	ཁ་པར་	ཁ་པར་	nn	nn	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	མཐེབ་གཞོང་	མཐེབ་གཞོང་	nn	nn	-	5	QATT	-	-
+4	གི་	གི་	gz	gz	-	3	GZ	-	-
+5	ལག་ཚོར་	ལག་ཚོར་	nn	nn	-	6	DOBJ	-	-
+6	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཁ་པར་	ཁ་པར་	nn	nn	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	སྤུས་ཚད་	སྤུས་ཚད་	nn	nn	-	4	DOBJ	-	-
+4	ཅུང་བཟང་	ཅུང་བཟང་	as	as	-	8	BLFH	-	-
+5	ལ་	ལ་	gl	gl	-	4	GLC	-	-
+6	བརྡ་རྟགས་	བརྡ་རྟགས་	nn	nn	-	8	DOBJ	-	-
+7	ཀྱང་	ཀྱང་	cj	cj	-	6	CJ	-	-
+8	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	དྲ་རྒྱ་	དྲ་རྒྱ་	nn	nn	-	2	DOBJ	-	-
+2	བརྗེ་སྤོར་	བརྗེ་སྤོར་	vt	vt	-	0	ROOT	-	-
+3	སྟབས་བདེ	སྟབས་བདེ	ad	ad	-	2	ADVA	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཕྱི་ཚུལ་	ཕྱི་ཚུལ་	nn	nn	-	2	DOBJ	-	-
+2	བརྟན་	བརྟན་	ad	ad	-	5	BLFH	-	-
+3	ཞིང་	ཞིང་	cn	cn	-	2	GLC	-	-
+4	ཁོག་རྒྱ་	ཁོག་རྒྱ་	nn	nn	-	5	DOBJ	-	-
+5	ཆེ	ཆེ	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	མཐེབ་གཞོང་	མཐེབ་གཞོང་	nn	nn	-	3	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	ཁྱད་པར་ཅན་	ཁྱད་པར་ཅན་	as	as	-	0	ROOT	-	-
+4	ཞིག་	ཞིག་	ug	ug	-	3	ZC	-	-
+5	ཡིན	ཡིན	up	up	-	3	ZC	-	-
+6	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཁ་པར་	ཁ་པར་	nn	nn	-	2	QATT	-	-
+2	ཡོང་བ	ཡོང་བ	nv	nv	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	སྒྲ་	སྒྲ་	nn	nn	-	6	DOBJ	-	-
+5	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	6	COMP	-	-
+6	ཆེ་བ	ཆེ་བ	as	as	-	9	YGFH	-	-
+7	ས་	ས་	gx	gx	-	6	GX	-	-
+8	ང་རང་	ང་རང་	rr	rr	-	9	SUBJ	-	-
+9	ཡིད་ཚིམ་	ཡིད་ཚིམ་	vi	vi	-	0	ROOT	-	-
+10	ཡོད	ཡོད	uc	uc	-	9	ZC	-	-
+11	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	ལག་ཚོར་	ལག་ཚོར་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	སྐྱིད་པོ་	སྐྱིད་པོ་	as	as	-	0	ROOT	-	-
+4	འདུག	འདུག	ux	ux	-	3	ZC	-	-
+
+1	འཁོར་སྐྱོད་	འཁོར་སྐྱོད་	vi	vi	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	མྱུར་ཚད་	མྱུར་ཚད་	nn	nn	-	5	DOBJ	-	-
+4	ཅུང་	ཅུང་	dc	dc	-	5	ADVA	-
+5	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཡིག་གཟུགས་	ཡིག་གཟུགས་	nn	nn	-	4	DOBJ	-	-
+2	གསར་རྙིང་	གསར་རྙིང་	as	as	-	1	HATT	-	-
+3	ཚང་མ་	ཚང་མ་	ux	ux	-	2	ZC	-	-
+4	རྒྱབ་སྐྱོར་	རྒྱབ་སྐྱོར་	nv	nv	-	0	ROOT	-	-
+5	བྱེད	བྱེད	ux	ux	-	4	ZC	-	-
+6	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཅོང་བརྡ་	ཅོང་བརྡ་	nn	nn	-	2	DOBJ	-	-
+2	ཕབ་ལེན་	ཕབ་ལེན་	nv	nv	-	5	BLFH	-	-
+3	བྱེད་པ	བྱེད་པ	ux	ux	-	2	ZC	-	-
+4	ར་	ར་	gl	gl	-	2	GLC	-	-
+5	སྟབས་བདེ	སྟབས་བདེ	vi	vi	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	འཆར་ངོས་	འཆར་ངོས་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	མཛེས	མཛེས	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	གློག་རྫས་	གློག་རྫས་	nn	nn	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	ནུས་པ་	ནུས་པ་	nn	nn	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	4	ADVA	-	-
+5	བཟང་	བཟང་	ad	ad	-	10	FH	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+7	མཐེབ་གཞོང་རྫིག་	མཐེབ་གཞོང་རྫིག་	nn	nn	-	9	IOBJ	-	-
+8	ལ་	ལ་	gl	gl	-	8	GL	-	-
+9	བདེ	བདེ	ad	ad	-	0	ROOT	-	-
+10	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	ཕྱི་ཚུལ་	ཕྱི་ཚུལ་	nn	nn	-	2	QATT	-	-
+2	ཇུས་འགོད་	ཇུས་འགོད་	nv	nv	-	3	DOBJ	-	-
+3	སྟབས་བདེ	སྟབས་བདེ	as	as	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཕྱི་ཚུལ་	ཕྱི་ཚུལ་	nn	nn	-	2	QATT	-	-
+2	ཇུས་འགོད་	ཇུས་འགོད་	nn	nn	-	6	IOBJ	-	-
+3	ལ་	ལ་	gl	gl	-	2	GL	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	as	as	-	6	ADVA	-	-
+5	རང་གཤིས་	རང་གཤིས་	nn	nn	-	6	DOBJ	-	-
+6	ལྡན	ལྡན	uc	uc	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	བུ་མོ་ཚོས་	བུ་མོ་ཚོས་	rr	rr	-	6	SUBJ	-	-
+2	བཀོལ་སྤྱོད་	བཀོལ་སྤྱོད་	nn	nn	-	6	IOBJ	-	-
+3	བྱེད་པ	བྱེད་པ	ux	ux	-	2	ZC	-	-
+4	ར་	ར་	gl	gl	-	3	GL	-	-
+5	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	6	ADVA	-	-
+6	འཚམ	འཚམ	ad	ad	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	བརྙན་མིག་	བརྙན་མིག་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཅིན་ཏུང་	ཅིན་ཏུང་	ns	ns	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	སིལ་ཏོག་	སིལ་ཏོག་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	གསར་བ་	གསར་བ་	as	as	-	0	ROOT	-	-
+4	རེད	རེད	up	up	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	མདོག་	མདོག་	nn	nn	-	5	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	བལྟས་ན་	བལྟས་ན་	nn	nn	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dx	dx	-	5	ADVA	-	-
+5	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཅིན་ཏུང་	ཅིན་ཏུང་	ns	ns	-	3	QATT	-	-
+2	གི་	གི་	gz	gz	-	1	GZ	-	-
+3	རང་གཉེར་	རང་གཉེར་	nn	nn	-	4	QATT	-	-
+4	སིལ་ཏོག་	སིལ་ཏོག་	nn	nn	-	7	DOBJ	-	-
+5	གསར་བ་	གསར་བ་	as	as	-	4	HATT	-	-
+6	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	7	ADVA	-	-
+7	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	བྱིས་པ་	བྱིས་པ་	nn	nn	-	2	DOBJ	-	-
+2	ཟ་རྒྱུ	ཟ་རྒྱུ	nn	nn	-	5	IOBJ	-	-
+3	ར་	ར་	gl	gl	-	2	GL	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	དགའ	དགའ	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	མྱུར་སྐྱེལ་	མྱུར་སྐྱེལ་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	རྒྱུ་སྤུས་	རྒྱུ་སྤུས་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཕྱི་རོལ་	ཕྱི་རོལ་	nn	nn	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	ཚོང་ཁང་	ཚོང་ཁང་	nn	nn	-	6	IOBJ	-	-
+4	ལས་	ལས་	gj	gj	-	3	CN	-	-
+5	ཞིམ་པོ་	ཞིམ་པོ་	as	as	-	6	DOBJ	-	-
+6	འདུག	འདུག	vi	vi	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	བྲོ་བ་	བྲོ་བ་	nn	nn	-	3	DOBJ	-	-
+2	ཞིམ་པོ་	ཞིམ་པོ་	as	as	-	3	ADVA	-	-
+3	འདུག	འདུག	vi	vi	-	2	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	དངོས་པོ་	དངོས་པོ་	nn	nn	-	4	DOBJ	-	-
+2	སྐྱེལ་	སྐྱེལ་	vt	vt	-	4	FH	-	-
+3	ན་	ན་	cn	cn	-	2	GLC	-	-
+4	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	རིན་གོང་	རིན་གོང་	nn	nn	-	2	DOBJ	-	-
+2	སླ་མོ་	སླ་མོ་	as	as	-	0	ROOT	-	-
+3	རེད	རེད	up	up	-	2	ZC	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཀུ་ཤུ་	ཀུ་ཤུ་	nz	nz	-	5	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	སྙི་མོ་	སྙི་མོ་	as	as	-	10	BLFH	-	-
+4	ཞིག་	ཞིག་	ug	ug	-	3	ZC	-	-
+5	ཡིན་	ཡིན་	up	up	-	10	ZC	-	-
+6	ལ་	ལ་	gl	gl	-	5	GLC	-	-
+7	མངར་མོ་	མངར་མོ་	nn	nn	-	10	DOBJ	-	-
+8	ཞིག་	ཞིག་	uq	uq	-	7	ZC	-	-
+9	ཀྱང་	ཀྱང་	cj	cj	-	8	CJ	-	-
+10	ཡིན	ཡིན	up	up	-	0	ROOT	-	-
+11	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	ཅིན་ཏུང་	ཅིན་ཏུང་	ns	ns	-	3	QATT	-	-
+2	གི་	གི་	gz	gz	-	1	GZ	-	-
+3	རྒྱུ་སྤུས་	རྒྱུ་སྤུས་	nn	nn	-	5	IOBJ	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+5	ཡིད་ཆེས་	ཡིད་ཆེས་	nv	nv	-	0	ROOT	-	-
+6	བྱེད་	བྱེད་	ux	ux	-	5	ZC	-	-
+7	ཆོག	ཆོག	un	un	-	6	ZC	-	-
+8	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཀུ་ཤུ	ཀུ་ཤུ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ཕྱི་ཚུལ་	ཕྱི་ཚུལ་	nn	nn	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཀུ་ཤུ་	ཀུ་ཤུ་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཐུམ་སྒྲིལ་	ཐུམ་སྒྲིལ་	nn	nn	-	3	DOBJ	-	-
+2	ད་དུང་	ད་དུང་	tt	tt	-	3	TA	-	-
+3	ནན་མོ་	ནན་མོ་	as	as	-	0	ROOT	-	-
+4	རེད	རེད	up	up	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	བྲོ་བ་	བྲོ་བ་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཐུམ་སྒྲིལ་བྱས་པ	ཐུམ་སྒྲིལ་བྱས་པ	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	བྲོ་བ་	བྲོ་བ་	nn	nn	-	7	IOBJ	-	-
+2	ཞིམ་	ཞིམ་	ad	ad	-	1	HATT	-	-
+3	ལ་	ལ་	gl	gl	-	2	GL	-	-
+4	བྱིས་པ་	བྱིས་པ་	nn	nn	-	5	QATT	-	-
+5	ཟ་བ	ཟ་བ	nv	nv	-	7	IOBJ	-	-
+6	ར་	ར་	gl	gl	-	5	GL	-	-
+7	དགའ	དགའ	vi	vi	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	མྱུར་ཚད་	མྱུར་ཚད་	nn	nn	-	3	DOBJ	-	-
+2	སྔར་བཞིན་	སྔར་བཞིན་	tt	tt	-	3	TA	-	-
+3	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	དངོས་པོ་	དངོས་པོ་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཅིན་ཏུང་	ཅིན་ཏུང་	ns	ns	-	2	QATT	-	-
+2	དངོས་པོ་	དངོས་པོ་	nn	nn	-	3	QATT	-	-
+3	སྐྱེལ་བ་	སྐྱེལ་བ་	nn	nn	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	སྤུས་ཚད་	སྤུས་ཚད་	nn	nn	-	2	DOBJ	-	-
+2	ཡག་པོ་འདུག	ཡག་པོ་འདུག	as	as	-	0	ROOT	-	-
+3	།	།	lz	lz	-	2	PUNCT	-	-
+
+1	སྐྱེལ་མཁན་	སྐྱེལ་མཁན་	nn	nn	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	རྣམ་འགྱུར་	རྣམ་འགྱུར་	nn	nn	-	5	DOBJ	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	དངོས་པོ་	དངོས་པོ་	nn	nn	-	2	QATT	-	-
+2	བསྐུར་བ་	བསྐུར་བ་	nn	nn	-	3	DOBJ	-	-
+3	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	2	COMP	-	-
+2	ཞིམ་པོ་	ཞིམ་པོ་	as	as	-	3	ADVA	-	-
+3	འདུག	འདུག	vi	vi	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	གཅེས་ཕྲུག་	གཅེས་ཕྲུག་	nn	nn	-	3	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	ཉོས་པ་	ཉོས་པ་	vt	vt	-	0	ROOT	-	-
+4	ཡིན	ཡིན	up	up	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	གཅེས་ཕྲུག་	གཅེས་ཕྲུག་	nn	nn	-	2	QATT	-	-
+2	ཟ་རྒྱུ	ཟ་རྒྱུ	nn	nn	-	5	IOBJ	-	-
+3	ར་	ར་	gl	gl	-	2	GL	-	-
+4	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	5	ADVA	-	-
+5	དགའ	དགའ	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	ཀུ་ཤུ་	ཀུ་ཤུ་	nz	nz	-	3	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	སྙི་མོ་	སྙི་མོ་	as	as	-	0	ROOT	-	-
+4	ཞིག་	ཞིག་	ug	ug	-	3	ZC	-	-
+5	རེད	རེད	up	up	-	4	ZC	-	-
+6	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཀུ་ཤུ་	ཀུ་ཤུ་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང	nr	nr	-	3	ADVA	-	-
+3	ཆེ	ཆེ	as	as	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཅིན་ཏུང་	ཅིན་ཏུང་	ns	ns	-	2	QATT	-	-
+2	རང་གཉེར་	རང་གཉེར་	nn	nn	-	4	QATT	-	-
+3	གྱི་	གྱི་	gz	gz	-	2	GZ	-	-
+4	ཐོན་རྫས་	ཐོན་རྫས་	nn	nn	-	6	IOBJ	-	-
+5	ལ་	ལ་	gl	gl	-	4	GL	-	-
+6	ཡིད་ཆེས་	ཡིད་ཆེས་	vi	vi	-	0	ROOT	-	-
+7	འདུག	འདུག	vi	vi	-	6	COMP	-	-
+
+1	སྐྱེལ་མཁན་	སྐྱེལ་མཁན་	nn	nn	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	ཞབས་ཞུ་	ཞབས་ཞུ་	nv	nv	-	6	IOBJ	-	-
+4	ཡང་	ཡང་	cj	cj	-	3	CJ	-	-
+5	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	6	ADVA	-	-
+6	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཀུ་ཤུ་	ཀུ་ཤུ་	nn	nn	-	4	DOBJ	-	-
+2	ཐེངས་མང་པོ	ཐེངས་མང་པོ	dp	dp	-	4	ADVA	-	-
+3	ར་	ར་	gl	gl	-	2	GL	-	-
+4	ཉོས	ཉོས	vt	vt	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	མྱུར་ཚད་	མྱུར་ཚད་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	མགྱོགས	མགྱོགས	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཁ་སང་	ཁ་སང་	tt	tt	-	2	TA	-	-
+2	ཉོས་པ་	ཉོས་པ་	vt	vt	-	0	ROOT	-	-
+3	ཡིན	ཡིན	up	up	-	2	ZC	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	དེ་རིང་	དེ་རིང་	tt	tt	-	2	QATT	-	-
+2	སྔ་དྲོ་	སྔ་དྲོ་	tt	tt	-	1	TA	-	-
+3	ཐོན་	ཐོན་	vt	vt	-	0	ROOT	-	-
+4	སོང་	སོང་	us	us	-	3	ZC	-	-
+5	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཀུ་ཤུ	ཀུ་ཤུ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	བྲོ་བ་	བྲོ་བ་	nn	nn	-	5	DOBJ	-	-
+4	ཞིམ་པོ་	ཞིམ་པོ་	as	as	-	4	ADVA	-	-
+5	འདུག	འདུག	vi	vi	-	0	ROOT	-	-
+
+1	ཚང་མ	ཚང་མ	rx	rx	-	5	SUBJ	-	-
+2	ས	ས་	gx	gx	-	1	GX	-	-
+3	མང་པོ་	མང་པོ་	as	as	-	5	ADVA	-	-
+4	ཞིག་	ཞིག་	ux	ux	-	3	ZC	-	-
+5	བཟས་	བཟས་	vt	vt	-	0	ROOT	-	-
+6	སོང་	སོང་	us	us	-	5	ZC	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	སྐྱེལ་མཁན་	སྐྱེལ་མཁན་	nn	nn	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	ཞབས་ཞུ	ཞབས་ཞུ	nv	nv	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	རྣམ་འགྱུར་	རྣམ་འགྱུར་	nn	nn	-	7	DOBJ	-	-
+6	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	7	ADVA	-	-
+7	བཟང་	བཟང་	ad	ad	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ཀུ་ཤུ་	ཀུ་ཤུ་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	མངར	མངར	ad	ad	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	ཅིན་ཏུང་	ཅིན་ཏུང་	ns	ns	-	3	FOBJ	-	-
+2	ནས་	ནས་	gj	gj	-	1	GJ	-	-
+3	ཉོས་	ཉོས་	vt	vt	-	5	BLFH	-	-
+4	ན་	ན་	cn	cn	-	3	GLC	-	-
+5	སྟབས་བདེ	སྟབས་བདེ	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	དངོས་ཟོག་སྐྱེལ་འདྲེན་	དངོས་ཟོག་སྐྱེལ་འདྲེན་	nn	nn	-	2	DOBJ	-	-
+2	མགྱོགས་པ་	མགྱོགས་པ་	as	as	-	0	ROOT	-	-
+3	རེད	རེད	up	up	-	2	ZC	-	-
+4	།	།	lz	lz	-	2	PUNCT	-	-
+
+1	ཀུ་ཤུ་	ཀུ་ཤུ་	nn	nn	-	3	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	སྙི་མོ་	སྙི་མོ་	as	as	-	0	ROOT	-	-
+4	རེད	རེད	up	up	-	3	ZC	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཀུ་ཤུ་	ཀུ་ཤུ་	nn	nn	-	5	DOBJ	-	-
+2	ཧ་ཅང་	ཧ་ཅང་	dc	dc	-	3	ADVA	-	-
+3	སྙི་	སྙི་	ad	ad	-	5	BL	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+5	ཞིམ	ཞིམ	ad	ad	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	རང་ཚུགས་	རང་ཚུགས་	nn	nn	-	3	DOBJ	-	-
+2	མ་	མ་	df	df	-	3	DF	-	-
+3	ཤོར	ཤོར	vi	vi	-	7	BLFH	-	-
+4	དང	དང	cd	cd	-	3	GLC	-	-
+5	གཞན་སེམས་	གཞན་སེམས་	nn	nn	-	7	DOBJ	-	-
+6	མ་	མ་	df	df	-	7	DF	-	-
+7	དཀྲུགས	དཀྲུགས	vt	vt	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	གངས་ལྗོངས་ས་མཐོ	གངས་ལྗོངས་ས་མཐོ	nn	nn	-	5	IOBJ	-	-
+2	ར་	ར་	gl	gl	-	1	GL	-	-
+3	བྱས་རྗེས	བྱས་རྗེས	nn	nn	-	5	DOBJ	-	-
+4	ཆེན་པོ་	ཆེན་པོ་	as	as	-	3	HATT	-	-
+5	བཞག	བཞག	vt	vt	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	བོད་	བོད་	ns	ns	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	6	GZ	-	-
+3	ཡ་ཐོག་	ཡ་ཐོག་	tt	tt	-	4	QATT	-	-
+4	དཔལ་འབྱོར་	དཔལ་འབྱོར་	nn	nn	-	6	QATT	-	-
+5	གྱི་	གྱི་	gz	gz	-	4	GZ	-	-
+6	རྣམ་པ་	རྣམ་པ་	nn	nn	-	7	DOBJ	-	-
+7	བཤད	བཤད	vt	vt	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	སྤྱི་དབང་མིན་པའི་ལམ་ལུགས	སྤྱི་དབང་མིན་པའི་ལམ་ལུགས	nn	nn	-	2	QATT	-	-
+2	དཔལ་འབྱོར་	དཔལ་འབྱོར་	nn	nn	-	5	DOBJ	-	-
+3	དར་	དར་	vi	vi	-	5	BL	-	-
+4	ཞིང་	ཞིང་	cn	cn	-	3	CN	-	-
+5	རྒྱས	རྒྱས	vi	vi	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	བོད་	བོད་	ns	ns	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	ས་གདན་	ས་གདན་	nn	nn	-	4	QATT	-	-
+4	འགྲེམ་སྟོན་ཚོང་འདུས	འགྲེམ་སྟོན་ཚོང་འདུས	nv	nv	-	7	DOBJ	-	-
+5	དེ་	དེ་	cn	cn	-	4	PRON	-	-
+6	སྤྱི་ཟླ་དྲུག་པའི་ཚེས་ཉི་ཤུ་ཉིན	སྤྱི་ཟླ་དྲུག་པའི་ཚེས་ཉི་ཤུ་ཉིན་	tt	tt	-	7	TA	-	-
+7	འཚོག་རྒྱུ་ཡིན་པ།	འཚོག་རྒྱུ་ཡིན་པ།	vt	vt	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+1	བཀྲ་ཤིས་	བཀྲ་ཤིས་	nr	nr	-	8	SUBJ	-	-
+2	ཀྱིས་	ཀྱིས་	gx	gx	-	1	GX	-	-
+3	ནགས་ཚལ་	ནགས་ཚལ་	ns	ns	-	8	FOBJ	-	-
+4	དུ་	དུ་	gl	gl	-	3	GL	-	-
+5	སྟ་རེ	སྟ་རེ	nn	nn	-	8	SUBJ	-	-
+6	འིས་	འིས་	gx	gx	-	5	GX	-	-
+7	སྡོང་བོ་	སྡོང་བོ་	nn	nn	-	8	DOBJ	-	-
+8	བཅད་	བཅད་	vt	vt	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	ཕུན་སུམ་ཚོགས་པ	ཕུན་སུམ་ཚོགས་པ	as	as	-	3	QATT	-	-
+2	འི་	འི་	GZ	GZ	-	1	GZ	-	-
+3	བྱེད་སྒོ་	བྱེད་སྒོ་་	nn	nn	-	4	DOBJ	-	-
+4	སྤེལ་	སྤེལ་	vi	vi	-	8	BLFH	-	-
+5	ནས་	ནས་	c	c	-	4	GLC	-	-
+6	རྒྱལ་སྟོན་	རྒྱལ་སྟོན་	nn	nn	-	8	IOBJ	-	-
+7	ལ་	ལ་	gl	gl	-	6	GL	-	-
+8	རྟེན་འབྲེལ་ཞུས་པ	རྟེན་འབྲེལ་ཞུས་པ	vt	vt	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	སྐལ་བཟང་	སྐལ་བཟང་	nr	nr	-	3	SUBJ	-	-
+2	ཡར་	ཡར	ff	ff	-	3	FOBJ	-	-
+3	འགྲོ	འགྲོ	vt	vt	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	བོད་རྒྱ་	བོད་རྒྱ་	nn	nn	-	3	QATT	-	-
+2	ལོ་རྒྱུས་	ལོ་རྒྱུས་	nn	nn	-	3	QATT	-	-
+3	ཡིག་ཚགས་	ཡིག་ཚགས་	nn	nn	-	4	DOBJ	-	-
+4	གཅེས་བཏུས	གཅེས་བཏུས	vi	vi	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཀྲུང་གོ	ཀྲུང་གོ	ng	ng	-	3	QATT	-	-
+2	འི་	འི་	GZ	GZ	-	1	GZ	-	-
+3	འགྲོ་བ་མིའི་ཐོབ་ཐང་	འགྲོ་བ་མིའི་ཐོབ་ཐང་	nn	nn	-	5	QATT	-	-
+4	གི་	གི་	GZ	GZ	-	3	GZ	-	-
+5	རྒྱབ་ཤ་དཀར་པོའི་དེབ་	རྒྱབ་ཤ་དཀར་པོའི་དེབ་	nn	nn	-	12	IOBJ	-	-
+6	ཏུ་	ཏུ་	gl	gl	-	5	GL	-	-
+7	བོད་	བོད་	nn	nn	-	12	IOBJ	-	-
+8	དུ་	དུ་	gl	gl	-	7	GL	-	-
+9	ད་ཆ་	ད་ཆ་	tt	tt	-	12	TA	-	-
+10	སྤྲུལ་སྐུ	སྤྲུལ་སྐུ	nn	nn	-	12	DOBJ	-	-
+11	༣༥༨	༣༥༨	mj	mj	-	10	DIG	-	-
+12	ཡོད་	ཡོད་	vc	vc	-	0	ROOT	-	-
+13	ཅེས་བཀོད་འདུག	ཅེས་བཀོད་འདུག	ux	ux	-	12	ZC	-	-
+14	།	།	lz	lz	-	12	PUNCT	-	-
+
+1	བོད་	བོད་	ne	ne	-	16	SUBJ	-	-
+2	ཀྱིས་	ཀྱིས་	gx	gx	-	1	GX	-	-
+3	བོད་	བོད་	ne	ne	-	5	IOBJ	-	-
+4	དུ་	དུ་	gl	gl	-	3	GL	-	-
+5	ལས་ཀ་	ལས་ཀ་	nn	nn	-	6	QATT	-	-
+6	བྱས་	བྱས་	nn	nn	-	9	IOBJ	-	-
+7	ནས་	ནས་	cx	cx	-	6	CN	-	-
+8	ལོ་ཉི་ཤུ་རྩ་ལྔ་	ལོ་ཉི་ཤུ་རྩ་ལྔ་	tt	tt	-	16	TA	-	-
+9	ཟིན་པ	ཟིན་པ	vi	vi	-	11	QATT	-	-
+10	འི་	འི་	GZ	GZ	-	9	GZ	-	-
+11	ལས་འཁྱུར་ངལ་གསོ་རྒྱག་པ	ལས་འཁྱུར་ངལ་གསོ་རྒྱག་པ	nn	nn	-	13	QATT	-	-
+12	འི་	འི་	GZ	GZ	-	11	GZ	-	-
+13	རེ་ཞུ་འབུལ་ཆོག་པ	རེ་ཞུ་འབུལ་ཆོག་པ	nn	nn	-	15	QATT	-	-
+14	འི་	འི་	GZ	GZ	-	13	GZ	-	-
+15	སྲིད་ཇུས་	སྲིད་ཇུས་	nn	nn	-	16	DOBJ	-	-
+16	བཏོན་པ	བཏོན་པ	vt	vt	-	0	ROOT	-	-
+17	།	།	lz	lz	-	16	PUNCT	-	-
+
+1	མི་རྟག་	མི་རྟག་	nn	nn	-	2	QATT	-	-
+2	དྲན་པ	དྲན་པ	nn	nn	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	གསུང་མགུར	གསུང་མགུར	nn	nn	-	5	DOBJ	-	-
+5	རེད	རེད	uc	uc	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	གཤམ་	གཤམ་	ff	ff	_	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	_	1	GZ	-	-
+3	བརྗོད་པ་	བརྗོད་པ་	nn	nn	_	7	DOBJ	-	-
+4	རྣམས་	རྣམས་	qm	qm	_	3	LA	-	-
+5	ཡང་དག་པ	ཡང་དག་པ	as	as	_	7	ADVA	-	-
+6	ར་	ར་	gl	gl	_	5	GL	-	-
+7	བཅོས་	བཅོས་	vt	vt	_	0	ROOT	-	-
+8	དགོས་	དགོས་	ux	ux	_	7	ZC	-	-
+9	།	།	lz	lz	_	7	PUNCT	-	-
+
+1	སློབ་ཕྲུག་	སློབ་ཕྲུག་	nn	nn	_	7	DOBJ	-	-
+2	ཚོ་	ཚོ་	rr	rr	_	1	PRON	-	-
+3	སྦྱོང་ཚན་	སྦྱོང་ཚན་	nn	nn	_	4	QATT	-	-
+4	ཡིག་གཟུགས་	ཡིག་གཟུགས་	nn	nn	_	7	DOBJ	-	-
+5	ལེགས་པོ་	ལེགས་པོ་	as	as	_	7	ADVA	-	-
+6	ས་	ས་	gx	gx	_	5	GX	-	-
+7	བྲིས་	བྲིས་	vt	vt	_	0	ROOT	-	-
+8	ཤིག་	ཤིག་	ux	ux	_	7	ZC	-	-
+9	།	།	lz	lz	_	7	PUNCT	-	-
+
+1	སྙིང་ཉེ་བ	སྙིང་ཉེ་བ	as	as	_	3	QATT	-	-
+2	འི་	འི་	gz	gz	_	1	GZ	-	-
+3	ཕ་མ	ཕ་མ	nn	nn	_	6	IOBJ	-	-
+4	ར་	ར་	gl	gl	_	3	GL	-	-
+5	དྲིན་ལན་	དྲིན་ལན་	nn	nn	_	6	DOBJ	-	-
+6	གསོལ་	གསོལ་	vt	vt	_	0	ROOT	-	-
+7	ཞིག	ཞིག	uu	uu	_	6	ZC	-	-
+8	།	།	lz	lz	_	6	PUNCT	-	-
+
+1	དེ་	དེ་	rz	rz	-	9	DOBJ	-	-
+2	ཆུ་	ཆུ་	nn	nn	-	6	QATT	-	-
+3	གང་	གང་	qm	qm	-	2	LA	-	-
+4	ཡོད་པ	ཡོད་པ	as	as	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	ཤེལ་ཕོར་	ཤེལ་ཕོར་	nn	nn	-	7	QATT	-	-
+7	ནང་	ནང་	ff	ff	-	6	FOBJ	-	-
+8	དུ་	དུ་	gl	gl	-	7	GL	-	-
+9	བླུགས	བླུགས	vt	vt	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	ལང་ཀྲི་ལན་	ལང་ཀྲི་ལན་	nr	nr	-	3	SUBJ	-	-
+2	གྱིས་	གྱིས་	gx	gx	-	1	GX	-	-
+3	བཤད་པ་	བཤད་པ་	vt	vt	-	7	FH	-	-
+4	ལྟར་	ལྟར་	ux	ux	-	3	ZC	-	-
+5	ཆུ་	ཆུ་	nn	nn	-	7	DOBJ	-	-
+6	ཕྱིར་	ཕྱིར་	ff	ff	-	7	FOBJ	-	-
+7	ལུད་	ལུད་	vi	vi	-	0	ROOT	-	-
+8	ཡོང་	ཡོང་	ux	Ux	-	7	ZC	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	ཁྱེད་	ཁྱེད་	nr	nr	-	7	SUBJ	-	-
+2	ཀྱིས་	ཀྱིས་	gx	gx	-	1	GX	-	-
+3	ང་ཚོ	ང་ཚོ	nn	nn	-	7	IOBJ	-	-
+4	ར་	ར་	gl	gl	-	3	GL	-	-
+5	དྲི་བ་	དྲི་བ་	nn	nn	-	7	DOBJ	-	-
+6	འདི་འདྲ་	འདི་འདྲ་	rz	rz	-	5	PRON	-	-
+7	བཏོན་	བཏོན་	vt	vt	-	10	BLFH	-	-
+8	ནས་	ནས་	cn	cn	-	7	GLC	-	-
+9	མགོ་སྐོར་	མགོ་སྐོར་	nn	nn	-	10	DOBJ	-	-
+10	གཏོང་	གཏོང་	vt	vt	-	0	ROOT	-	-
+11	དོན་ཅི་ཡིན	དོན་ཅི་ཡིན	ux	ux	-	10	ZC	-	-
+12	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	དེབ་	དེབ་	nn	nn	-	9	IOBJ	-	-
+2	ཏུ་	ཏུ་	gl	gl	-	1	GL	-	-
+3	བཀོད་པ	བཀོད་པ	nn	nn	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	རྩོམ་ཡིག་	རྩོམ་ཡིག་	nn	nn	-	9	IOBJ	-	-
+6	དག་	དག་	qx	qm	-	5	LA	-	-
+7	ལ་	ལ་	gl	gl	-	6	GL	-	-
+8	རྩོམ་ཡོན་འབུལ་	རྩོམ་ཡོན་འབུལ་	nn	nn	-	9	DOBJ	-	-
+9	ཐུབ་	ཐུབ་	vx	vx	-	0	ROOT	-	-
+10	ཀྱིན་	ཀྱིན་	us	us	-	9	ZC	-	-
+11	མེད	མེད	df	df	-	9	FD	-	-
+12	།	།	lz	lz	-	9	PUNCT	-	-
+1	གྲོང་ཁྱེར་	གྲོང་ཁྱེར་	ng	ng	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	ཁོར་ཡུག་	ཁོར་ཡུག་	nn	nn	-	5	DOBJ	-	-
+4	ལེགས་བཟོ	ལེགས་བཟོ	as	as	-	5	ADVA	-	-
+5	བྱེད་རྒྱུ	བྱེད་རྒྱུ	vx	vx	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	མཚན་མོ	མཚན་མོ	tt	tt	-	4	TA	-	-
+2	ར་	ར་	gl	gl	-	1	GL	-	-
+3	མེ་ཕུང་	མེ་ཕུང་	ng	ng	-	4	DOBJ	-	-
+4	བརྒྱབ་	བརྒྱབ་	vt	vt	-	8	FH	-	-
+5	སྟེ་	སྟེ་	cn	cn	-	4	GLC	-	-
+6	བྲོ་འཁྲབ་	བྲོ་འཁྲབ་	ng	ng	-	7	QATT	-	-
+7	སྲོལ་	སྲོལ་	ng	ng	-	8	DOBJ	-	-
+8	ཡོད	ཡོད	ve	ve	-	0	ROOT	-	-
+9	།	།	xp	xp	-	8	PUNCT	-	-
+
+1	ཞབས་ཞུ	ཞབས་ཞུ	ng	ng	-	3	QATT	-	-
+2	འི་	འི་	GZ	GZ	-	1	GZ	-	-
+3	འདུ་ཤེས་	འདུ་ཤེས་	ng	ng	-	7	DOBJ	-	-
+4	བཅས་	བཅས་	cn	cn	-	3	COOR	-	-
+5	ཆེ་	ཆེ་	dx	dx	-	7	ADVA	-	-
+6	རུ་	རུ་	gl	gl	-	5	GL	-	-
+7	གཏོང་རྒྱུ་	གཏོང་རྒྱུ་	vt	vt	-	0	ROOT	-	-
+8	ཡིན་པ	ཡིན་པ	vj	vj	-	7	COMP	-	-
+9	རེད	རེད	vj	vj	-	7	COMP	-	-
+10	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	དཀར་ཆང་	དཀར་ཆང་	ng	ng	-	3	BL	-	-
+2	དང་	དང་	cx	cx	-	1	CD	-	-
+3	ལྦུ་རག་	ལྦུ་རག་	ng	ng	-	6	DOBJ	-	-
+4	སོགས་	སོགས་	rz	rz	-	3	PRON	-	-
+5	ལ་	ལ་	gl	gl	-	4	GL	-	-
+6	འཛེམ	འཛེམ	vt	vt	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	དགོན་སྡེ	དགོན་སྡེ	ng	ng	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	གྲྭ་བཙུན་ཚོ	གྲྭ་བཙུན་ཚོ	nn	nn	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	4	GZ	-	-
+5	འཚོ་བ	འཚོ་བ	nn	nn	-	8	IOBJ	-	-
+6	ར་	ར་	gl	gl	-	6	GL	-	-
+7	དོ་ཁུར་བྱེད	དོ་ཁུར་བྱེད	vi	vi	-	0	ROOT	-	-
+8	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	རིག་གནས་	རིག་གནས་	nn	nn	-	2	QATT	-	-
+2	ཡུལ་སྐོར་	ཡུལ་སྐོར་	nn	nn	-	6	SUBJ	-	-
+3	གྱིས་	གྱིས་	gx	gx	-	2	GX	-	-
+4	གསོན་ཤུགས་	གསོན་ཤུགས་	nn	nn	-	6	DOBJ	-	-
+5	གསར་པ་	གསར་པ་	as	as	-	4	HATT	-	-
+6	སྣོན	སྣོན	vt	vt	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+1	པཎ་ཆེན་མཆོག་	པཎ་ཆེན་མཆོག་	nr	nr	-	7	SUBJ	-	-
+2	སྤྱི་ཟླ༨པའའི་ཚེས༡༣ཉིན	སྤྱི་ཟླ༨པའའི་ཚེས༡༣ཉིན	nt	nt	-	7	TA	-	-
+3	བོད་ལྗོངས་	བོད་ལྗོངས་	nn	nn	-	4	QATT	-	-
+4	མངའ་རིས་	མངའ་རིས་	ns	ns	-	5	QATT	-	-
+5	ས་ཁུལ་	ས་ཁུལ་	nn	nn	-	7	IOBJ	-	-
+6	དུ་	དུ་	gl	gl	-	5	GL	-	-
+7	འབྱོར་པ	འབྱོར་པ	vt	vt	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	བློ་བཟང་རྒྱལ་མཚན་	བློ་བཟང་རྒྱལ་མཚན་	nr	nr	-	6	SUBJ	-	-
+2	གྱིས་	གྱིས་	gx	gx	-	1	GX	-	-
+3	ཀྲང་ཡ་ཧྥེ་	ཀྲང་ཡ་ཧྥེ་	nz	nz	-	6	IOBJ	-	-
+4	བཅས་པ་	བཅས་པ་	hh	hh	-	3	HH	-	-
+5	དང་	དང་	cd	cd	-	4	CD	-	-
+6	མཇལ་འཕྲད་གནང	མཇལ་འཕྲད་གནང	vt	vt	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཆ་མཉམ་	ཆ་མཉམ་	nn	nn	-	8	IOBJ	-	-
+2	མུའུ	མུའུ	qd	qd	-	1	LA	-	-
+3	རེ	རེ་	mj	mj	-	2	DIG	-	-
+4	ལ་	ལ	gl	gl	-	3	GL	-	-
+5	ཡོང་འབབ་	ཡོང་འབབ་	nn	nn	-	9	DOBJ	-	-
+6	སྤྱི་རྒྱ་	སྤྱི་རྒྱ་	qd	qd	-	5	LA	-	-
+7	༢༦༥	༢༦༥	mj	mj	-	6	DIG	-	-
+8	འཕར་སྣོན་བྱུང	འཕར་སྣོན་བྱུང	vt	vt	-	0	ROOT	-	-
+9	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	རང་ཁྱིམ་	རང་ཁྱིམ་	nn	nn	-	8	SUBJ	-	-
+2	གྱིས་	གྱིས་	gx	gx	-	1	GX	-	-
+3	རྒྱབ་སྐྱོར་	རྒྱབ་སྐྱོར་	nv	nv	-	5	BL	-	-
+4	དང་	དང་	cd	cd	-	3	CD	-	-
+5	རམ་འདེགས་	རམ་འདེགས་	nv	nv	-	8	IOBJ	-	-
+6	ལ་	ལ་	gl	gl	-	5	GL	-	-
+7	ཤིན་ཏུ་	ཤིན་ཏུ་	dc	dc	-	8	ADVA	-	-
+8	འབྲེལ་བ་	འབྲེལ་བ་	vi	vi	-	0	ROOT	-	-
+9	ལྡན་པ་	ལྡན་པ་	uc	uc	-	8	ZC	-	-
+10	རེད	རེད	up	up	-	8	ZC	-	-
+11	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	ལོ་རྒྱུས་	ལོ་རྒྱུས་	nn	nn	-	2	QATT	-	-
+2	སྙན་ངག་	སྙན་ངག་	nn	nn	-	3	QATT	-	-
+3	གེ་སར་སྒྲུང་	གེ་སར་སྒྲུང་	nn	nn	-	5	QATT	-	-
+4	གི་	གི་	gz	gz	-	3	GZ	-	-
+5	རིན་ཐང་	རིན་ཐང་	nn	nn	-	6	DOBJ	-	-
+6	བརྟག་ཞིབ	བརྟག་ཞིབ	vi	vi	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	གཞན་ད་དུང་	གཞན་ད་དུང་	cn	cn	-	10	CN	-	-
+2	ཆོས་ལུགས་	ཆོས་ལུགས་	nn	nn	-	4	QATT	-	-
+3	ཀྱི་	ཀྱི་	gz	gz	-	2	GZ	-	-
+4	སྐོར་	སྐོར་	nn	nn	-	10	DOBJ	-	-
+5	སོགས་	སོགས་	rx	rx	-	4	PRON	-	-
+6	ཕྱོགས་ཡོངས་	ཕྱོགས་ཡོངས་	dw	dw	-	10	ADVA	-	-
+7	ནས་	ནས་	cx	cx	-	6	CN	-	-
+8	གསལ་བོ	གསལ་བོ	as	as	-	10	ADVA	-	-
+9	ར་	ར་	gl	gl	-	8	GL	-	-
+10	བརྗོད་ཡོད	བརྗོད་ཡོད	vc	vc	-	0	ROOT	-	-
+11	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	གེ་སར་སྒྲུང་	གེ་སར་སྒྲུང་	nn	nn	-	4	QATT	-	-
+2	གི་	གི་	gz	gz	-	1	GZ	-	-
+3	ངོ་མཚར་	ངོ་མཚར་	as	as	-	4	QATT	-	-
+4	རྣམ་པ	རྣམ་པ	nn	nn	-	6	IOBJ	-	-
+5	ར་	ར་	gl	gl	-	4	GL	-	-
+6	འགྲེལ་བཤད་	འགྲེལ་བཤད་	vt	vt	-	0	ROOT	-	-
+7	ཟབ་མོ་	ཟབ་མོ་	as	as	-	6	ADVA	-	-
+8	བྱས་	བྱས་	ux	ux	-	7	ZC	-	-
+9	ཡོད	ཡོད	uc	uc	-	8	ZC	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	བརྐོས་རིས་	བརྐོས་རིས་	nn	nn	-	3	QATT	-	-
+2	སོགས་	སོགས་	rx	rx	-	1	PRON	-	-
+3	རི་མོ	རི་མོ	nn	nn	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	བརྩམས་ཆོས་	བརྩམས་ཆོས་	nn	nn	-	7	DOBJ	-	-
+6	མང་དག་	མང་དག་	mg	mg	-	7	DIG	-	-
+7	བཀལ་ཡོད	བཀལ་ཡོད	vt	vt	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ཞོལ་གྲོང་	ཞོལ་གྲོང་	ns	ns	-	3	BL	-	-
+2	དང་	དང་	cd	cd	-	1	CN	-	-
+3	ཞོལ་གྲོང་	ཞོལ་གྲོང་	ns	ns	-	4	QATT	-	-
+4	གཏེར་རྫས་ཁང་	གཏེར་རྫས་ཁང་	nn	nn	-	8	DOBJ	-	-
+5	སོགས་	སོགས་	rx	rx	-	4	PRON	-	-
+6	ཕྱི་ཕྱོགས་	ཕྱི་ཕྱོགས་	ff	ff	-	8	FOBJ	-	-
+7	སུ་	སུ་	gl	gl	-	6	GL	-	-
+8	འགྲེམ་སྟོན་བྱས	འགྲེམ་སྟོན་བྱས	vx	vx	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	རྒྱལ་ཁབ་	རྒྱལ་ཁབ་	nn	nn	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	ལོ་རྒྱུས་	ལོ་རྒྱུས་	nn	nn	-	4	QATT	-	-
+4	རིག་གནས་	རིག་གནས་	nn	nn	-	5	QATT	-	-
+5	མཁར་གྲོང་	མཁར་གྲོང་	nn	nn	-	8	DOBJ	-	-
+6	གྲགས་ཅན༣	གྲགས་ཅན༣	mj	mj	-	5	DIG	-	-
+7	བཅས་	བཅས་	hh	hh	-	8	HH	-	-
+8	ཡོད་པ་	ཡོད་པ་	vc	vc	-	0	ROOT	-	-
+9	རེད	རེད	up	up	-	8	ZC	-	-
+10	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	དཔེ་རྙིང་	དཔེ་རྙིང་	nn	nn	-	11	DOBJ	-	-
+2	རྩ་ཆེན	རྩ་ཆེན	qx	qx	-	1	LA	-	-
+3	༣༤	༣༤	mj	mj	-	2	DIG	-	-
+4	རྒྱལ་ཁབ་	རྒྱལ་ཁབ་	nn	nn	-	6	QATT	-	-
+5	ཀྱི་	ཀྱི་	gz	gz	-	4	GZ	-	-
+6	དཔེ་རྙིང་	དཔེ་རྙིང་	nn	nn	-	7	QATT	-	-
+7	རྩ་ཆེན་	རྩ་ཆེན་	nn	nn	-	9	QATT	-	-
+8	གྱི་	གྱི་	gz	gz	-	7	GZ	-	-
+9	མིང་ཐོ་	མིང་ཐོ་	nn	nn	-	9	IOBJ	-	-
+10	རུ་	རུ་	gl	gl	-	9	GL	-	-
+11	བདམས་པ་	བདམས་པ་	vt	vt	-	0	ROOT	-	-
+12	རེད	རེད	up	up	-	11	ZC	-	-
+13	།	།	lz	lz	-	11	PUNCT	-	-
+
+1	གཅིག་གྱུར་	གཅིག་གྱུར་	nn	nn	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	ཕྱུག་འགྱུར་	ཕྱུག་འགྱུར་	nn	nn	-	4	QATT	-	-
+4	ལམ་བུ་	ལམ་བུ་	nn	nn	-	5	DOBJ	-	-
+5	འཚོལ་སྙེག་	འཚོལ་སྙེག་	vx	vx	-	0	ROOT	-	-
+6	བྱེད་	བྱེད་	ux	ux	-	5	ZC	-	-
+7	དགོས	དགོས	un	un	-	6	ZC	-	-
+8	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	བོད་ལྗོངས་	བོད་ལྗོངས་	nx	nx	-	2	QATT	-	-
+2	ཉི་མ་རྫོང	ཉི་མ་རྫོང	ns	ns	-	4	FOBJ	-	-
+3	དུ་	དུ་	gl	gl	-	2	GL	-	-
+4	ས་ཡོམ་	ས་ཡོམ་	nn	nn	-	7	DOBJ	-	-
+5	རིམ་པ	རིམ་པ	qz	qz	-	4	LA	-	-
+6	༤༢	༤༢	mx	mx	-	5	DIG	-	-
+7	བརྒྱབ་པ	བརྒྱབ་པ	vt	vt	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	བོད་ལྗོངས་	བོད་ལྗོངས་	ns	ns	-	2	QATT	-	-
+2	ནག་ཆུ་	ནག་ཆུ་	ns	ns	-	3	QATT	-	-
+3	ཉི་མ་རྫོང	ཉི་མ་རྫོང	ns	ns	-	5	FOBJ	-	-
+4	དུ་	དུ་	gl	gl	-	3	GL	-	-
+5	ས་ཡོམ་	ས་ཡོམ་	nn	nn	-	8	DOBJ	-	-
+6	རིམ་པ	རིམ་པ	qz	qz	-	5	LA	-	-
+7	༣༣	༣༣	mx	mx	-	6	DIG	-	-
+8	བརྒྱབ་པ	བརྒྱབ་པ	vt	vt	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	སྒྱུ་རྩལ་པ	སྒྱུ་རྩལ་པ	nn	nn	-	8	IOBJ	-	-
+2	ར་	ར་	gl	gl	-	1	GL	-	-
+3	གནང་བ	གནང་བ	nv	nv	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	སྒྱུ་རྩལ་	སྒྱུ་རྩལ་	nn	nn	-	6	QATT	-	-
+6	རིག་གནས་	རིག་གནས་	nn	nn	-	7	QATT	-	-
+7	བྱ་དགའ	བྱ་དགའ	nn	nn	-	8	DOBJ	-	-
+8	ཡིན	ཡིན	uc	uc	-	0	ROOT	-	-
+9	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	དེ་རྗེས་	དེ་རྗེས་	tt	tt	-	4	TA	-	-
+2	བོང་བུ	བོང་བུ	nn	nn	-	4	IOBJ	-	-
+3	ར་	ར་	gl	gl	-	2	GL	-	-
+4	བཀལ་	བཀལ་	vt	vt	-	8	BLFH	-	-
+5	ནས་	ནས་	cn	cn	-	4	GLC	-	-
+6	གཡུལ་ཁ	གཡུལ་ཁ	nn	nn	-	8	IOBJ	-	-
+7	ར་	ར་	gl	gl	-	6	GL	-	-
+8	བསྐྱལ་	བསྐྱལ་	vt	vt	-	0	ROOT	-	-
+9	གྱི་	གྱི་	gz	gz	-	8	GZ	-	-
+10	ཡོད	ཡོད	uc	uc	-	8	ZC	-	-
+11	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	སེམས་ཀྱི་ཉི་ཟླ	སེམས་ཀྱི་ཉི་ཟླ	ns	ns	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ཨར་ཁང་	ཨར་ཁང་	nn	nn	-	7	DOBJ	-	-
+4	ཆེན་མོ་	ཆེན་མོ་	as	as	-	3	HATT	-	-
+5	ལྷ་ས	ལྷ་ས	ns	ns	-	7	FOBJ	-	-
+6	ར་	ར་	gl	gl	-	5	GL	-	-
+7	བཙུགས	བཙུགས	vt	vt	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+1	བོད་	བོད་	ns	ns	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	GZ	GZ	-	1	GZ	-	-
+3	གླུ་མ་གྲགས་ཅན་	གླུ་མ་གྲགས་ཅན་	nn	nn	-	4	QATT	-	-
+4	ལྷ་མོ་མཚོ་	ལྷ་མོ་མཚོ་	nr	nr	-	5	SUBJ	-	-
+5	ཚེ་ལས་འདས	ཚེ་ལས་འདས	vi	vi	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	གསེར་སྐྱེམ་ལ་	གསེར་སྐྱེམ་ལ་	nn	nn	-	7	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	ཉིང་ཁྲི་རྫོང་	ཉིང་ཁྲི་རྫོང་	ns	ns	-	5	QATT	-	-
+4	གི་	གི་	gz	gz	-	3	GZ	-	-
+5	ཤར་	ཤར་	ff	ff	-	7	FOBJ	-	-
+6	དུ	དུ	gl	gl	-	5	GL	-	-
+7	ཡོད	ཡོད	vc	vc	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	མཐོ་སྒང་	མཐོ་སྒང་	nn	nn	-	3	QATT	-	-
+2	གི་	གི་	GZ	GZ	-	1	GZ	-	-
+3	ཁྱད་ཆོས་ལྡན་པ	ཁྱད་ཆོས་ལྡན་པ	nn	nn	-	5	QATT	-	-
+4	འི་	འི་	GZ	GZ	-	3	GZ	-	-
+5	ལུས་ཕུང་	ལུས་ཕུང་	nn	nn	-	5	QATT	-	-
+6	བདེ་ཐང་	བདེ་ཐང་	nn	nn	-	7	DOBJ	-	-
+7	སྦྱོང་བརྡར	སྦྱོང་བརྡར	vt	vt	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	བོད་ལྗོངས་	བོད་ལྗོངས་	ns	ns	-	7	FOBJ	-	-
+2	སུ་	སུ་	gl	gl	-	1	GL	-	-
+3	འུར་རྡོ་	འུར་རྡོ་	nn	nn	-	4	QATT	-	-
+4	འཕེན་པ	འཕེན་པ	nv	nv	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	འགྲན་སྡུར་	འགྲན་སྡུར་	nv	nv	-	7	DOBJ	-	-
+7	སྤེལ	སྤེལ	vt	vt	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	སྐབས་དང་པོ	སྐབས་དང་པོ	tt	tt	-	7	TA	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	བོད་འགྱིག་	བོད་འགྱིག་	nn	nn	-	4	QATT	-	-
+6	འགྲན་སྡུར་	འགྲན་སྡུར་	nv	nv	-	7	DOBJ	-	-
+7	སྤེལ	སྤེལ	vt	vt	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ང་ཚོ་	ང་ཚོ་	rr	rr	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	གྲོང་ཚོ་	གྲོང་ཚོ་	nn	nn	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	ལག་ཤེས་པ་	ལག་ཤེས་པ་	nn	nn	-	6	QATT	-	-
+6	བཀྲ་ཤིས་	བཀྲ་ཤིས་	nr	nr	-	8	QATT	-	-
+7	ཀྱི་	ཀྱི་	gz	gz	-	6	GZ	-	-
+8	བུ	བུ	nn	nn	-	21	SUBJ	-	-
+9	ཡིས་	ཡིས་	gx	gx	-	8	GX	-	-
+10	རྣོ་ངར་	རྣོ་ངར་	nn	nn	-	13	QATT	-	-
+11	ཆེ་བ་	ཆེ་བ་	as	as	-	10	HATT	-	-
+12	འི	འི	gz	gz	-	11	GZ	-	-
+13	སྟ་རེ་	སྟ་རེ་	nn	nn	-	21	SUBJ	-	-
+14	ཡིས	ཡིས	gx	gx	-	13	GX	-	-
+15	ནགས་ཚལ་	ནགས་ཚལ་	nn	nn	-	18	QATT	-	-
+16	སྟུག་པོ་	སྟུག་པོ་	as	as	-	15	HATT	-	-
+17	འི་	འི་	gz	gz	-	16	GZ	-	-
+18	ནང་	ནང་	ff	ff	-	21	FOBJ	-	-
+19	སྡོང་པོ་	སྡོང་པོ་	nn	nn	-	21	DOBJ	-	-
+20	མང་པོ་	མང་པོ་	ax	ax	-	19	COMP	-	-
+21	བཅད	བཅད	vt	vt	-	0	ROOT	-	-
+22	ཡོད	ཡོད	ux	ux	-	21	COMP	-	-
+23	དོ	དོ	uz	uz	-	22	UZ	-	-
+22	།	།	lz	lz	-	21	PUNCT	-	-
+
+1	ཁོ་བོ་	ཁོ་བོ་	rr	rr	-	1	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	2	YY	-	-
+3	རྒྱ་གར་	རྒྱ་གར་	ns	ns	-	5	FOBJ	-	-
+4	དུ་	དུ་	gl	gl	-	3	GL	-	-
+5	སོང་	སོང་	vt	vt	-	10	BLFH	-	-
+6	མྱོང་	མྱོང་	us	us	-	5	ZC	-	-
+7	ལ་	ལ་	gl	gl	-	6	GLC	-	-
+8	འབར་མ་	འབར་མ་	ns	ns	-	10	FOBJ	-	-
+9	རུ་	རུ་	gl	gl	-	8	GL	-	-
+10	ཡོང་	ཡོང་	vt	vt	-	0	ROOT	-	-
+11	ངོ་	ངོ་	uz	uz	-	10	UZ	-	-
+12	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	བཀྲ་ཤིས་	བཀྲ་ཤིས་	nr	nr	-	8	SUBJ	-	-
+2	ཀྱིས་	ཀྱིས་	gx	gx	-	1	GX	-	-
+3	ནགས་ཚལ་	ནགས་ཚལ་	ns	ns	-	8	IOBJ	-	-
+4	དུ་	དུ་	gl	gl	-	3	GL	-	-
+5	སྟ་རེ	སྟ་རེ	nn	nn	-	8	SUBJ	-	-
+6	འིས་	འིས་	gx	gx	-	5	GX	-	-
+7	སྡོང་བོ་	སྡོང་བོ་	nn	nn	-	8	DOBJ	-	-
+8	བཅད་	བཅད་	vt	vt	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	ཕུན་སུམ་ཚོགས་པ	ཕུན་སུམ་ཚོགས་པ	as	as	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	gz	-	-
+3	བྱེད་སྒོ་	བྱེད་སྒོ་་	nn	nn	-	4	DOBJ	-	-
+4	སྤེལ་	སྤེལ་	vi	vi	-	8	BLFH	-	-
+5	ནས་	ནས་	cx	cx	-	4	GLC	-	-
+6	རྒྱལ་སྟོན་	རྒྱལ་སྟོན་	nn	nn	-	8	IOBJ	-	-
+7	ལ་	ལ་	gl	gl	-	6	GL	-	-
+8	རྟེན་འབྲེལ་ཞུས་པ	རྟེན་འབྲེལ་ཞུས་པ	vt	vt	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	ཚར་རིང་	ཚར་རིང་	nn	nn	-	3	SUBJ	-	-
+2	ཡར་	ཡར	ff	ff	-	3	FOBJ	-	-
+3	འགྲོ	འགྲོ	vt	vt	-	0	ROOT	-	-
+4	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	བོད་རྒྱ་	བོད་རྒྱ་	nn	nn	-	3	QATT	-	-
+2	ལོ་རྒྱུས་	ལོ་རྒྱུས་	nn	nn	-	3	QATT	-	-
+3	ཡིག་ཚགས་	ཡིག་ཚགས་	nn	nn	-	4	DOBJ	-	-
+4	གཅེས་བཏུས	གཅེས་བཏུས	vi	vi	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	ཀྲུང་གོ	ཀྲུང་གོ	ng	ng	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	འགྲོ་བ་མིའི་ཐོབ་ཐང་	འགྲོ་བ་མིའི་ཐོབ་ཐང་	nn	nn	-	5	QATT	-	-
+4	གི་	གི་	gz	gz	-	3	GZ	-	-
+5	རྒྱབ་ཤ་དཀར་པོའི་དེབ་	རྒྱབ་ཤ་དཀར་པོའི་དེབ་	nn	nn	-	12	IOBJ	-	-
+6	ཏུ་	ཏུ་	gl	gl	-	5	GL	-	-
+7	བོད་	བོད་	nn	nn	-	12	IOBJ	-	-
+8	དུ་	དུ་	gl	gl	-	7	GL	-	-
+9	ད་ཆ་	ད་ཆ་	tt	tt	-	12	TA	-	-
+10	སྤྲུལ་སྐུ	སྤྲུལ་སྐུ	nn	nn	-	12	DOBJ	-	-
+11	༣༥༨	༣༥༨	mx	mx	-	10	DIG	-	-
+12	ཡོད་	ཡོད་	vc	vc	-	0	ROOT	-	-
+13	ཅེས་བཀོད་འདུག	ཅེས་བཀོད་འདུག	ux	ux	-	12	ZC	-	-
+14	།	།	lz	lz	-	12	PUNCT	-	-
+
+1	བོད་	བོད་	ne	ne	-	6	SUBJ	-	-
+2	ཀྱིས་	ཀྱིས་	gx	gx	-	1	GX	-	-
+3	བོད་	བོད་	ne	ne	-	6	IOBJ	-	-
+4	དུ་	དུ་	gl	gl	-	3	GL	-	-
+5	ལས་ཀ་	ལས་ཀ་	nn	nn	-	6	DOBJ	-	-
+6	བྱས་	བྱས་	vx	vx	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	གཤམ་	གཤམ་	ff	ff	_	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	_	1	GZ	-	-
+3	བརྗོད་པ་	བརྗོད་པ་	nn	nn	_	7	DOBJ	-	-
+4	རྣམས་	རྣམས་	qx	qx	_	3	LA	-	-
+5	ཡང་དག་པ	ཡང་དག་པ	as	as	_	7	ADVA	-	-
+6	ར་	ར་	gl	gl	_	5	GL	-	-
+7	བཅོས་	བཅོས་	vt	vt	_	0	ROOT	-	-
+8	དགོས་	དགོས་	ux	ux	_	7	ZC	-	-
+9	།	།	lz	lz	_	7	PUNCT	-	-
+
+1	སློབ་ཕྲུག་	སློབ་ཕྲུག་	nn	nn	_	7	DOBJ	-	-
+2	ཚོ་	ཚོ་	rz	rz	_	1	PRON	-	-
+3	སྦྱོང་ཚན་	སྦྱོང་ཚན་	nn	nn	_	4	QATT	-	-
+4	ཡིག་གཟུགས་	ཡིག་གཟུགས་	nn	nn	_	7	DOBJ	-	-
+5	ལེགས་པོ་	ལེགས་པོ་	as	as	_	7	ADVA	-	-
+6	ས་	ས་	gx	gx	_	5	GX	-	-
+7	བྲིས་	བྲིས་	vt	vt	_	0	ROOT	-	-
+8	ཤིག་	ཤིག་	ux	ux	_	7	ZC	-	-
+9	།	།	lz	lz	_	7	PUNCT	-	-
+
+1	སྙིང་ཉེ་བ	སྙིང་ཉེ་བ	as	as	_	3	QATT	-	-
+2	འི་	འི་	gz	gz	_	1	GZ	-	-
+3	ཕ་མ	ཕ་མ	nn	nn	_	6	IOBJ	-	-
+4	ར་	ར་	gl	gl	_	3	GL	-	-
+5	དྲིན་ལན་	དྲིན་ལན་	nn	nn	_	6	DOBJ	-	-
+6	གསོལ་	གསོལ་	vt	vt	_	0	ROOT	-	-
+7	ཞིག	ཞིག	uu	uu	_	6	ZC	-	-
+8	།	།	lz	lz	_	6	PUNCT	-	-
+
+1	སློབ་སྐྱོར་	སློབ་སྐྱོར་	nn	nn	-	6	DOBJ	-	-
+2	ཚོགས་པ་ཁག་	ཚོགས་པ་ཁག་	rz	rz	-	1	PRON	-	-
+3	གསུམ་པ་	གསུམ་པ་	mx	mx	-	2	DIG	-	-
+4	བོད་	བོད་	ns	ns	-	6	IOBJ	-	-
+5	དུ་	དུ་	gl	gl	-	4	GL	-	-
+6	བསྐྱོད་པ	བསྐྱོད་པ	vt	vt	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	བར་སྐོར་	བར་སྐོར་	ns	ns	-	2	QATT	-	-
+2	ཁྲོམ་ར	ཁྲོམ་ར	nn	nn	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	བྱུང་འཕེལ་	བྱུང་འཕེལ་	nv	nv	-	5	QATT	-	-
+5	སྐོར་	སྐོར་	nn	nn	-	7	DOBJ	-	-
+6	རགས་ཙམ་	རགས་ཙམ་	dc	dc	-	7	ADVA	-	-
+7	བཤད་པ	བཤད་པ	vt	vt	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ལྷ་ས	ལྷ་ས	ns	ns	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	སྦི་རག་	སྦི་རག་	nn	nn	-	10	DOBJ	-	-
+5	ཨ་རི	ཨ་རི	ng	ng	-	7	QATT	-	-
+6	འི་	འི་	gz	gz	-	5	GZ	-	-
+7	ཁུལ་	ཁུལ་	nn	nn	-	10	IOBJ	-	-
+8	༨	༨	mj	mj	-	7	DIG	-	-
+9	དུ་	དུ་	gl	gl	-	8	GL	-	-
+10	ཕྱིར་འཚོང་	ཕྱིར་འཚོང་	vt	vt	-	0	ROOT	-	-
+11	བྱེད་བཞིན་པ	བྱེད་བཞིན་པ	us	us	-	10	ZC	-	-
+12	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	བོད་ལྗོངས་	བོད་ལྗོངས་	ns	ns	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	ཞིང་ལས་	ཞིང་ལས་	nn	nn	-	4	QATT	-	-
+4	ཐོན་ལས་	ཐོན་ལས་	nn	nn	-	5	DOBJ	-	-
+5	ལེགས་སྒྲིག་	ལེགས་སྒྲིག་	nv	nv	-	0	ROOT	-	-
+6	བྱས	བྱས	ux	ux	-	5	ZC	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ཐོན་ལས་ཅན་	ཐོན་ལས་ཅན་	nz	nz	-	3	QATT	-	-
+2	གྱི་	གྱི་	gz	gz	-	1	GZ	-	-
+3	ལམ་དུ་བགྲོད་	ལམ་དུ་བགྲོད་	vi	vi	-	0	ROOT	-	-
+4	དགོས	དགོས	un	un	-	3	ZC	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	བོད་ལྗོངས་	བོད་ལྗོངས་	ns	ns	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	དབྱར་རྩྭ་དགུན་འབུ	དབྱར་རྩྭ་དགུན་འབུ	nn	nn	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	གོང་	གོང་	nn	nn	-	6	DOBJ	-	-
+6	འཕར་བ	འཕར་བ	vi	vi	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	མི	མི	nn	nn	-	8	DOBJ	-	-
+2	༡༠	༡༠	mj	mj	-	1	DIG	-	-
+3	རེ	རེ	mg	mg	-	2	SA	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	ནང་	ནང་	nn	nn	-	8	DOBJ	-	-
+6	མོ་ཊ་	མོ་ཊ་	nn	nn	-	8	DOBJ	-	-
+7	གཅིག་རེ་	གཅིག་རེ་	rz	rz	-	6	PRON	-	-
+8	ཡོད	ཡོད	uc	uc	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	བོད་ལྗོངས་	བོད་ལྗོངས་	ns	ns	-	6	DOBJ	-	-
+2	མོ་ཊ	མོ་ཊ	nn	nn	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	དུས་རབས་	དུས་རབས་	tt	tt	-	6	TA	-	-
+5	སུ་	སུ་	gl	gl	-	4	GL	-	-
+6	སླེབས	སླེབས	vi	vi	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+
+1	ཆབ་མདོ་	ཆབ་མདོ་	ns	ns	-	2	QATT	-	-
+2	གྲོང་ཁྱེར་	གྲོང་ཁྱེར་	nn	nn	-	9	SUBJ	-	-
+3	གྱིས་	གྱིས་	gx	gx	-	2	GZ	-	-
+4	དབུལ་སྒྲོལ་འགག་སྒྲོལ་	དབུལ་སྒྲོལ་འགག་སྒྲོལ་	nz	nz	-	6	QATT	-	-
+5	གྱི་	གྱི་	gz	gz	-	4	GZ	-	-
+6	དམག་འཐབ་	དམག་འཐབ་	nn	nn	-	9	DOBJ	-	-
+7	ཆེན་པོ་གསུམ་	ཆེན་པོ་གསུམ་	mj	mj	-	6	DIG	-	-
+8	ཡག་པོ་	ཡག་པོ་	as	as	-	9	ADVA	-	-
+9	རྒྱག་པ	རྒྱག་པ	vi	vi	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	བོད་	བོད་	ns	ns	-	3	IOBJ	-	-
+2	ལ་	ལ་	gl	gl	-	1	GL	-	-
+3	རོགས་སྐྱོར་	རོགས་སྐྱོར་	nv	nv	-	0	ROOT	-	-
+4	བྱ་	བྱ་	ux	ux	-	3	ZC	-	-
+5	རྩིས་	རྩིས་	vt	vt	-	3	COMP	-	-
+6	ཡོད་པ	ཡོད་པ	uc	uc	-	5	ZC	-	-
+7	།	།	lz	lz	-	3	PUNCT	-	-
+
+1	བོད་རིགས་	བོད་རིགས་	nn	nn	-	2	QATT	-	-
+2	ས་ཁུལ་	ས་ཁུལ་	nn	nn	-	4	QATT	-	-
+3	གྱི་	གྱི་	gz	gz	-	2	GZ	-	-
+4	མང་ཚོགས་	མང་ཚོགས་	nn	nn	-	8	DOBJ	-	-
+5	སྒོ་རྩ	སྒོ་རྩ	ns	ns	-	8	FOBJ	-	-
+6	ར་	ར་	gl	gl	-	5	GL	-	-
+7	ནད་གཞི་	ནད་གཞི་	nn	nn	-	8	DOBJ	-	-
+8	ལྟ་	ལྟ་	vt	vt	-	0	ROOT	-	-
+9	ཐུབ་པ	ཐུབ་པ	un	un	-	8	ZC	-	-
+10	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	བོད་ལྗོངས་	བོད་ལྗོངས་	ns	ns	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	ལོ་ལྔ་ཚན་བཅུ་གཉིས་པ	ལོ་ལྔ་ཚན་བཅུ་གཉིས་པ	nz	nz	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	མགོ་	མགོ་ཡག་པོ་	nn	nn	-	7	DOBJ	-	-
+6	ཡག་པོ་ཞིག་	ཡག་པོ་ཞིག་	as	as	-	7	ADVA	-	-
+7	བཙུགས་	བཙུགས་	vt	vt	-	0	ROOT	-	-
+8	ཡོད	ཡོད	uc	uc	-	7	ZC	-	-
+9	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	དབྱར་གཞུང་	དབྱར་གཞུང་	tt	tt	-	7	TA	-	-
+2	རྩྭ་ཐང་	རྩྭ་ཐང་	nn	nn	-	7	IOBJ	-	-
+3	དུ་	དུ་	gl	gl	-	2	GL	-	-
+4	འཐུལ་བ	འཐུལ་བ	vt	vt	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	འོ་དྲི་	འོ་དྲི་	nn	nn	-	7	DOBJ	-	-
+7	ཞིམ་པོ	ཞིམ་པོ	as	as	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-'
+
+1	ཧི་མ་ལ་ཡ	ཧི་མ་ལ་ཡ	ns	ns	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	རི་འདབས་	རི་འདབས་	ff	ff	-	5	QATT	-	-
+4	ཀྱི་	ཀྱི་	gz	gz	-	3	GZ	-	-
+5	ཕག་རི་	ཕག་རི་	ns	ns	-	6	QATT	-	-
+6	གྲོང་རྡལ་	གྲོང་རྡལ་	nn	nn	-	8	IOBJ	-	-
+7	དུ་	དུ་	gl	gl	-	6	GL	-	-
+8	སྐྱོད་པ	སྐྱོད་པ	vt	vt	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	བོད་ལྗོངས་	བོད་ལྗོངས་	ns	ns	-	2	QATT	-	-
+2	ཆབ་མདོ་	ཆབ་མདོ་	ns	ns	-	3	QATT	-	-
+3	གྲོང་ཁྱེར་	གྲོང་ཁྱེར་	nn	nn	-	4	QATT	-	-
+4	སྟེང་ཆེན་རྫོང་	སྟེང་ཆེན་རྫོང་	ns	ns	-	7	FOBJ	-	-
+5	དུ་	དུ་	gl	gl	-	4	GL	-	-
+6	ས་ཡོམ་	ས་ཡོམ་	nn	nn	-	7	DOBJ	-	-
+7	བྱུང་བ	བྱུང་བ	vi	vi	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ཀྲུང་ཐེ་	ཀྲུང་ཐེ་	nz	nz	-	2	QATT	-	-
+2	ལྕགས་ལམ་	ལྕགས་ལམ་	nn	nn	-	3	QATT	-	-
+3	མཉམ་ལས་	མཉམ་ལས་	nn	nn	-	5	IOBJ	-	-
+4	ལ་	ལ་	gl	gl	-	3	GL	-	-
+5	ཆོག་མཆན་ཐོབ་པ	ཆོག་མཆན་ཐོབ་པ	vi	vi	-	0	ROOT	-	-
+6	།	།	lz	lz	-	5	PUNCT	-	-
+
+1	འདི་ལོ་	འདི་ལོ་	tt	tt	-	6	TA	-	-
+2	བོད་	བོད་	ns	ns	-	6	SUBJ	-	-
+3	ཀྱིས་	ཀྱིས་	gx	gx	-	2	GX	-	-
+4	ནགས་བཟོ་	ནགས་བཟོ་	nn	nn	-	6	DOBJ	-	-
+5	མུའུ་ཁྲི་	མུའུ་ཁྲི་	mj	mj	-	4	DIG	-	-
+6	བྱེད་རྒྱུ་	བྱེད་རྒྱུ་	ux	ux	-	0	ROOT	-	-
+7	ཡིན་པ	ཡིན་པ	up	up	-	6	ZC	-	-
+8	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	འོད་སྟོང་འབར་བ	འོད་སྟོང་འབར་བ	as	as	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	མདུན་ལམ་	མདུན་ལམ་	nn	nn	-	4	DOBJ	-	-
+4	བཏོད་པ	བཏོད་པ	vt	vt	-	0	ROOT	-	-
+5	།	།	lz	lz	-	4	PUNCT	-	-
+
+1	སྐབས་དང་པོ	སྐབས་དང་པོདང་པོ	qd	qd	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	གཙང་ཁུལ་	གཙང་ཁུལ་	nn	nn	-	5	QATT	-	-
+4	གྱི་	གྱི་	gz	gz	-	3	GZ	-	-
+5	དངོས་ཟོག་	དངོས་ཟོག་	nn	nn	-	6	QATT	-	-
+6	བརྗེ་རེས་	བརྗེ་རེས་	nv	nv	-	7	QATT	-	-
+7	ཚོང་འདུས་	ཚོང་འདུས་	nn	nn	-	8	DOBJ	-	-
+8	འགོ་བརྩམས་པ	འགོ་བརྩམས་པ	vt	vt	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	ནུས་ཤུགས་	ནུས་ཤུགས་	nn	nn	-	3	DOBJ	-	-
+2	ཡོད་ཚད་	ཡོད་ཚད་	mz	mz	-	1	DIG	-	-
+3	བཏོན་	བཏོན་	vt	vt	-	6	BLFH	-	-
+4	ནས་	ནས་	cn	cn	-	3	GLC	-	-
+5	མྱུར་ཚད་	མྱུར་ཚད་	nn	nn	-	6	DOBJ	-	-
+6	མགྱོགས་ཤོས་	མགྱོགས་ཤོས་	as	as	-	0	ROOT	-	-
+7	བརྩོན་ལེན་བྱེད་	བརྩོན་ལེན་བྱེད་	ux	ux	-	6	ZC	-	-
+8	པ	པ	hh	hh	-	7	HH	-	-
+9	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	བོད་ལྗོངས་	བོད་ལྗོངས་	ns	ns	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	རང་བྱུང་	རང་བྱུང་	nn	nn	-	4	QATT	-	-
+4	བཏུང་ཆུ	བཏུང་ཆུ	nn	nn	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	བེད་སྤྱོད་	བེད་སྤྱོད་	nv	nv	-	7	QATT	-	-
+7	ཐོན་ལས་	ཐོན་ལས་	nn	nn	-	9	IOBJ	-	-
+8	ལ་	ལ་	gl	gl	-	7	GL	-	-
+9	འཕེལ་རྒྱས་	འཕེལ་རྒྱས་	vi	vi	-	0	ROOT	-	-
+10	ཆེན་པོ་བྱུང་བ	ཆེན་པོ་བྱུང་བ	as	as	-	9	ADVA	-	-
+11	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	འཛམ་གླིང་	འཛམ་གླིང་	nn	nn	-	6	QATT	-	-
+2	གི་	གི་	gz	gz	-	1	GZ	-	-
+3	ཆེས་	ཆེས་	dc	dc	-	4	COMP	-	-
+4	དབུལ་བ	དབུལ་བ	as	as	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	རྒྱལ་ཁབ་	རྒྱལ་ཁབ་	nn	nn	-	9	QATT	-	-
+7	བཅུ	བཅུ	mj	mj	-	6	DIG	-	-
+8	འི་	འི་	gz	gz	-	7	GZ	-	-
+9	རིམ་	རིམ་	nn	nn	-	10	DOBJ	-	-
+10	བསྒྲིག	བསྒྲིག	vt	vt	-	0	ROOT	-	-
+
+1	ཀྲུང་གོ	ཀྲུང་གོ	ng	ng	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	བོད་ཇ	བོད་ཇ	nn	nn	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	རིག་གནས་	རིག་གནས་	nn	nn	-	6	QATT	-	-
+6	གཟའ་འཁོར་	གཟའ་འཁོར་	nn	nn	-	9	DOBJ	-	-
+7	གཡག་རྔ་	གཡག་རྔ་	ns	ns	-	9	FOBJ	-	-
+8	ནས་	ནས་	gj	gj	-	7	GJ	-	-
+9	མགོ་ཚུགས་པ	མགོ་ཚུགས་པ	vi	vi	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+
+1	བོད་ལྗོངས་	བོད་ལྗོངས་	ns	ns	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	དབང་པོ་སྐྱོན་ཅན་	དབང་པོ་སྐྱོན་ཅན་	nn	nn	-	5	QATT	-	-
+4	པ་	པ་	hh	hh	-	3	HH	-	-
+5	ལས་ཞུགས་	ལས་ཞུགས་	nv	nv	-	6	QATT	-	-
+6	ཐུབ་ཚད་	ཐུབ་ཚད་	nn	nn	-	9	DOBJ	-	-
+7	བརྒྱ་ཆ	བརྒྱ་ཆ	ql	ql	-	6	LA	-	-
+8	༦༧༧	༦༧༧	mj	mj	-	7	DIG	-	-
+9	ཟིན་པ	ཟིན་པ	us	us	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	མེས་པོ	མེས་པོ	nn	nn	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	ལག་རྒྱུན་	ལག་རྒྱུན་	nn	nn	-	4	DOBJ	-	-
+4	འཛིན་	འཛིན་	vt	vt	-	7	BLFH	-	-
+5	ནས་	ནས་	cn	cn	-	4	GLC	-	-
+6	ངོ་མཚར་	ངོ་མཚར་	as	as	-	7	ADVA	-	-
+7	གཏོད	གཏོད	vt	vt	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	ལྷ་ས	ལྷ་ས	ns	ns	-	10	FOBJ	-	-
+2	ར་	ར་	gl	gl	-	1	GL	-	-
+3	རྒྱལ་དར་	རྒྱལ་དར་	nn	nn	-	4	QATT	-	-
+4	སྒྲེང་བ་	སྒྲེང་བ་	nv	nv	-	7	BL	-	-
+5	དང་	དང་	cd	cd	-	4	CD	-	-
+6	རྒྱལ་གླུ་	རྒྱལ་གླུ་	nn	nn	-	9	QATT	-	-
+7	གཏོང་བ	གཏོང་བ	ux	ux	-	6	ZC	-	-
+8	འི་	འི་	gz	gz	-	7	GZ	-	-
+9	མཛད་སྒོ་	མཛད་སྒོ་	nn	nn	-	10	DOBJ	-	-
+10	འཚོགས་པ	འཚོགས་པ	vt	vt	-	0	ROOT	-	-
+11	།	།	lz	lz	-	10	PUNCT	-	-
+
+1	བོད་ལྗོངས་	བོད་ལྗོངས་	ns	ns	-	9	FOBJ	-	-
+2	སུ་	སུ་	gl	gl	-	1	GL	-	-
+3	གསར་དུ་བསྐྲུན་པ	གསར་དུ་བསྐྲུན་པ	nn	nn	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	གྲོང་གསེབ་	གྲོང་གསེབ་	nn	nn	-	7	QATT	-	-
+6	ཀྱི་	ཀྱི་	gz	gz	-	5	GZ	-	-
+7	གློག་དྲ་	གློག་དྲ་	nn	nn	-	8	QATT	-	-
+8	བེད་སྤྱོད་གཏོང་	བེད་སྤྱོད་གཏོང་	nv	nv	-	9	DOBJ	-	-
+9	འགོ་ཚུགས་པ	འགོ་ཚུགས་པ	vt	vt	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	བོད་ལྗོངས་	བོད་ལྗོངས་	ns	ns	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	གློག་ཤུགས་	གློག་ཤུགས་	nn	nn	-	4	QATT	-	-
+4	བྱ་གཞག་	བྱ་གཞག་	nn	nn	-	5	QATT	-	-
+5	གོང་འཕེལ་	གོང་འཕེལ་	nv	nv	-	7	DOBJ	-	-
+6	མྱུར་པོ་	མྱུར་པོ་	as	as	-	7	ADVA	-	-
+7	བྱུང་བ	བྱུང་བ	vi	vi	-	0	ROOT	-	-
+8	།	།	lz	lz	-	7	PUNCT	-	-
+
+1	བོད་	བོད་	ns	ns	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	སྲོལ་རྒྱུན་	སྲོལ་རྒྱུན་	nn	nn	-	4	QATT	-	-
+4	གྲོང་མི	གྲོང་མི	nn	nn	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	སྲུང་སྐྱོབ་	སྲུང་སྐྱོབ་	nv	nv	-	7	QATT	-	-
+7	ཆེད་ལས་	ཆེད་ལས་	nn	nn	-	8	QATT	-	-
+8	ཨུ་ཡོན་ལྷན་ཁང་	ཨུ་ཡོན་ལྷན་ཁང་	nn	nn	-	9	DOBJ	-	-
+9	དབུ་བརྙེས་པ	དབུ་བརྙེས་པ	vi	vi	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	བར་སྐོར་	བར་སྐོར་	ns	ns	-	2	QATT	-	-
+2	ཁྲོམ་ར	ཁྲོམ་ར	nn	nn	-	4	QATT	-	-
+3	འི་	འི་	gz	gz	-	2	GZ	-	-
+4	བྱུང་འཕེལ་	བྱུང་འཕེལ་	nv	nv	-	6	DOBJ	-	-
+5	སྐོར་རགས་	སྐོར་རགས་	dw	dw	-	6	ADVA	-	-
+6	བཤད	བཤད	nv	nv	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	སྨན་གླིང་རྫོང་	སྨན་གླིང་རྫོང་	ns	ns	-	9	FOBJ	-	-
+2	ནས་	ནས་	gj	gj	-	1	GJ	-	-
+3	ཉི་མ	ཉི་མ	nn	nn	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	ཕྱུགས་འགྱུར་	ཕྱུགས་འགྱུར་	nn	nn	-	7	QATT	-	-
+6	གྱི་	གྱི་	gz	gz	-	5	GZ	-	-
+7	གཏམ་རྒྱུད་	གཏམ་རྒྱུད་	nn	nn	-	9	IOBJ	-	-
+8	ལ	ལ	gl	gl	-	7	GL	-	-
+9	ཉན་པ	ཉན་པ	vi	vi	-	0	ROOT	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	མཚོ་བོད་གཞུང་ལམ་	མཚོ་བོད་གཞུང་ལམ་	ns	ns	-	2	QATT	-	-
+2	རྒྱུད་	རྒྱུད་	ff	ff	-	8	FOBJ	-	-
+3	དུ་	དུ་	gl	gl	-	2	GL	-	-
+4	མཚོ་བོད་	མཚོ་བོད་	nl	nl	-	5	QATT	-	-
+5	ལྗང་མདོག་	ལྗང་མདོག་	nn	nn	-	8	SUBJ	-	-
+6	ས་	ས་	gx	gx	-	5	GX	-	-
+7	ཚིགསབསྐྲུན་	ཚིགསབསྐྲུན་	nn	nn	-	8	DOBJ	-	-
+8	རྒྱུ་	རྒྱུ་	us	us	-	0	ROOT	-	-
+9	ཡིན་པ	ཡིན་པ	up	up	-	8	ZC	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	རང་རྒྱལ་	རང་རྒྱལ་	nn	nn	-	6	SUBJ	-	-
+2	གྱིས་	གྱིས་	gx	gx	-	1	GX	-	-
+3	བདེ་ཐང་	བདེ་ཐང་	nn	nn	-	4	QATT	-	-
+4	དབུལ་སྐྱོར་	དབུལ་སྐྱོར་	nv	nv	-	5	QATT	-	-
+5	བྱེད་ཤུགས་	བྱེད་ཤུགས་	nn	nn	-	6	DOBJ	-	-
+6	ཆེ་རུ་བཏང་བ	ཆེ་རུ་བཏང་བ	vt	vt	-	0	ROOT	-	-
+7	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	བཟའ་ཚང་	བཟའ་ཚང་	nn	nn	-	8	SUBJ	-	-
+2	གཉིས་པོ	གཉིས་པོ	mz	mz	-	1	DIG	-	-
+3	ས་	ས་	gx	gx	-	2	GX	-	-
+4	འཆམ་མཐུན་	འཆམ་མཐུན་	as	as	-	8	ADVA	-	-
+5	ངང་	ངང་	cx	cx	-	4	CN	-	-
+6	བདེ་སྐྱིད་འཚོ་བ	བདེ་སྐྱིད་འཚོ་བ	nn	nn	-	8	ADVA	-	-
+7	ར་	ར་	gl	gl	-	7	GL	-	-
+8	རོལ	རོལ	vt	vt	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+1	གཞིས་རྩེ་	གཞིས་རྩེ་	ns	ns	-	2	QATT	-	-
+2	ས་ཁུལ་	ས་ཁུལ་	nn	nn	-	8	DOBJ	-	-
+3	དེ་	དེ་	rz	rz	-	2	PRON	-	-
+4	ས་ཁུལ་རིམ་པ	ས་ཁུལ་རིམ་པ	nn	nn	-	6	QATT	-	-
+5	འི་	འི་	gz	gz	-	4	GZ	-	-
+6	གྲོང་ཁྱེར་	གྲོང་ཁྱེར་	nn	nn	-	8	IOBJ	-	-
+7	ལ་	ལ་	gl	gl	-	6	GL	-	-
+8	བསྒྱུར་རྒྱུ་	བསྒྱུར་རྒྱུ་	us	us	-	0	ROOT	-	-
+9	ཡིན་པ	ཡིན་པ	up	up	-	8	ZC	-	-
+10	།	།	lz	lz	-	9	PUNCT	-	-
+
+1	བོད་	བོད་	ns	ns	-	3	QATT	-	-
+2	ཀྱི་	ཀྱི་	gz	gz	-	1	GZ	-	-
+3	ས་གནས་	ས་གནས་	nt	nt	-	4	QATT	-	-
+4	དངུལ་ཁང་	དངུལ་ཁང་	nt	nt	-	6	DOBJ	-	-
+5	ཐོག་མ་	ཐོག་མ་	mj	mj	-	4	DIG	-	-
+6	སྒོ་ཕྱེ་	སྒོ་ཕྱེ་	vt	vt	-	0	ROOT	-	-
+7	ཡོད	ཡོད	uc	uc	-	6	ZC	-	-
+8	།	།	lz	lz	-	6	PUNCT	-	-
+
+1	ལྷ་ས	ལྷ་ས	ns	ns	-	8	FOBJ	-	-
+2	ར་	ར་	gl	gl	-	1	GL	-	-
+3	ཨང་རྟགས་	ཨང་རྟགས་	nn	nn	-	5	QATT	-	-
+4	ཡི་	ཡི་	gz	gz	-	3	GZ	-	-
+5	དམངས་སྒོར་	དམངས་སྒོར་	nn	nn	-	6	QATT	-	-
+6	བརྒྱ་ཤོག་	བརྒྱ་ཤོག་	nn	nn	-	7	QATT	-	-
+7	རྫུན་མ་	རྫུན་མ་	nn	nn	-	8	DOBJ	-	-
+8	བྱུང་	བྱུང་	vi	vi	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-

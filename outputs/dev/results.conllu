@@ -1,0 +1,51 @@
+# sent_id = train-s0
+1	བཀྲ་ཤིས་	བཀྲ་ཤིས་	nx	nr	-	8	SUBJ	-	-
+2	ཀྱིས་	ཀྱིས་	gx	gx	-	1	GX	-	-
+3	ནགས་ཚལ་	ནགས་ཚལ་	nx	ns	-	8	FOBJ	-	-
+4	དུ་	དུ་	gl	gl	-	3	GL	-	-
+5	སྟ་རེ	སྟ་རེ	nx	nn	-	8	SUBJ	-	-
+6	འིས་	འིས་	gx	gx	-	5	GX	-	-
+7	སྡོང་བོ་	སྡོང་བོ་	nx	nn	-	8	DOBJ	-	-
+8	བཅད་	བཅད་	vx	vt	-	0	ROOT	-	-
+9	།	།	lz	lz	-	8	PUNCT	-	-
+
+# sent_id = train-s1
+1	ང་ཚོ་	ང་ཚོ་	rx	rr	-	3	QATT	-	-
+2	འི་	འི་	gz	gz	-	1	GZ	-	-
+3	གྲོང་ཚོ་	གྲོང་ཚོ་	nx	nn	-	5	QATT	-	-
+4	འི་	འི་	gz	gz	-	3	GZ	-	-
+5	ལག་ཤེས་པ་	ལག་ཤེས་པ་	nx	nn	-	6	QATT	-	-
+6	བཀྲ་ཤིས་	བཀྲ་ཤིས་	nx	nr	-	8	QATT	-	-
+7	ཀྱི་	ཀྱི་	gz	gz	-	6	GZ	-	-
+8	བུ	བུ	nx	nn	-	21	SUBJ	-	-
+9	ཡིས་	ཡིས་	gx	gx	-	8	GX	-	-
+10	རྣོ་ངར་	རྣོ་ངར་	nx	nn	-	13	QATT	-	-
+11	ཆེ་བ་	ཆེ་བ་	ax	as	-	10	HATT	-	-
+12	འི	འི	gz	gz	-	11	GZ	-	-
+13	སྟ་རེ་	སྟ་རེ་	nx	nn	-	21	SUBJ	-	-
+14	ཡིས་	ཡིས་	gx	gx	-	13	GX	-	-
+15	ནགས་ཚལ་	ནགས་ཚལ་	nx	nn	-	18	QATT	-	-
+16	སྟུག་པོ་	 སྟུག་པོ་	ax	as	-	15	HATT	-	-
+17	འི་	འི་	gz	gz	-	16	GZ	-	-
+18	ནང་	ནང་	ff	ff	-	21	FOBJ	-	-
+19	སྡོང་པོ་	སྡོང་པོ་	nx	nn	-	21	DOBJ	-	-
+20	མང་པོ་	མང་པོ་	ax	ax	-	19	HATT	-	-
+21	བཅད	བཅད	vx	vt	-	0	ROOT	-	-
+22	ཡོད	ཡོད	ux	ux	-	21	COMP	-	-
+23	དོ	དོ	ux	uz	-	22	UZ	-	-
+24	།	།	lz	lz	-	21	PUNCT	-	-
+
+# sent_id = train-s2
+1	ཁོ་བོ་	ཁོ་བོ་	rx	rr	-	5	SUBJ	-	-
+2	ནི་	ནི་	yy	yy	-	1	YY	-	-
+3	རྒྱ་གར་	རྒྱ་གར་	nx	ng	-	5	IOBJ	-	-
+4	དུ་	དུ་	gl	gl	-	3	GL	-	-
+5	སོང་	སོང་	vx	vt	-	10	BLFH	-	-
+6	མྱོང་	མྱོང་	ux	us	-	5	COMP	 -	-
+7	ལ་	ལ་	cx	cx	-	5	GLC	-	-
+8	འབར་མ་	འབར་མ་	nx	ng	-	10	IOBJ	-	-
+9	རུ་	རུ་	gl	gl	-	8	GL	-	-
+10	ཡོང་	ཡོང་	vx	vt	-	0	ROOT	-	-
+11	ངོ་	ངོ་	ux	uz	-	10	UZ	-	-
+12	།	།	lz	lz	-	10	PUNCT	-	-
+

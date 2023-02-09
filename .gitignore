@@ -1,0 +1,9 @@
+# PyCharm
+.idea
+
+# venv
+venv_macos
+venv_windows
+
+# __pycache__
+pipeline/__pycache__
