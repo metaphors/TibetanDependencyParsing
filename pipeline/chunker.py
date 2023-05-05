@@ -262,12 +262,14 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                         else:
                             if token["upos"] == tmp_chunking_rule["components"][tmp_chunking_rule_component_index]:
                                 existed = True
-                            if token["upos"] == "nx" and "NP" == tmp_chunking_rule["components"][tmp_chunking_rule_component_index]:
+                            elif token["upos"] == "nx" and "NP" == tmp_chunking_rule["components"][tmp_chunking_rule_component_index]:
                                 existed = True
-                            if token["upos"] == "vx" and "VP" == tmp_chunking_rule["components"][tmp_chunking_rule_component_index]:
+                            elif token["upos"] == "vx" and "VP" == tmp_chunking_rule["components"][tmp_chunking_rule_component_index]:
                                 existed = True
-                            if token["upos"] != tmp_chunking_rule["components"][tmp_chunking_rule_component_index] and \
-                                    tmp_chunking_rule["components"][tmp_chunking_rule_component_index].islower():
+                            elif token["upos"] != tmp_chunking_rule["components"][tmp_chunking_rule_component_index] and \
+                                    (tmp_chunking_rule["components"][tmp_chunking_rule_component_index].islower() or
+                                     (token["upos"] == "nx" and "NP" != tmp_chunking_rule["components"][tmp_chunking_rule_component_index]) or
+                                     (token["upos"] == "vx" and "VP" != tmp_chunking_rule["components"][tmp_chunking_rule_component_index])):
                                 del tmp_chunking_rule_list[tmp_chunking_rule_index]
                                 tmp_chunking_rule_index -= 1
                         tmp_chunking_rule_index += 1
@@ -323,40 +325,74 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                     chunk_index += counter
                                     counter = 1
                             else:
-                                # TODO: len(tmp_chunking_rule_list2) == 1 or not?
-                                if tmp_chunking_rule_list[0]["type"] == tmp_chunking_rule_list2[0]["components"][0]:
-                                    # TODO: have bugs?
-                                    child_chunk_detail = {
-                                        "chunk": chunk[chunk_token_index:chunk_token_index + len(tmp_chunking_rule_list[0]["components"])],
-                                        "chunk_type": tmp_chunking_rule_list[0]["type"]}
-                                    if tmp_chunking_rule_list[0]["type"] == "NP":
-                                        for token in reversed(
-                                                chunk[chunk_token_index:chunk_token_index + len(tmp_chunking_rule_list[0]["components"])]):
-                                            flag = False
-                                            for noun_pos in noun_pos_list:
-                                                if token["upos"] == noun_pos:
-                                                    child_chunk_detail["core_word"] = token
-                                                    flag = True
+                                equal = False
+                                for tmp_chunking_rule2 in tmp_chunking_rule_list2:
+                                    if tmp_chunking_rule_list[0]["type"] == tmp_chunking_rule2["components"][0]:
+                                        equal = True
+                                        # TODO: have bugs?
+                                        child_chunk_detail = {
+                                            "chunk": chunk[chunk_token_index:chunk_token_index + len(tmp_chunking_rule_list[0]["components"])],
+                                            "chunk_type": tmp_chunking_rule_list[0]["type"]}
+                                        if tmp_chunking_rule_list[0]["type"] == "NP":
+                                            for token in reversed(
+                                                    chunk[chunk_token_index:chunk_token_index + len(tmp_chunking_rule_list[0]["components"])]):
+                                                flag = False
+                                                for noun_pos in noun_pos_list:
+                                                    if token["upos"] == noun_pos:
+                                                        child_chunk_detail["core_word"] = token
+                                                        flag = True
+                                                        break
+                                                if flag:
                                                     break
-                                            if flag:
-                                                break
-                                    if tmp_chunking_rule_list[0]["type"] == "VP":
-                                        for token in chunk[chunk_token_index:chunk_token_index + len(tmp_chunking_rule_list[0]["components"])]:
-                                            if token["upos"] == "vx":
-                                                child_chunk_detail["core_word"] = token
-                                                break
-                                    child_chunk_list.append(child_chunk_detail)
-                                    tmp_chunking_rule_list = [tmp_chunking_rule_list2[0]]
-                                    tmp_chunking_rule_list2 = []
-                                    if chunk_token_index != -len(chunk):
-                                        chunking_rule_last_component = tmp_chunking_rule_list[0]["type"]
-                                        tmp_chunking_rule_component_index = -1
-                                        tmp_chunking_rule_list = []
-                                        for chunking_rule in chunking_rule_list:
-                                            if chunking_rule_last_component == chunking_rule["components"][tmp_chunking_rule_component_index]:
-                                                tmp_chunking_rule_list.append(chunking_rule)
-                                        if len(tmp_chunking_rule_list) == 0:
-                                            chunk_detail = {"chunk": chunk[chunk_token_index:], "chunk_type": chunking_rule_last_component}
+                                        if tmp_chunking_rule_list[0]["type"] == "VP":
+                                            for token in chunk[chunk_token_index:chunk_token_index + len(tmp_chunking_rule_list[0]["components"])]:
+                                                if token["upos"] == "vx":
+                                                    child_chunk_detail["core_word"] = token
+                                                    break
+                                        child_chunk_list.append(child_chunk_detail)
+                                        tmp_chunking_rule_list = [tmp_chunking_rule2]
+                                        tmp_chunking_rule_list2 = []
+                                        if chunk_token_index != -len(chunk):
+                                            chunking_rule_last_component = tmp_chunking_rule_list[0]["type"]
+                                            tmp_chunking_rule_component_index = -1
+                                            tmp_chunking_rule_list = []
+                                            for chunking_rule in chunking_rule_list:
+                                                if chunking_rule_last_component == chunking_rule["components"][tmp_chunking_rule_component_index]:
+                                                    tmp_chunking_rule_list.append(chunking_rule)
+                                            if len(tmp_chunking_rule_list) == 0:
+                                                chunk_detail = {"chunk": chunk[chunk_token_index:], "chunk_type": chunking_rule_last_component}
+                                                if chunk_detail["chunk_type"] == "NP":
+                                                    for token in reversed(chunk):
+                                                        flag = False
+                                                        for noun_pos in noun_pos_list:
+                                                            if token["upos"] == noun_pos:
+                                                                chunk_detail["core_word"] = token
+                                                                flag = True
+                                                                break
+                                                        if flag:
+                                                            break
+                                                if chunk_detail["chunk_type"] == "VP":
+                                                    for token in chunk:
+                                                        if token["upos"] == "vx":
+                                                            chunk_detail["core_word"] = token
+                                                            break
+                                                # TODO: if children have siblings or children, then?
+                                                chunk_detail["children"] = child_chunk_list
+                                                chunk_list.insert(chunk_index + 1, chunk_detail)
+                                                chunk = chunk[:chunk_token_index]
+                                                chunk_list[chunk_index] = chunk
+                                                if len(child_chunk_list) != 0:
+                                                    # TODO: have other possibilities, then?
+                                                    child_chunk_list = child_chunk_list[1:]
+                                                tmp_chunking_rule_component_index = -1
+                                                tmp_chunking_rule_list = []
+                                                chunk_token_index = 0
+                                                counter += 1
+                                            else:
+                                                # TODO: if len(tmp_chunking_rule_list) != 0, then?
+                                                pass
+                                        else:
+                                            chunk_detail = {"chunk": chunk, "chunk_type": tmp_chunking_rule_list[0]["type"]}
                                             if chunk_detail["chunk_type"] == "NP":
                                                 for token in reversed(chunk):
                                                     flag = False
@@ -374,42 +410,10 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                                         break
                                             # TODO: if children have siblings or children, then?
                                             chunk_detail["children"] = child_chunk_list
-                                            chunk_list.insert(chunk_index + 1, chunk_detail)
-                                            chunk = chunk[:chunk_token_index]
-                                            chunk_list[chunk_index] = chunk
-                                            if len(child_chunk_list) != 0:
-                                                # TODO: have other possibilities, then?
-                                                child_chunk_list = child_chunk_list[1:]
-                                            tmp_chunking_rule_component_index = -1
-                                            tmp_chunking_rule_list = []
-                                            chunk_token_index = 0
-                                            counter += 1
-                                        else:
-                                            # TODO: if len(tmp_chunking_rule_list) != 0, then?
-                                            pass
-                                    else:
-                                        chunk_detail = {"chunk": chunk, "chunk_type": tmp_chunking_rule_list[0]["type"]}
-                                        if chunk_detail["chunk_type"] == "NP":
-                                            for token in reversed(chunk):
-                                                flag = False
-                                                for noun_pos in noun_pos_list:
-                                                    if token["upos"] == noun_pos:
-                                                        chunk_detail["core_word"] = token
-                                                        flag = True
-                                                        break
-                                                if flag:
-                                                    break
-                                        if chunk_detail["chunk_type"] == "VP":
-                                            for token in chunk:
-                                                if token["upos"] == "vx":
-                                                    chunk_detail["core_word"] = token
-                                                    break
-                                        # TODO: if children have siblings or children, then?
-                                        chunk_detail["children"] = child_chunk_list
-                                        chunk_list[chunk_index] = chunk_detail
-                                        chunk_index += counter
-                                        counter = 1
-                                else:
+                                            chunk_list[chunk_index] = chunk_detail
+                                            chunk_index += counter
+                                            counter = 1
+                                if not equal:
                                     # TODO: if tmp_chunking_rule_list[0]["type"] != tmp_chunking_rule_list2[0]["components"][0], then?
                                     pass
                         else:
@@ -440,8 +444,7 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                 tmp_chunking_rule_component_index -= 1
                     else:
                         if len(tmp_chunking_rule_list) != 0:
-                            # TODO: len(tmp_chunking_rule_list) == 1 or not?
-                            tmp_chunking_rule_list2 = [tmp_chunking_rule_list[0]]
+                            tmp_chunking_rule_list2 = tmp_chunking_rule_list[0:]
                             tmp_chunking_rule_component_index = -1
                             tmp_chunking_rule_list = []
                             for chunking_rule in chunking_rule_list:
