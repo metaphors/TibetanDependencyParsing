@@ -409,7 +409,31 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                     # TODO: if tmp_chunking_rule_list[0]["type"] != tmp_chunking_rule_list2[0]["components"][0], then?
                                     pass
                         else:
-                            tmp_chunking_rule_component_index -= 1
+                            if chunk_token_index == -len(chunk):
+                                chunk_detail = {"chunk": chunk, "chunk_type": chunking_rule_last_component}
+                                if chunk_detail["chunk_type"] == "NP":
+                                    for token in reversed(chunk):
+                                        flag = False
+                                        for noun_pos in noun_pos_list:
+                                            if token["upos"] == noun_pos:
+                                                chunk_detail["core_word"] = token
+                                                flag = True
+                                                break
+                                        if flag:
+                                            break
+                                if chunk_detail["chunk_type"] == "VP":
+                                    for token in chunk:
+                                        if token["upos"] == "vx":
+                                            chunk_detail["core_word"] = token
+                                            break
+                                if len(child_chunk_list) != 0:
+                                    # TODO: if children have siblings or children, then?
+                                    chunk_detail["children"] = child_chunk_list
+                                chunk_list[chunk_index] = chunk_detail
+                                chunk_index += counter
+                                counter = 1
+                            else:
+                                tmp_chunking_rule_component_index -= 1
                     else:
                         if len(tmp_chunking_rule_list) != 0:
                             # TODO: len(tmp_chunking_rule_list) == 1 or not?
