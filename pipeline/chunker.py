@@ -454,7 +454,7 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                             tmp_chunking_rule_component_index -= 1
                         else:
                             if len(tmp_chunking_rule_list2) == 0:
-                                if len(chunk[chunk_token_index + 1:]) == 2:
+                                if chunking_rule_last_component == "" and len(chunk[chunk_token_index + 1:]) == 2:
                                     # TODO: like following else?
                                     chunk_detail1 = {"chunk": chunk[chunk_token_index + 1:chunk_token_index + 2],
                                                      "chunk_type": chunk[chunk_token_index + 1:chunk_token_index + 2][0]["upos"],
