@@ -171,6 +171,19 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                                             if token["upos"] == "ux":
                                                 chunk_detail["core_word"] = token
                                                 break
+                                if chunk_detail["chunk_type"] == "QP":
+                                    if len(chunk) == 3:
+                                        chunk_detail["core_word"] = chunk[-1]
+                                    elif len(chunk) == 2:
+                                        if (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "qx") or \
+                                                (chunk[0]["upos"] == "rx" and chunk[1]["upos"] == "mx") or \
+                                                (chunk[0]["upos"] == "ax" and chunk[1]["upos"] == "mx") or \
+                                                (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "mx"):
+                                            chunk_detail["core_word"] = chunk[0]
+                                        if (chunk[0]["upos"] == "qx" and chunk[1]["upos"] == "mx") or \
+                                                (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "mx") or \
+                                                (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "tt"):
+                                            chunk_detail["core_word"] = chunk[1]
                                 if len(child_chunk_list) != 0:
                                     # TODO: if children have siblings or children, then?
                                     chunk_detail["children"] = child_chunk_list
@@ -225,6 +238,19 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                                         if token["upos"] == "ux":
                                             chunk_detail["core_word"] = token
                                             break
+                            if chunk_detail["chunk_type"] == "QP":
+                                if len(chunk) == 3:
+                                    chunk_detail["core_word"] = chunk[-1]
+                                elif len(chunk) == 2:
+                                    if (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "qx") or \
+                                            (chunk[0]["upos"] == "rx" and chunk[1]["upos"] == "mx") or \
+                                            (chunk[0]["upos"] == "ax" and chunk[1]["upos"] == "mx") or \
+                                            (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "mx"):
+                                        chunk_detail["core_word"] = chunk[0]
+                                    if (chunk[0]["upos"] == "qx" and chunk[1]["upos"] == "mx") or \
+                                            (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "mx") or \
+                                            (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "tt"):
+                                        chunk_detail["core_word"] = chunk[1]
                             if len(child_chunk_list) != 0:
                                 # TODO: if children have siblings or children, then?
                                 chunk_detail["children"] = child_chunk_list
@@ -381,6 +407,19 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                                 if token["upos"] == "ux":
                                                     chunk_detail["core_word"] = token
                                                     break
+                                    if chunk_detail["chunk_type"] == "QP":
+                                        if len(chunk) == 3:
+                                            chunk_detail["core_word"] = chunk[-1]
+                                        elif len(chunk) == 2:
+                                            if (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "qx") or \
+                                                    (chunk[0]["upos"] == "rx" and chunk[1]["upos"] == "mx") or \
+                                                    (chunk[0]["upos"] == "ax" and chunk[1]["upos"] == "mx") or \
+                                                    (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "mx"):
+                                                chunk_detail["core_word"] = chunk[0]
+                                            if (chunk[0]["upos"] == "qx" and chunk[1]["upos"] == "mx") or \
+                                                    (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "mx") or \
+                                                    (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "tt"):
+                                                chunk_detail["core_word"] = chunk[1]
                                     if len(child_chunk_list) != 0:
                                         # TODO: if children have siblings or children, then?
                                         chunk_detail["children"] = child_chunk_list
@@ -460,6 +499,19 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                                             if token["upos"] == "ux":
                                                                 chunk_detail["core_word"] = token
                                                                 break
+                                                if chunk_detail["chunk_type"] == "QP":
+                                                    if len(chunk) == 3:
+                                                        chunk_detail["core_word"] = chunk[-1]
+                                                    elif len(chunk) == 2:
+                                                        if (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "qx") or \
+                                                                (chunk[0]["upos"] == "rx" and chunk[1]["upos"] == "mx") or \
+                                                                (chunk[0]["upos"] == "ax" and chunk[1]["upos"] == "mx") or \
+                                                                (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "mx"):
+                                                            chunk_detail["core_word"] = chunk[0]
+                                                        if (chunk[0]["upos"] == "qx" and chunk[1]["upos"] == "mx") or \
+                                                                (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "mx") or \
+                                                                (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "tt"):
+                                                            chunk_detail["core_word"] = chunk[1]
                                                 # TODO: if children have siblings or children, then?
                                                 chunk_detail["children"] = child_chunk_list
                                                 chunk_list.insert(chunk_index + 1, chunk_detail)
@@ -512,6 +564,19 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                                         if token["upos"] == "ux":
                                                             chunk_detail["core_word"] = token
                                                             break
+                                            if chunk_detail["chunk_type"] == "QP":
+                                                if len(chunk) == 3:
+                                                    chunk_detail["core_word"] = chunk[-1]
+                                                elif len(chunk) == 2:
+                                                    if (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "qx") or \
+                                                            (chunk[0]["upos"] == "rx" and chunk[1]["upos"] == "mx") or \
+                                                            (chunk[0]["upos"] == "ax" and chunk[1]["upos"] == "mx") or \
+                                                            (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "mx"):
+                                                        chunk_detail["core_word"] = chunk[0]
+                                                    if (chunk[0]["upos"] == "qx" and chunk[1]["upos"] == "mx") or \
+                                                            (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "mx") or \
+                                                            (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "tt"):
+                                                        chunk_detail["core_word"] = chunk[1]
                                             # TODO: if children have siblings or children, then?
                                             chunk_detail["children"] = child_chunk_list
                                             chunk_list[chunk_index] = chunk_detail
@@ -559,6 +624,19 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                             if token["upos"] == "ux":
                                                 chunk_detail["core_word"] = token
                                                 break
+                                if chunk_detail["chunk_type"] == "QP":
+                                    if len(chunk) == 3:
+                                        chunk_detail["core_word"] = chunk[-1]
+                                    elif len(chunk) == 2:
+                                        if (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "qx") or \
+                                                (chunk[0]["upos"] == "rx" and chunk[1]["upos"] == "mx") or \
+                                                (chunk[0]["upos"] == "ax" and chunk[1]["upos"] == "mx") or \
+                                                (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "mx"):
+                                            chunk_detail["core_word"] = chunk[0]
+                                        if (chunk[0]["upos"] == "qx" and chunk[1]["upos"] == "mx") or \
+                                                (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "mx") or \
+                                                (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "tt"):
+                                            chunk_detail["core_word"] = chunk[1]
                                 if len(child_chunk_list) != 0:
                                     # TODO: if children have siblings or children, then?
                                     chunk_detail["children"] = child_chunk_list
@@ -642,6 +720,26 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                                     if token["upos"] == "ux":
                                                         chunk_detail["core_word"] = token
                                                         break
+                                        if chunk_detail["chunk_type"] == "QP":
+                                            if len(chunk[chunk_token_index + 1:]) == 3:
+                                                chunk_detail["core_word"] = chunk[chunk_token_index + 1:][-1]
+                                            elif len(chunk[chunk_token_index + 1:]) == 2:
+                                                if (chunk[chunk_token_index + 1:][0]["upos"] == "mx" and
+                                                    chunk[chunk_token_index + 1:][1]["upos"] == "qx") or \
+                                                        (chunk[chunk_token_index + 1:][0]["upos"] == "rx" and
+                                                         chunk[chunk_token_index + 1:][1]["upos"] == "mx") or \
+                                                        (chunk[chunk_token_index + 1:][0]["upos"] == "ax" and
+                                                         chunk[chunk_token_index + 1:][1]["upos"] == "mx") or \
+                                                        (chunk[chunk_token_index + 1:][0]["upos"] == "tt" and
+                                                         chunk[chunk_token_index + 1:][1]["upos"] == "mx"):
+                                                    chunk_detail["core_word"] = chunk[chunk_token_index + 1:][0]
+                                                if (chunk[chunk_token_index + 1:][0]["upos"] == "qx" and
+                                                    chunk[chunk_token_index + 1:][1]["upos"] == "mx") or \
+                                                        (chunk[chunk_token_index + 1:][0]["upos"] == "mx" and
+                                                         chunk[chunk_token_index + 1:][1]["upos"] == "mx") or \
+                                                        (chunk[chunk_token_index + 1:][0]["upos"] == "tt" and
+                                                         chunk[chunk_token_index + 1:][1]["upos"] == "tt"):
+                                                    chunk_detail["core_word"] = chunk[chunk_token_index + 1:][1]
                                     chunk_list.insert(chunk_index + 1, chunk_detail)
                                     chunk = chunk[:chunk_token_index + 1]
                                     chunk_list[chunk_index] = chunk
