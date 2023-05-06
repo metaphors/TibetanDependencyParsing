@@ -143,5 +143,13 @@ def load_conllu_data(inputs_dir, stage_dir, inputs_file):
                     token["upos"] = "nx"
                 if re.match("^a", token["xpos"]):
                     token["upos"] = "ax"
+                if re.match("^q", token["xpos"]):
+                    token["upos"] = "qx"
+                if re.match("^m", token["xpos"]):
+                    token["upos"] = "mx"
+                if re.match("^c", token["xpos"]):
+                    token["upos"] = "cx"
+                if re.match("^d", token["xpos"]):
+                    token["upos"] = "dx"
             conllu_list.append(token_list)
     return conllu_list
