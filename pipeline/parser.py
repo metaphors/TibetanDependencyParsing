@@ -157,12 +157,13 @@ def parse_a_single_sentence(token_list, chunk_list, dependency_rule_list):
         need_to_be_marked = False
         head = 0
         deprel = ""
-        if chunk["core_word"]["upos"] == "vx":
+        if chunk["chunk_type"] == "VP" or chunk["chunk_type"] == "vx":
             need_to_be_marked = True
             head = 0
             deprel = "ROOT"
             token_list[chunk["core_word"]["id"] - 1]["blank_head"] = head
             token_list[chunk["core_word"]["id"] - 1]["blank_deprel"] = deprel
+        # TODO: if there is no VP or vx, then?
         if len(buffer_token_list) >= 2:
             for index_i in range(0, len(buffer_token_list) - 1):
                 for index_j in range(index_i + 1, len(buffer_token_list)):
@@ -277,6 +278,7 @@ def parse_a_complex_sentence(token_list, chunk_list, dependency_rule_list, conju
     for chunk_index, chunk in enumerate(chunk_list):
         if chunk["chunk_type"] == "VP" or chunk["chunk_type"] == "vx":
             vp_index_list.append(chunk_index)
+        # TODO: if there is no VP or vx, then?
     for vp_index_index in range(0, len(vp_index_list)):
         if vp_index_index == 0:
             if chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "cx" or \
@@ -320,11 +322,11 @@ def parse_a_complex_sentence(token_list, chunk_list, dependency_rule_list, conju
             first_vx_id = 0
             second_vx_id = 0
             for token in chunk_list[vp_index_list[vp_index_index]]["chunk"]:
-                if token["upos"] == "vx":
+                if token["id"] == chunk_list[vp_index_list[vp_index_index]]["core_word"]["id"]:
                     first_vx_id = token["id"]
                     break
             for token in chunk_list[vp_index_list[vp_index_index + 1]]["chunk"]:
-                if token["upos"] == "vx":
+                if token["id"] == chunk_list[vp_index_list[vp_index_index + 1]]["core_word"]["id"]:
                     second_vx_id = token["id"]
                     break
             token_list[first_vx_id - 1]["blank_head"] = second_vx_id
@@ -350,11 +352,11 @@ def parse_a_complex_sentence(token_list, chunk_list, dependency_rule_list, conju
             first_vx_id = 0
             second_vx_id = 0
             for token in chunk_list[vp_index_list[vp_index_index]]["chunk"]:
-                if token["upos"] == "vx":
+                if token["id"] == chunk_list[vp_index_list[vp_index_index]]["core_word"]["id"]:
                     first_vx_id = token["id"]
                     break
             for token in chunk_list[vp_index_list[vp_index_index + 1]]["chunk"]:
-                if token["upos"] == "vx":
+                if token["id"] == chunk_list[vp_index_list[vp_index_index + 1]]["core_word"]["id"]:
                     second_vx_id = token["id"]
                     break
             token_list[first_vx_id - 1]["blank_head"] = second_vx_id
@@ -366,11 +368,11 @@ def parse_a_complex_sentence(token_list, chunk_list, dependency_rule_list, conju
             first_vx_id = 0
             second_vx_id = 0
             for token in chunk_list[vp_index_list[vp_index_index]]["chunk"]:
-                if token["upos"] == "vx":
+                if token["id"] == chunk_list[vp_index_list[vp_index_index]]["core_word"]["id"]:
                     first_vx_id = token["id"]
                     break
             for token in chunk_list[vp_index_list[vp_index_index + 1]]["chunk"]:
-                if token["upos"] == "vx":
+                if token["id"] == chunk_list[vp_index_list[vp_index_index + 1]]["core_word"]["id"]:
                     second_vx_id = token["id"]
                     break
             token_list[first_vx_id - 1]["blank_head"] = second_vx_id
