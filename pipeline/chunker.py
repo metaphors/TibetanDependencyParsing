@@ -620,25 +620,25 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                             found_vx = False
                                             found_nv = False
                                             found_ax = False
-                                            for token in chunk:
+                                            for token in chunk[chunk_token_index + 1:]:
                                                 if token["upos"] == "vx":
                                                     found_vx = True
                                                     chunk_detail["core_word"] = token
                                                     break
                                             if not found_vx:
-                                                for token in chunk:
+                                                for token in chunk[chunk_token_index + 1:]:
                                                     if token["xpos"] == "nv":
                                                         found_nv = True
                                                         chunk_detail["core_word"] = token
                                                         break
                                             elif not found_nv:
-                                                for token in reversed(chunk):
+                                                for token in reversed(chunk[chunk_token_index + 1:]):
                                                     if token["upos"] == "ax":
                                                         found_ax = True
                                                         chunk_detail["core_word"] = token
                                                         break
                                             elif not found_ax:
-                                                for token in chunk:
+                                                for token in chunk[chunk_token_index + 1:]:
                                                     if token["upos"] == "ux":
                                                         chunk_detail["core_word"] = token
                                                         break
