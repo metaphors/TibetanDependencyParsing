@@ -389,8 +389,7 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                                 chunk_token_index = 0
                                                 counter += 1
                                             else:
-                                                # TODO: if len(tmp_chunking_rule_list) != 0, then?
-                                                pass
+                                                tmp_chunking_rule_component_index -= 1
                                         else:
                                             chunk_detail = {"chunk": chunk, "chunk_type": tmp_chunking_rule_list[0]["type"]}
                                             if chunk_detail["chunk_type"] == "NP":
