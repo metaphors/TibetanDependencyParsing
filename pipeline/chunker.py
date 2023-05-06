@@ -146,10 +146,31 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                                         if flag:
                                             break
                                 if chunk_detail["chunk_type"] == "VP":
+                                    found_vx = False
+                                    found_nv = False
+                                    found_ax = False
                                     for token in chunk:
                                         if token["upos"] == "vx":
+                                            found_vx = True
                                             chunk_detail["core_word"] = token
                                             break
+                                    if not found_vx:
+                                        for token in chunk:
+                                            if token["xpos"] == "nv":
+                                                found_nv = True
+                                                chunk_detail["core_word"] = token
+                                                break
+                                    elif not found_nv:
+                                        for token in reversed(chunk):
+                                            if token["upos"] == "ax":
+                                                found_ax = True
+                                                chunk_detail["core_word"] = token
+                                                break
+                                    elif not found_ax:
+                                        for token in chunk:
+                                            if token["upos"] == "ux":
+                                                chunk_detail["core_word"] = token
+                                                break
                                 if len(child_chunk_list) != 0:
                                     # TODO: if children have siblings or children, then?
                                     chunk_detail["children"] = child_chunk_list
@@ -179,10 +200,31 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                                     if flag:
                                         break
                             if chunk_detail["chunk_type"] == "VP":
+                                found_vx = False
+                                found_nv = False
+                                found_ax = False
                                 for token in chunk:
                                     if token["upos"] == "vx":
+                                        found_vx = True
                                         chunk_detail["core_word"] = token
                                         break
+                                if not found_vx:
+                                    for token in chunk:
+                                        if token["xpos"] == "nv":
+                                            found_nv = True
+                                            chunk_detail["core_word"] = token
+                                            break
+                                elif not found_nv:
+                                    for token in reversed(chunk):
+                                        if token["upos"] == "ax":
+                                            found_ax = True
+                                            chunk_detail["core_word"] = token
+                                            break
+                                elif not found_ax:
+                                    for token in chunk:
+                                        if token["upos"] == "ux":
+                                            chunk_detail["core_word"] = token
+                                            break
                             if len(child_chunk_list) != 0:
                                 # TODO: if children have siblings or children, then?
                                 chunk_detail["children"] = child_chunk_list
@@ -314,10 +356,31 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                             if flag:
                                                 break
                                     if chunk_detail["chunk_type"] == "VP":
+                                        found_vx = False
+                                        found_nv = False
+                                        found_ax = False
                                         for token in chunk:
                                             if token["upos"] == "vx":
+                                                found_vx = True
                                                 chunk_detail["core_word"] = token
                                                 break
+                                        if not found_vx:
+                                            for token in chunk:
+                                                if token["xpos"] == "nv":
+                                                    found_nv = True
+                                                    chunk_detail["core_word"] = token
+                                                    break
+                                        elif not found_nv:
+                                            for token in reversed(chunk):
+                                                if token["upos"] == "ax":
+                                                    found_ax = True
+                                                    chunk_detail["core_word"] = token
+                                                    break
+                                        elif not found_ax:
+                                            for token in chunk:
+                                                if token["upos"] == "ux":
+                                                    chunk_detail["core_word"] = token
+                                                    break
                                     if len(child_chunk_list) != 0:
                                         # TODO: if children have siblings or children, then?
                                         chunk_detail["children"] = child_chunk_list
@@ -372,10 +435,31 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                                         if flag:
                                                             break
                                                 if chunk_detail["chunk_type"] == "VP":
+                                                    found_vx = False
+                                                    found_nv = False
+                                                    found_ax = False
                                                     for token in chunk:
                                                         if token["upos"] == "vx":
+                                                            found_vx = True
                                                             chunk_detail["core_word"] = token
                                                             break
+                                                    if not found_vx:
+                                                        for token in chunk:
+                                                            if token["xpos"] == "nv":
+                                                                found_nv = True
+                                                                chunk_detail["core_word"] = token
+                                                                break
+                                                    elif not found_nv:
+                                                        for token in reversed(chunk):
+                                                            if token["upos"] == "ax":
+                                                                found_ax = True
+                                                                chunk_detail["core_word"] = token
+                                                                break
+                                                    elif not found_ax:
+                                                        for token in chunk:
+                                                            if token["upos"] == "ux":
+                                                                chunk_detail["core_word"] = token
+                                                                break
                                                 # TODO: if children have siblings or children, then?
                                                 chunk_detail["children"] = child_chunk_list
                                                 chunk_list.insert(chunk_index + 1, chunk_detail)
@@ -403,10 +487,31 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                                     if flag:
                                                         break
                                             if chunk_detail["chunk_type"] == "VP":
+                                                found_vx = False
+                                                found_nv = False
+                                                found_ax = False
                                                 for token in chunk:
                                                     if token["upos"] == "vx":
+                                                        found_vx = True
                                                         chunk_detail["core_word"] = token
                                                         break
+                                                if not found_vx:
+                                                    for token in chunk:
+                                                        if token["xpos"] == "nv":
+                                                            found_nv = True
+                                                            chunk_detail["core_word"] = token
+                                                            break
+                                                elif not found_nv:
+                                                    for token in reversed(chunk):
+                                                        if token["upos"] == "ax":
+                                                            found_ax = True
+                                                            chunk_detail["core_word"] = token
+                                                            break
+                                                elif not found_ax:
+                                                    for token in chunk:
+                                                        if token["upos"] == "ux":
+                                                            chunk_detail["core_word"] = token
+                                                            break
                                             # TODO: if children have siblings or children, then?
                                             chunk_detail["children"] = child_chunk_list
                                             chunk_list[chunk_index] = chunk_detail
@@ -429,10 +534,31 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                         if flag:
                                             break
                                 if chunk_detail["chunk_type"] == "VP":
+                                    found_vx = False
+                                    found_nv = False
+                                    found_ax = False
                                     for token in chunk:
                                         if token["upos"] == "vx":
+                                            found_vx = True
                                             chunk_detail["core_word"] = token
                                             break
+                                    if not found_vx:
+                                        for token in chunk:
+                                            if token["xpos"] == "nv":
+                                                found_nv = True
+                                                chunk_detail["core_word"] = token
+                                                break
+                                    elif not found_nv:
+                                        for token in reversed(chunk):
+                                            if token["upos"] == "ax":
+                                                found_ax = True
+                                                chunk_detail["core_word"] = token
+                                                break
+                                    elif not found_ax:
+                                        for token in chunk:
+                                            if token["upos"] == "ux":
+                                                chunk_detail["core_word"] = token
+                                                break
                                 if len(child_chunk_list) != 0:
                                     # TODO: if children have siblings or children, then?
                                     chunk_detail["children"] = child_chunk_list
@@ -491,10 +617,31 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                                 if flag:
                                                     break
                                         if chunk_detail["chunk_type"] == "VP":
+                                            found_vx = False
+                                            found_nv = False
+                                            found_ax = False
                                             for token in chunk:
                                                 if token["upos"] == "vx":
+                                                    found_vx = True
                                                     chunk_detail["core_word"] = token
                                                     break
+                                            if not found_vx:
+                                                for token in chunk:
+                                                    if token["xpos"] == "nv":
+                                                        found_nv = True
+                                                        chunk_detail["core_word"] = token
+                                                        break
+                                            elif not found_nv:
+                                                for token in reversed(chunk):
+                                                    if token["upos"] == "ax":
+                                                        found_ax = True
+                                                        chunk_detail["core_word"] = token
+                                                        break
+                                            elif not found_ax:
+                                                for token in chunk:
+                                                    if token["upos"] == "ux":
+                                                        chunk_detail["core_word"] = token
+                                                        break
                                     chunk_list.insert(chunk_index + 1, chunk_detail)
                                     chunk = chunk[:chunk_token_index + 1]
                                     chunk_list[chunk_index] = chunk
