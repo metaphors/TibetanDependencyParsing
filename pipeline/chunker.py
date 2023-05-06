@@ -583,8 +583,31 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                             chunk_index += counter
                                             counter = 1
                                 if not equal:
-                                    # TODO: if tmp_chunking_rule_list[0]["type"] != tmp_chunking_rule_list2[0]["components"][0], then?
-                                    pass
+                                    tmp_token_id = token["id"] + (-tmp_chunking_rule_component_index)
+                                    tmp_token_index = 0
+                                    for token in reversed(chunk):
+                                        if token["id"] >= tmp_token_id:
+                                            chunk_detail = {"chunk": [token], "chunk_type": token["upos"], "core_word": token}
+                                            chunk_list.insert(chunk_index + 1, chunk_detail)
+                                            counter += 1
+                                            tmp_token_index -= 1
+                                        else:
+                                            break
+                                    chunk = chunk[:len(chunk) + tmp_token_index]
+                                    if len(chunk) == 1:
+                                        chunk_detail = {"chunk": chunk, "chunk_type": chunk[0]["upos"], "core_word": chunk[0]}
+                                        chunk_list[chunk_index] = chunk_detail
+                                        tmp_chunking_rule_component_index = -1
+                                        tmp_chunking_rule_list = []
+                                        tmp_chunking_rule_list2 = []
+                                        chunk_index += counter
+                                        counter = 1
+                                    else:
+                                        chunk_list[chunk_index] = chunk
+                                        tmp_chunking_rule_component_index = -1
+                                        tmp_chunking_rule_list = []
+                                        tmp_chunking_rule_list2 = []
+                                        chunk_token_index = 0
                         else:
                             if chunk_token_index == -len(chunk):
                                 chunk_detail = {"chunk": chunk, "chunk_type": chunking_rule_last_component}
