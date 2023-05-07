@@ -172,13 +172,13 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                                                 found_nv = True
                                                 chunk_detail["core_word"] = token
                                                 break
-                                    if not found_nv:
+                                    if not found_vx and not found_nv:
                                         for token in reversed(chunk):
                                             if token["upos"] == "ax":
                                                 found_ax = True
                                                 chunk_detail["core_word"] = token
                                                 break
-                                    if not found_ax:
+                                    if not found_vx and not found_nv and not found_ax:
                                         for token in chunk:
                                             if token["upos"] == "ux":
                                                 chunk_detail["core_word"] = token
@@ -250,13 +250,13 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                                             found_nv = True
                                             chunk_detail["core_word"] = token
                                             break
-                                if not found_nv:
+                                if not found_vx and not found_nv:
                                     for token in reversed(chunk):
                                         if token["upos"] == "ax":
                                             found_ax = True
                                             chunk_detail["core_word"] = token
                                             break
-                                if not found_ax:
+                                if not found_vx and not found_nv and not found_ax:
                                     for token in chunk:
                                         if token["upos"] == "ux":
                                             chunk_detail["core_word"] = token
@@ -419,13 +419,13 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                                     found_nv = True
                                                     chunk_detail["core_word"] = token
                                                     break
-                                        if not found_nv:
+                                        if not found_vx and not found_nv:
                                             for token in reversed(chunk):
                                                 if token["upos"] == "ax":
                                                     found_ax = True
                                                     chunk_detail["core_word"] = token
                                                     break
-                                        if not found_ax:
+                                        if not found_vx and not found_nv and not found_ax:
                                             for token in chunk:
                                                 if token["upos"] == "ux":
                                                     chunk_detail["core_word"] = token
@@ -511,13 +511,13 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                                                 found_nv = True
                                                                 chunk_detail["core_word"] = token
                                                                 break
-                                                    if not found_nv:
+                                                    if not found_vx and not found_nv:
                                                         for token in reversed(chunk):
                                                             if token["upos"] == "ax":
                                                                 found_ax = True
                                                                 chunk_detail["core_word"] = token
                                                                 break
-                                                    if not found_ax:
+                                                    if not found_vx and not found_nv and not found_ax:
                                                         for token in chunk:
                                                             if token["upos"] == "ux":
                                                                 chunk_detail["core_word"] = token
@@ -576,13 +576,13 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                                             found_nv = True
                                                             chunk_detail["core_word"] = token
                                                             break
-                                                if not found_nv:
+                                                if not found_vx and not found_nv:
                                                     for token in reversed(chunk):
                                                         if token["upos"] == "ax":
                                                             found_ax = True
                                                             chunk_detail["core_word"] = token
                                                             break
-                                                if not found_ax:
+                                                if not found_vx and not found_nv and not found_ax:
                                                     for token in chunk:
                                                         if token["upos"] == "ux":
                                                             chunk_detail["core_word"] = token
@@ -659,13 +659,13 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                                 found_nv = True
                                                 chunk_detail["core_word"] = token
                                                 break
-                                    if not found_nv:
+                                    if not found_vx and not found_nv:
                                         for token in reversed(chunk):
                                             if token["upos"] == "ax":
                                                 found_ax = True
                                                 chunk_detail["core_word"] = token
                                                 break
-                                    if not found_ax:
+                                    if not found_vx and not found_nv and not found_ax:
                                         for token in chunk:
                                             if token["upos"] == "ux":
                                                 chunk_detail["core_word"] = token
@@ -755,13 +755,13 @@ def chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list):
                                                         found_nv = True
                                                         chunk_detail["core_word"] = token
                                                         break
-                                            if not found_nv:
+                                            if not found_vx and not found_nv:
                                                 for token in reversed(chunk[chunk_token_index + 1:]):
                                                     if token["upos"] == "ax":
                                                         found_ax = True
                                                         chunk_detail["core_word"] = token
                                                         break
-                                            if not found_ax:
+                                            if not found_vx and not found_nv and not found_ax:
                                                 for token in chunk[chunk_token_index + 1:]:
                                                     if token["upos"] == "ux":
                                                         chunk_detail["core_word"] = token
