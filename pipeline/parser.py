@@ -83,6 +83,12 @@ def parse_a_chunk(token_list, chunk, dependency_rule_list):
                             if buffer_token_list[index_i]["xpos"] == "gl":
                                 token_list[buffer_token_list[index_i]["id"] - 1]["blank_deprel"] = "GL"
                                 buffer_token_list[index_i]["blank_deprel"] = "GL"
+                            if buffer_token_list[index_i]["xpos"] == "gj":
+                                token_list[buffer_token_list[index_i]["id"] - 1]["blank_deprel"] = "GJ"
+                                buffer_token_list[index_i]["blank_deprel"] = "GJ"
+                            if buffer_token_list[index_i]["upos"] == "cx":
+                                token_list[buffer_token_list[index_i]["id"] - 1]["blank_deprel"] = "CN"
+                                buffer_token_list[index_i]["blank_deprel"] = "CN"
                             need_to_be_marked = True
                             head = buffer_token_list[index_j]["id"]
                             deprel = dependency_rule["relation"]
@@ -211,6 +217,12 @@ def parse_a_single_sentence(token_list, chunk_list, dependency_rule_list):
                             if buffer_token_list[index_i]["xpos"] == "gl":
                                 token_list[buffer_token_list[index_i]["id"] - 1]["blank_deprel"] = "GL"
                                 buffer_token_list[index_i]["blank_deprel"] = "GL"
+                            if buffer_token_list[index_i]["xpos"] == "gj":
+                                token_list[buffer_token_list[index_i]["id"] - 1]["blank_deprel"] = "GJ"
+                                buffer_token_list[index_i]["blank_deprel"] = "GJ"
+                            if buffer_token_list[index_i]["upos"] == "cx":
+                                token_list[buffer_token_list[index_i]["id"] - 1]["blank_deprel"] = "CN"
+                                buffer_token_list[index_i]["blank_deprel"] = "CN"
                             need_to_be_marked = True
                             head = buffer_token_list[index_j]["id"]
                             deprel = dependency_rule["relation"]
