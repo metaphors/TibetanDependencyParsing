@@ -107,15 +107,19 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                     tmp_chunking_rule_index = 0
                     while tmp_chunking_rule_index < len(tmp_chunking_rule_list):
                         tmp_chunking_rule = tmp_chunking_rule_list[tmp_chunking_rule_index]
-                        if token["upos"] == tmp_chunking_rule["components"][tmp_chunking_rule_component_index]:
-                            existed = True
-                        elif token["upos"] == "nx" and "NP" == tmp_chunking_rule["components"][tmp_chunking_rule_component_index]:
-                            existed = True
-                        elif token["upos"] == "vx" and "VP" == tmp_chunking_rule["components"][tmp_chunking_rule_component_index]:
-                            existed = True
-                        else:
+                        if tmp_chunking_rule_component_index >= len(tmp_chunking_rule["components"]):
                             del tmp_chunking_rule_list[tmp_chunking_rule_index]
                             tmp_chunking_rule_index -= 1
+                        else:
+                            if token["upos"] == tmp_chunking_rule["components"][tmp_chunking_rule_component_index]:
+                                existed = True
+                            elif token["upos"] == "nx" and "NP" == tmp_chunking_rule["components"][tmp_chunking_rule_component_index]:
+                                existed = True
+                            elif token["upos"] == "vx" and "VP" == tmp_chunking_rule["components"][tmp_chunking_rule_component_index]:
+                                existed = True
+                            else:
+                                del tmp_chunking_rule_list[tmp_chunking_rule_index]
+                                tmp_chunking_rule_index -= 1
                         tmp_chunking_rule_index += 1
                     if existed:
                         tmp_chunking_rule_component_index += 1
