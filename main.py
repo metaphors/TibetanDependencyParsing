@@ -61,8 +61,8 @@ for token_list in conllu_list:
     chunk_list = []
     chunk_tokens_by_function_words_pos(chunk_list, token_list, function_word_pos_list)
     # print_chunks(chunk_list)
-    # chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list)
-    chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list)
+    chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list)
+    # chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list)
     # print_chunks(chunk_list)
     if is_a_single_sentence(chunk_list):
         # print("This is a single sentence.\n")
@@ -75,10 +75,15 @@ for token_list in conllu_list:
         # print(token_list.serialize())
         output_token_list(token_list, OUTPUTS_DIR, STAGE_DIR, OUTPUTS_FILE)
 
-from pipeline.postprocessor import *
-
-draw_dependency_trees(OUTPUTS_DIR, STAGE_DIR, OUTPUTS_FILE)
-
 from pipeline.evaluator import *
+
+uas = calculate_uas(INPUTS_DIR, OUTPUTS_DIR, STAGE_DIR, FORMATTED_MARKED_CORPUS_FILE, OUTPUTS_FILE)
+print("UAS: " + str(uas))
+las = calculate_las(INPUTS_DIR, OUTPUTS_DIR, STAGE_DIR, FORMATTED_MARKED_CORPUS_FILE, OUTPUTS_FILE)
+print("LAS: " + str(las))
+
+# from pipeline.postprocessor import *
+#
+# draw_dependency_trees(OUTPUTS_DIR, STAGE_DIR, OUTPUTS_FILE)
 
 # demo end
