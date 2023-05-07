@@ -5,7 +5,9 @@ from conllu import parse_incr
 
 def format_manual_marked_corpus(inputs_dir, stage_dir, manual_marked_corpus_file, formatted_marked_corpus_file):
     """
-    Remove the redundant spaces in Manual Marked Corpus File and save the results in Formatted Marked Corpus File.
+    1. Remove the redundant spaces in Manual Marked Corpus File.
+    2. Correct the order numbers in Manual Marked Corpus File.
+    3. Save the results in Formatted Marked Corpus File.
 
     :param inputs_dir: Inputs Directory.
     :param stage_dir: Stage Directory.
@@ -14,13 +16,21 @@ def format_manual_marked_corpus(inputs_dir, stage_dir, manual_marked_corpus_file
     """
     with open(os.path.join(inputs_dir, stage_dir, manual_marked_corpus_file), "r", encoding="utf-8") as inputs_file:
         with open(os.path.join(inputs_dir, stage_dir, formatted_marked_corpus_file), "w", encoding="utf-8") as outputs_file:
+            counter = 0
             for line in inputs_file:
                 if line.startswith("#"):
                     continue
                 elif line == "\n":
+                    counter = 0
                     outputs_file.write("\n")
                 else:
+                    counter += 1
                     tmp_list = re.split("[ \t]", line.strip())
+                    for index, item in enumerate(tmp_list):
+                        if item != "":
+                            item = str(counter)
+                            tmp_list[index] = item
+                            break
                     for index, item in enumerate(tmp_list):
                         if item == "":
                             continue
