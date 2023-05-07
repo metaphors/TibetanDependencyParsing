@@ -21,6 +21,12 @@ def chunk_tokens_by_function_words(chunk_list, token_list, function_word_list):
             chunk_list.append(tmp_token_list)
             chunk_list.append([token])
             tmp_token_list = []
+    tmp_index_list = []
+    for index, chunk in enumerate(chunk_list):
+        if len(chunk) == 0:
+            tmp_index_list.append(index)
+    for index in tmp_index_list:
+        del chunk_list[index]
 
 
 def chunk_tokens_by_function_words_pos(chunk_list, token_list, function_word_pos_list):
@@ -46,6 +52,12 @@ def chunk_tokens_by_function_words_pos(chunk_list, token_list, function_word_pos
             chunk_list.append(tmp_token_list)
             chunk_list.append([token])
             tmp_token_list = []
+    tmp_index_list = []
+    for index, chunk in enumerate(chunk_list):
+        if len(chunk) == 0:
+            tmp_index_list.append(index)
+    for index in tmp_index_list:
+        del chunk_list[index]
 
 
 def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
