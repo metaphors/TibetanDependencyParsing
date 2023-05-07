@@ -1,7 +1,7 @@
 # sent_id = train-s0
 1	བཀྲ་ཤིས་	བཀྲ་ཤིས་	nx	nr	-	8	SUBJ	-	-
 2	ཀྱིས་	ཀྱིས་	gx	gx	-	1	GX	-	-
-3	ནགས་ཚལ་	ནགས་ཚལ་	nx	ns	-	8	FOBJ	-	-
+3	ནགས་ཚལ་	ནགས་ཚལ་	nx	ns	-	5	FOBJ	-	-
 4	དུ་	དུ་	gl	gl	-	3	GL	-	-
 5	སྟ་རེ	སྟ་རེ	nx	nn	-	8	SUBJ	-	-
 6	འིས་	འིས་	gx	gx	-	5	GX	-	-
@@ -31,7 +31,7 @@
 19	སྡོང་པོ་	སྡོང་པོ་	nx	nn	-	21	DOBJ	-	-
 20	མང་པོ་	མང་པོ་	ax	ax	-	19	HATT	-	-
 21	བཅད	བཅད	vx	vt	-	0	ROOT	-	-
-22	ཡོད	ཡོད	ux	ux	-	21	COMP	-	-
+22	ཡོད	ཡོད	ux	ux	-	21	ZYQA	-	-
 23	དོ	དོ	ux	uz	-	22	UZ	-	-
 24	།	།	lz	lz	-	21	PUNCT	-	-
 
@@ -41,8 +41,8 @@
 3	རྒྱ་གར་	རྒྱ་གར་	nx	ng	-	5	IOBJ	-	-
 4	དུ་	དུ་	gl	gl	-	3	GL	-	-
 5	སོང་	སོང་	vx	vt	-	10	BLFH	-	-
-6	མྱོང་	མྱོང་	ux	us	-	5	COMP	 -	-
-7	ལ་	ལ་	cx	cx	-	5	GLC	-	-
+6	མྱོང་	མྱོང་	ux	us	-	5	ZYQA	 -	-
+7	ལ་	ལ་	cx	cj	-	5	GLC	-	-
 8	འབར་མ་	འབར་མ་	nx	ng	-	10	IOBJ	-	-
 9	རུ་	རུ་	gl	gl	-	8	GL	-	-
 10	ཡོང་	ཡོང་	vx	vt	-	0	ROOT	-	-
