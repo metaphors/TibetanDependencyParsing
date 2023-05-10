@@ -62,7 +62,6 @@ for token_list in conllu_list:
     chunk_tokens_by_function_words_pos(chunk_list, token_list, function_word_pos_list)
     # print_chunks(chunk_list)
     chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list)
-    # chunk_by_rules_reversely(chunk_list, chunking_rule_list, noun_pos_list)
     # print_chunks(chunk_list)
     if is_a_single_sentence(chunk_list):
         # print("This is a single sentence.\n")
