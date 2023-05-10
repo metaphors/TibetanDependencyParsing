@@ -294,34 +294,73 @@ def parse_a_complex_sentence(token_list, chunk_list, dependency_rule_list, conju
     for vp_index_index in range(0, len(vp_index_list)):
         if vp_index_index == 0:
             if chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "cx" or \
-                    chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "lz":
+                    (chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "lz" and
+                     chunk_list[vp_index_list[vp_index_index] + 2]["chunk_type"] != "cx"):
                 single_sentence_list.append(chunk_list[0:vp_index_list[vp_index_index] + 1 + 1])
+            elif chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "lz" and \
+                    chunk_list[vp_index_list[vp_index_index] + 2]["chunk_type"] == "cx":
+                single_sentence_list.append(chunk_list[0:vp_index_list[vp_index_index] + 2 + 1])
             elif chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] != "cx" and \
                     chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] != "lz":
                 single_sentence_list.append(chunk_list[0:vp_index_list[vp_index_index] + 1])
         elif vp_index_index == len(vp_index_list) - 1:
             if chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "cx" or \
-                    chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "lz":
+                    (chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "lz" and
+                     chunk_list[vp_index_list[vp_index_index - 1] + 2]["chunk_type"] != "cx"):
                 single_sentence_list.append(chunk_list[vp_index_list[vp_index_index - 1] + 1 + 1:len(chunk_list)])
+            elif chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "lz" and \
+                    chunk_list[vp_index_list[vp_index_index - 1] + 2]["chunk_type"] == "cx":
+                single_sentence_list.append(chunk_list[vp_index_list[vp_index_index - 1] + 2 + 1:len(chunk_list)])
             elif chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] != "cx" and \
                     chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] != "lz":
                 single_sentence_list.append(chunk_list[vp_index_list[vp_index_index - 1] + 1:len(chunk_list)])
         else:
             if (chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "cx" or
-                chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "lz") and \
+                (chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "lz" and
+                 chunk_list[vp_index_list[vp_index_index - 1] + 2]["chunk_type"] != "cx")) and \
                     (chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "cx" or
-                     chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "lz"):
+                     (chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "lz" and
+                      chunk_list[vp_index_list[vp_index_index] + 2]["chunk_type"] != "cx")):
                 single_sentence_list.append(chunk_list[vp_index_list[vp_index_index - 1] + 1 + 1:vp_index_list[vp_index_index] + 1 + 1])
+            elif (chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "lz" and
+                  chunk_list[vp_index_list[vp_index_index - 1] + 2]["chunk_type"] == "cx") and \
+                    (chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "cx" or
+                     (chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "lz" and
+                      chunk_list[vp_index_list[vp_index_index] + 2]["chunk_type"] != "cx")):
+                single_sentence_list.append(chunk_list[vp_index_list[vp_index_index - 1] + 2 + 1:vp_index_list[vp_index_index] + 1 + 1])
+            elif (chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "cx" or
+                  (chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "lz" and
+                   chunk_list[vp_index_list[vp_index_index - 1] + 2]["chunk_type"] != "cx")) and \
+                    (chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "lz" and
+                     chunk_list[vp_index_list[vp_index_index] + 2]["chunk_type"] == "cx"):
+                single_sentence_list.append(chunk_list[vp_index_list[vp_index_index - 1] + 1 + 1:vp_index_list[vp_index_index] + 2 + 1])
+            elif (chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "lz" and
+                  chunk_list[vp_index_list[vp_index_index - 1] + 2]["chunk_type"] == "cx") and \
+                    (chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "lz" and
+                     chunk_list[vp_index_list[vp_index_index] + 2]["chunk_type"] == "cx"):
+                single_sentence_list.append(chunk_list[vp_index_list[vp_index_index - 1] + 2 + 1:vp_index_list[vp_index_index] + 2 + 1])
             elif (chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] != "cx" and
                   chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] != "lz") and \
                     (chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "cx" or
-                     chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "lz"):
+                     (chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "lz" and
+                      chunk_list[vp_index_list[vp_index_index] + 2]["chunk_type"] != "cx")):
                 single_sentence_list.append(chunk_list[vp_index_list[vp_index_index - 1] + 1:vp_index_list[vp_index_index] + 1 + 1])
+            elif (chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] != "cx" and
+                  chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] != "lz") and \
+                    (chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "lz" and
+                     chunk_list[vp_index_list[vp_index_index] + 2]["chunk_type"] == "cx"):
+                single_sentence_list.append(chunk_list[vp_index_list[vp_index_index - 1] + 1:vp_index_list[vp_index_index] + 2 + 1])
             elif (chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "cx" or
-                  chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "lz") and \
+                  (chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "lz" and
+                   chunk_list[vp_index_list[vp_index_index - 1] + 2]["chunk_type"] != "cx")) and \
                     (chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] != "cx" and
                      chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] != "lz"):
                 single_sentence_list.append(chunk_list[vp_index_list[vp_index_index - 1] + 1 + 1:vp_index_list[vp_index_index] + 1])
+            elif (chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] == "lz" and
+                  chunk_list[vp_index_list[vp_index_index - 1] + 2]["chunk_type"] == "cx") and \
+                    (chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] != "cx" and
+                     chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] != "lz"):
+                single_sentence_list.append(chunk_list[vp_index_list[vp_index_index - 1] + 2 + 1:vp_index_list[vp_index_index] + 1])
             elif (chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] != "cx" and
                   chunk_list[vp_index_list[vp_index_index - 1] + 1]["chunk_type"] != "lz") and \
                     (chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] != "cx" and
@@ -361,20 +400,53 @@ def parse_a_complex_sentence(token_list, chunk_list, dependency_rule_list, conju
             token_list[chunk_list[vp_index_list[vp_index_index] + 1]["core_word"]["id"] - 1]["blank_head"] = first_vx_id
             token_list[chunk_list[vp_index_list[vp_index_index] + 1]["core_word"]["id"] - 1]["blank_deprel"] = "GLC"
         elif chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] == "lz":
-            first_vx_id = 0
-            second_vx_id = 0
-            for token in chunk_list[vp_index_list[vp_index_index]]["chunk"]:
-                if token["id"] == chunk_list[vp_index_list[vp_index_index]]["core_word"]["id"]:
-                    first_vx_id = token["id"]
-                    break
-            for token in chunk_list[vp_index_list[vp_index_index + 1]]["chunk"]:
-                if token["id"] == chunk_list[vp_index_list[vp_index_index + 1]]["core_word"]["id"]:
-                    second_vx_id = token["id"]
-                    break
-            token_list[first_vx_id - 1]["blank_head"] = second_vx_id
-            token_list[first_vx_id - 1]["blank_deprel"] = "FH"
-            token_list[chunk_list[vp_index_list[vp_index_index] + 1]["core_word"]["id"] - 1]["blank_head"] = first_vx_id
-            token_list[chunk_list[vp_index_list[vp_index_index] + 1]["core_word"]["id"] - 1]["blank_deprel"] = "PUNCT"
+            if chunk_list[vp_index_list[vp_index_index] + 2]["chunk_type"] != "cx":
+                first_vx_id = 0
+                second_vx_id = 0
+                for token in chunk_list[vp_index_list[vp_index_index]]["chunk"]:
+                    if token["id"] == chunk_list[vp_index_list[vp_index_index]]["core_word"]["id"]:
+                        first_vx_id = token["id"]
+                        break
+                for token in chunk_list[vp_index_list[vp_index_index + 1]]["chunk"]:
+                    if token["id"] == chunk_list[vp_index_list[vp_index_index + 1]]["core_word"]["id"]:
+                        second_vx_id = token["id"]
+                        break
+                token_list[first_vx_id - 1]["blank_head"] = second_vx_id
+                token_list[first_vx_id - 1]["blank_deprel"] = "FH"
+                token_list[chunk_list[vp_index_list[vp_index_index] + 1]["core_word"]["id"] - 1]["blank_head"] = first_vx_id
+                token_list[chunk_list[vp_index_list[vp_index_index] + 1]["core_word"]["id"] - 1]["blank_deprel"] = "PUNCT"
+            elif chunk_list[vp_index_list[vp_index_index] + 2]["chunk_type"] == "cx":
+                first_vx_id = 0
+                second_vx_id = 0
+                for token in chunk_list[vp_index_list[vp_index_index]]["chunk"]:
+                    if token["id"] == chunk_list[vp_index_list[vp_index_index]]["core_word"]["id"]:
+                        first_vx_id = token["id"]
+                        break
+                for token in chunk_list[vp_index_list[vp_index_index + 1]]["chunk"]:
+                    if token["id"] == chunk_list[vp_index_list[vp_index_index + 1]]["core_word"]["id"]:
+                        second_vx_id = token["id"]
+                        break
+                token_list[first_vx_id - 1]["blank_head"] = second_vx_id
+                cx_type = ""
+                for conjunction_dict in conjunction_list:
+                    found = False
+                    for conjunction in conjunction_dict["list"]:
+                        if chunk_list[vp_index_list[vp_index_index] + 2]["core_word"]["lemma"] == conjunction:
+                            cx_type = conjunction_dict["type"]
+                            found = True
+                            break
+                    if found:
+                        break
+                if cx_type == "coordinating":
+                    token_list[first_vx_id - 1]["blank_deprel"] = "BLFH"
+                if cx_type == "adversative":
+                    token_list[first_vx_id - 1]["blank_deprel"] = "ZZFH"
+                if cx_type == "causal":
+                    token_list[first_vx_id - 1]["blank_deprel"] = "YGFH"
+                token_list[chunk_list[vp_index_list[vp_index_index] + 1]["core_word"]["id"] - 1]["blank_head"] = first_vx_id
+                token_list[chunk_list[vp_index_list[vp_index_index] + 1]["core_word"]["id"] - 1]["blank_deprel"] = "PUNCT"
+                token_list[chunk_list[vp_index_list[vp_index_index] + 2]["core_word"]["id"] - 1]["blank_head"] = first_vx_id
+                token_list[chunk_list[vp_index_list[vp_index_index] + 2]["core_word"]["id"] - 1]["blank_deprel"] = "GLC"
         elif chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] != "cx" and \
                 chunk_list[vp_index_list[vp_index_index] + 1]["chunk_type"] != "lz":
             first_vx_id = 0
