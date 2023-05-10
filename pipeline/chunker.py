@@ -86,7 +86,8 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                 existed = False
                 if tmp_chunking_rule_component_index == 0:
                     for chunking_rule in chunking_rule_list:
-                        if token["upos"] == chunking_rule["components"][tmp_chunking_rule_component_index]:
+                        if token["upos"] == chunking_rule["components"][tmp_chunking_rule_component_index] or \
+                                token["xpos"] == chunking_rule["components"][tmp_chunking_rule_component_index]:
                             tmp_chunking_rule_list.append(chunking_rule)
                             existed = True
                         if token["upos"] == "nx" and "NP" == chunking_rule["components"][tmp_chunking_rule_component_index]:
@@ -111,7 +112,8 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                             del tmp_chunking_rule_list[tmp_chunking_rule_index]
                             tmp_chunking_rule_index -= 1
                         else:
-                            if token["upos"] == tmp_chunking_rule["components"][tmp_chunking_rule_component_index]:
+                            if token["upos"] == tmp_chunking_rule["components"][tmp_chunking_rule_component_index] or \
+                                    token["xpos"] == tmp_chunking_rule["components"][tmp_chunking_rule_component_index]:
                                 existed = True
                             elif token["upos"] == "nx" and "NP" == tmp_chunking_rule["components"][tmp_chunking_rule_component_index]:
                                 existed = True
@@ -232,7 +234,7 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                                 for token in reversed(chunk):
                                     flag = False
                                     for noun_pos in noun_pos_list:
-                                        if token["upos"] == noun_pos:
+                                        if token["upos"] == noun_pos or token["xpos"] == noun_pos:
                                             chunk_detail["core_word"] = token
                                             flag = True
                                             break
