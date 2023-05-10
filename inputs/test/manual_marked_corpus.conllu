@@ -63,12 +63,12 @@
 15	གྱི་	གྱི་	gz	gz	-	14	GZ	-	-
 16	གསུང་རབ་	གསུང་རབ་	nn	nn	-	17	QATT	-	-
 17	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	20	DOBJ	-	-
-18	ཞིག་	ཞིག་	uq	uq	-	17	DIG	-	-
+18	ཞིག་	ཞིག་	mj	mj	-	17	DIG	-	-
 19	དང་	དང་	cd	cd	-	18	CD	-	-
 20	བསྡུར་	བསྡུར་	vt	vt	-	0	ROOT	-	-
 21	ཐུབ་	ཐུབ་	un	un	-	20	COMP	-	-
 22	མེད	མེད	df	df	-	20	DF	-	-
-23	།	།	lz	lz	-	22	PUNCT	-	-
+23	།	།	lz	lz	-	20	PUNCT	-	-
 
 1	ཉོས་	ཉོས་	nv	nv	-	4	QATT	-	-
 2	ཚར་	ཚར་	us	us	-	1	ZC	-	-
