@@ -17,7 +17,6 @@ NP=NP+hx
 NP=NP+mx
 NP=NP+qx
 NP=NP+rx
-NP=NP+ux
 VP=dx+gx+VP
 VP=dx+gl+VP
 VP=VP+gl+df
