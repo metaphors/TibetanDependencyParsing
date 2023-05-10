@@ -275,6 +275,13 @@ def parse_a_single_sentence(token_list, chunk_list, dependency_rule_list):
         if need_to_be_marked:
             buffer_token_list[chunk["core_word"]["id"] - buffer_token_list[0]["id"]]["blank_head"] = head
             buffer_token_list[chunk["core_word"]["id"] - buffer_token_list[0]["id"]]["blank_deprel"] = deprel
+    core_word_id = 0
+    for chunk in chunk_list:
+        if chunk["chunk_type"] == "VP" or chunk["chunk_type"] == "vx":
+            core_word_id = chunk["core_word"]["id"]
+        if chunk["chunk_type"] == "lz":
+            chunk["chunk"][0]["blank_head"] = core_word_id
+            chunk["chunk"][0]["blank_deprel"] = "PUNCT"
 
 
 def parse_a_complex_sentence(token_list, chunk_list, dependency_rule_list, conjunction_list):
