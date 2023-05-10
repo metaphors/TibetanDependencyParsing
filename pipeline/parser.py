@@ -201,7 +201,35 @@ def parse_a_single_sentence(token_list, chunk_list, dependency_rule_list):
                                   "xx" == dependency_rule["components"][2]) or
                                  ("xx" == dependency_rule["components"][0] and
                                   buffer_token_list[index_i]["xpos"] == dependency_rule["components"][1] and
-                                  "xx" == dependency_rule["components"][2])):
+                                  "xx" == dependency_rule["components"][2]) or
+                                 (chunk["core_word"]["xpos"] == dependency_rule["components"][0] and
+                                  buffer_token_list[index_i]["upos"] == dependency_rule["components"][1] and
+                                  buffer_token_list[index_j]["xpos"] == dependency_rule["components"][2]) or
+                                 (chunk["core_word"]["upos"] == dependency_rule["components"][0] and
+                                  buffer_token_list[index_i]["upos"] == dependency_rule["components"][1] and
+                                  buffer_token_list[index_j]["xpos"] == dependency_rule["components"][2]) or
+                                 (chunk["core_word"]["xpos"] == dependency_rule["components"][0] and
+                                  buffer_token_list[index_i]["upos"] == dependency_rule["components"][1] and
+                                  buffer_token_list[index_j]["upos"] == dependency_rule["components"][2]) or
+                                 (chunk["core_word"]["upos"] == dependency_rule["components"][0] and
+                                  buffer_token_list[index_i]["upos"] == dependency_rule["components"][1] and
+                                  buffer_token_list[index_j]["upos"] == dependency_rule["components"][2]) or
+                                 ("xx" == dependency_rule["components"][0] and
+                                  buffer_token_list[index_i]["upos"] == dependency_rule["components"][1] and
+                                  buffer_token_list[index_j]["xpos"] == dependency_rule["components"][2]) or
+                                 (chunk["core_word"]["xpos"] == dependency_rule["components"][0] and
+                                  buffer_token_list[index_i]["upos"] == dependency_rule["components"][1] and
+                                  "xx" == dependency_rule["components"][2]) or
+                                 ("xx" == dependency_rule["components"][0] and
+                                  buffer_token_list[index_i]["upos"] == dependency_rule["components"][1] and
+                                  buffer_token_list[index_j]["upos"] == dependency_rule["components"][2]) or
+                                 (chunk["core_word"]["upos"] == dependency_rule["components"][0] and
+                                  buffer_token_list[index_i]["upos"] == dependency_rule["components"][1] and
+                                  "xx" == dependency_rule["components"][2]) or
+                                 ("xx" == dependency_rule["components"][0] and
+                                  buffer_token_list[index_i]["upos"] == dependency_rule["components"][1] and
+                                  "xx" == dependency_rule["components"][2])
+                                ):
                             left_arc_num += 1
                             token_list[buffer_token_list[index_i]["id"] - 1]["blank_head"] = chunk["core_word"]["id"]
                             buffer_token_list[index_i]["blank_head"] = chunk["core_word"]["id"]
