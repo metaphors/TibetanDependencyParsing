@@ -130,129 +130,144 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                                 tmp_chunking_rule_index -= 1
                         tmp_chunking_rule_index += 1
                     if existed:
-                        tmp_chunking_rule_component_index += 1
-                        if len(tmp_chunking_rule_list) == 1 and tmp_chunking_rule_component_index == len(tmp_chunking_rule_list[0]["components"]):
-                            if chunk_token_index != len(chunk) - 1:
-                                child_chunk_detail = {"chunk": chunk[:chunk_token_index + 1], "chunk_type": tmp_chunking_rule_list[0]["type"]}
-                                if tmp_chunking_rule_list[0]["type"] == "NP":
-                                    for token in reversed(chunk[:chunk_token_index + 1]):
-                                        flag = False
-                                        for noun_pos in noun_pos_list:
-                                            if token["upos"] == noun_pos:
-                                                child_chunk_detail["core_word"] = token
-                                                flag = True
-                                                break
-                                        if flag:
-                                            break
-                                if tmp_chunking_rule_list[0]["type"] == "VP":
-                                    found_vx = False
-                                    found_nv = False
-                                    found_ax = False
-                                    for token in chunk[:chunk_token_index + 1]:
-                                        if token["upos"] == "vx":
-                                            found_vx = True
-                                            child_chunk_detail["core_word"] = token
-                                            break
-                                    if not found_vx:
-                                        for token in chunk[:chunk_token_index + 1]:
-                                            if token["xpos"] == "nv":
-                                                found_nv = True
-                                                child_chunk_detail["core_word"] = token
-                                                break
-                                    if not found_vx and not found_nv:
+                        if token["id"] != chunk[-1]["id"]:
+                            tmp_chunking_rule_component_index += 1
+                            if len(tmp_chunking_rule_list) == 1 and tmp_chunking_rule_component_index == len(tmp_chunking_rule_list[0]["components"]):
+                                if chunk_token_index != len(chunk) - 1:
+                                    child_chunk_detail = {"chunk": chunk[:chunk_token_index + 1], "chunk_type": tmp_chunking_rule_list[0]["type"]}
+                                    if tmp_chunking_rule_list[0]["type"] == "NP":
                                         for token in reversed(chunk[:chunk_token_index + 1]):
-                                            if token["upos"] == "ax":
-                                                found_ax = True
-                                                child_chunk_detail["core_word"] = token
+                                            flag = False
+                                            for noun_pos in noun_pos_list:
+                                                if token["upos"] == noun_pos:
+                                                    child_chunk_detail["core_word"] = token
+                                                    flag = True
+                                                    break
+                                            if flag:
                                                 break
-                                    if not found_vx and not found_nv and not found_ax:
+                                    if tmp_chunking_rule_list[0]["type"] == "VP":
+                                        found_vx = False
+                                        found_nv = False
+                                        found_ax = False
                                         for token in chunk[:chunk_token_index + 1]:
-                                            if token["upos"] == "ux":
+                                            if token["upos"] == "vx":
+                                                found_vx = True
                                                 child_chunk_detail["core_word"] = token
                                                 break
-                                if tmp_chunking_rule_list[0]["type"] == "QP":
-                                    if len(chunk[:chunk_token_index + 1]) == 3:
-                                        child_chunk_detail["core_word"] = chunk[:chunk_token_index + 1][-1]
-                                    elif len(chunk[:chunk_token_index + 1]) == 2:
-                                        if (chunk[:chunk_token_index + 1][0]["upos"] == "mx" and chunk[:chunk_token_index + 1][1]["upos"] == "qx") or \
-                                                (chunk[:chunk_token_index + 1][0]["upos"] == "rx" and chunk[:chunk_token_index + 1][1][
-                                                    "upos"] == "mx") or \
-                                                (chunk[:chunk_token_index + 1][0]["upos"] == "ax" and chunk[:chunk_token_index + 1][1][
-                                                    "upos"] == "mx") or \
-                                                (chunk[:chunk_token_index + 1][0]["upos"] == "tt" and chunk[:chunk_token_index + 1][1][
-                                                    "upos"] == "mx"):
-                                            child_chunk_detail["core_word"] = chunk[:chunk_token_index + 1][0]
-                                        if (chunk[:chunk_token_index + 1][0]["upos"] == "qx" and chunk[:chunk_token_index + 1][1]["upos"] == "mx") or \
-                                                (chunk[:chunk_token_index + 1][0]["upos"] == "mx" and chunk[:chunk_token_index + 1][1][
-                                                    "upos"] == "mx") or \
-                                                (chunk[:chunk_token_index + 1][0]["upos"] == "tt" and chunk[:chunk_token_index + 1][1][
-                                                    "upos"] == "tt"):
-                                            child_chunk_detail["core_word"] = chunk[:chunk_token_index + 1][1]
-                                child_chunk_list.append(child_chunk_detail)
-                                chunking_rule_first_component = tmp_chunking_rule_list[0]["type"]
-                                tmp_chunking_rule_component_index = 0
-                                tmp_chunking_rule_list = []
-                                for chunking_rule in chunking_rule_list:
-                                    if chunking_rule_first_component == chunking_rule["components"][tmp_chunking_rule_component_index]:
-                                        tmp_chunking_rule_list.append(chunking_rule)
-                                tmp_chunking_rule_component_index += 1
-                            else:
-                                chunk_detail = {"chunk": chunk, "chunk_type": tmp_chunking_rule_list[0]["type"]}
-                                if chunk_detail["chunk_type"] == "NP":
-                                    for token in reversed(chunk):
-                                        flag = False
-                                        for noun_pos in noun_pos_list:
-                                            if token["upos"] == noun_pos:
-                                                chunk_detail["core_word"] = token
-                                                flag = True
-                                                break
-                                        if flag:
-                                            break
-                                if chunk_detail["chunk_type"] == "VP":
-                                    found_vx = False
-                                    found_nv = False
-                                    found_ax = False
-                                    for token in chunk:
-                                        if token["upos"] == "vx":
-                                            found_vx = True
-                                            chunk_detail["core_word"] = token
-                                            break
-                                    if not found_vx:
-                                        for token in chunk:
-                                            if token["xpos"] == "nv":
-                                                found_nv = True
-                                                chunk_detail["core_word"] = token
-                                                break
-                                    if not found_vx and not found_nv:
+                                        if not found_vx:
+                                            for token in chunk[:chunk_token_index + 1]:
+                                                if token["xpos"] == "nv":
+                                                    found_nv = True
+                                                    child_chunk_detail["core_word"] = token
+                                                    break
+                                        if not found_vx and not found_nv:
+                                            for token in reversed(chunk[:chunk_token_index + 1]):
+                                                if token["upos"] == "ax":
+                                                    found_ax = True
+                                                    child_chunk_detail["core_word"] = token
+                                                    break
+                                        if not found_vx and not found_nv and not found_ax:
+                                            for token in chunk[:chunk_token_index + 1]:
+                                                if token["upos"] == "ux":
+                                                    child_chunk_detail["core_word"] = token
+                                                    break
+                                    if tmp_chunking_rule_list[0]["type"] == "QP":
+                                        if len(chunk[:chunk_token_index + 1]) == 3:
+                                            child_chunk_detail["core_word"] = chunk[:chunk_token_index + 1][-1]
+                                        elif len(chunk[:chunk_token_index + 1]) == 2:
+                                            if (chunk[:chunk_token_index + 1][0]["upos"] == "mx" and chunk[:chunk_token_index + 1][1][
+                                                "upos"] == "qx") or \
+                                                    (chunk[:chunk_token_index + 1][0]["upos"] == "rx" and chunk[:chunk_token_index + 1][1][
+                                                        "upos"] == "mx") or \
+                                                    (chunk[:chunk_token_index + 1][0]["upos"] == "ax" and chunk[:chunk_token_index + 1][1][
+                                                        "upos"] == "mx") or \
+                                                    (chunk[:chunk_token_index + 1][0]["upos"] == "tt" and chunk[:chunk_token_index + 1][1][
+                                                        "upos"] == "mx"):
+                                                child_chunk_detail["core_word"] = chunk[:chunk_token_index + 1][0]
+                                            if (chunk[:chunk_token_index + 1][0]["upos"] == "qx" and chunk[:chunk_token_index + 1][1][
+                                                "upos"] == "mx") or \
+                                                    (chunk[:chunk_token_index + 1][0]["upos"] == "mx" and chunk[:chunk_token_index + 1][1][
+                                                        "upos"] == "mx") or \
+                                                    (chunk[:chunk_token_index + 1][0]["upos"] == "tt" and chunk[:chunk_token_index + 1][1][
+                                                        "upos"] == "tt"):
+                                                child_chunk_detail["core_word"] = chunk[:chunk_token_index + 1][1]
+                                    child_chunk_list.append(child_chunk_detail)
+                                    chunking_rule_first_component = tmp_chunking_rule_list[0]["type"]
+                                    tmp_chunking_rule_component_index = 0
+                                    tmp_chunking_rule_list = []
+                                    for chunking_rule in chunking_rule_list:
+                                        if chunking_rule_first_component == chunking_rule["components"][tmp_chunking_rule_component_index]:
+                                            tmp_chunking_rule_list.append(chunking_rule)
+                                    tmp_chunking_rule_component_index += 1
+                                else:
+                                    chunk_detail = {"chunk": chunk, "chunk_type": tmp_chunking_rule_list[0]["type"]}
+                                    if chunk_detail["chunk_type"] == "NP":
                                         for token in reversed(chunk):
-                                            if token["upos"] == "ax":
-                                                found_ax = True
-                                                chunk_detail["core_word"] = token
+                                            flag = False
+                                            for noun_pos in noun_pos_list:
+                                                if token["upos"] == noun_pos:
+                                                    chunk_detail["core_word"] = token
+                                                    flag = True
+                                                    break
+                                            if flag:
                                                 break
-                                    if not found_vx and not found_nv and not found_ax:
+                                    if chunk_detail["chunk_type"] == "VP":
+                                        found_vx = False
+                                        found_nv = False
+                                        found_ax = False
                                         for token in chunk:
-                                            if token["upos"] == "ux":
+                                            if token["upos"] == "vx":
+                                                found_vx = True
                                                 chunk_detail["core_word"] = token
                                                 break
-                                if chunk_detail["chunk_type"] == "QP":
-                                    if len(chunk) == 3:
-                                        chunk_detail["core_word"] = chunk[-1]
-                                    elif len(chunk) == 2:
-                                        if (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "qx") or \
-                                                (chunk[0]["upos"] == "rx" and chunk[1]["upos"] == "mx") or \
-                                                (chunk[0]["upos"] == "ax" and chunk[1]["upos"] == "mx") or \
-                                                (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "mx"):
-                                            chunk_detail["core_word"] = chunk[0]
-                                        if (chunk[0]["upos"] == "qx" and chunk[1]["upos"] == "mx") or \
-                                                (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "mx") or \
-                                                (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "tt"):
-                                            chunk_detail["core_word"] = chunk[1]
-                                if len(child_chunk_list) != 0:
-                                    # TODO: if children have siblings or children, then?
-                                    chunk_detail["children"] = child_chunk_list
-                                chunk_list[chunk_index] = chunk_detail
-                                chunk_index += 1
-                        elif len(tmp_chunking_rule_list) == 1 and tmp_chunking_rule_component_index > len(tmp_chunking_rule_list[0]["components"]):
+                                        if not found_vx:
+                                            for token in chunk:
+                                                if token["xpos"] == "nv":
+                                                    found_nv = True
+                                                    chunk_detail["core_word"] = token
+                                                    break
+                                        if not found_vx and not found_nv:
+                                            for token in reversed(chunk):
+                                                if token["upos"] == "ax":
+                                                    found_ax = True
+                                                    chunk_detail["core_word"] = token
+                                                    break
+                                        if not found_vx and not found_nv and not found_ax:
+                                            for token in chunk:
+                                                if token["upos"] == "ux":
+                                                    chunk_detail["core_word"] = token
+                                                    break
+                                    if chunk_detail["chunk_type"] == "QP":
+                                        if len(chunk) == 3:
+                                            chunk_detail["core_word"] = chunk[-1]
+                                        elif len(chunk) == 2:
+                                            if (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "qx") or \
+                                                    (chunk[0]["upos"] == "rx" and chunk[1]["upos"] == "mx") or \
+                                                    (chunk[0]["upos"] == "ax" and chunk[1]["upos"] == "mx") or \
+                                                    (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "mx"):
+                                                chunk_detail["core_word"] = chunk[0]
+                                            if (chunk[0]["upos"] == "qx" and chunk[1]["upos"] == "mx") or \
+                                                    (chunk[0]["upos"] == "mx" and chunk[1]["upos"] == "mx") or \
+                                                    (chunk[0]["upos"] == "tt" and chunk[1]["upos"] == "tt"):
+                                                chunk_detail["core_word"] = chunk[1]
+                                    if len(child_chunk_list) != 0:
+                                        # TODO: if children have siblings or children, then?
+                                        chunk_detail["children"] = child_chunk_list
+                                    chunk_list[chunk_index] = chunk_detail
+                                    chunk_index += 1
+                            elif len(tmp_chunking_rule_list) == 1 and \
+                                    tmp_chunking_rule_component_index > len(tmp_chunking_rule_list[0]["components"]):
+                                counter = 1
+                                for token in reversed(chunk):
+                                    if token["id"] != chunk[0]["id"]:
+                                        counter += 1
+                                        chunk_detail = {"chunk": [token], "chunk_type": token["upos"], "core_word": token}
+                                        chunk_list.insert(chunk_index + 1, chunk_detail)
+                                    else:
+                                        chunk_detail = {"chunk": [token], "chunk_type": token["upos"], "core_word": token}
+                                        chunk_list[chunk_index] = chunk_detail
+                                chunk_index += counter
+                        else:
                             counter = 1
                             for token in reversed(chunk):
                                 if token["id"] != chunk[0]["id"]:
