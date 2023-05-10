@@ -109,6 +109,12 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                     while tmp_chunking_rule_index < len(tmp_chunking_rule_list):
                         tmp_chunking_rule = tmp_chunking_rule_list[tmp_chunking_rule_index]
                         if tmp_chunking_rule_component_index >= len(tmp_chunking_rule["components"]):
+                            counter = 0
+                            for index, component in enumerate(tmp_chunking_rule["components"]):
+                                if chunk[index]["upos"] == component or chunk[index]["xpos"] == component:
+                                    counter += 1
+                            if counter == len(tmp_chunking_rule["components"]):
+                                chunking_rule_first_component = tmp_chunking_rule["type"]
                             del tmp_chunking_rule_list[tmp_chunking_rule_index]
                             tmp_chunking_rule_index -= 1
                         else:
@@ -258,9 +264,9 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                                     chunk_list[chunk_index] = chunk_detail
                             chunk_index += counter
                     else:
-                        chunk_list.insert(chunk_index + 1, chunk[chunk_token_index:])
-                        chunk = chunk[:chunk_token_index]
                         if chunking_rule_first_component == "":
+                            chunk_list.insert(chunk_index + 1, chunk[chunk_token_index:])
+                            chunk = chunk[:chunk_token_index]
                             counter = 1
                             for token in reversed(chunk):
                                 if token["id"] != chunk[0]["id"]:
@@ -272,6 +278,16 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                                     chunk_list[chunk_index] = chunk_detail
                             chunk_index += counter
                         else:
+                            if tmp_chunking_rule_component_index == 1:
+                                chunk_list.insert(chunk_index + 1, chunk[chunk_token_index:])
+                                chunk = chunk[:chunk_token_index]
+                            elif tmp_chunking_rule_component_index == 2:
+                                if tmp_chunking_rule_component_index < chunk_token_index:
+                                    chunk_list.insert(chunk_index + 1, chunk[chunk_token_index - 1:])
+                                    chunk = chunk[:chunk_token_index - 1]
+                                else:
+                                    chunk_list.insert(chunk_index + 1, chunk[chunk_token_index:])
+                                    chunk = chunk[:chunk_token_index]
                             chunk_detail = {"chunk": chunk, "chunk_type": chunking_rule_first_component}
                             if chunk_detail["chunk_type"] == "NP":
                                 for token in reversed(chunk):
