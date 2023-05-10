@@ -1,15 +1,15 @@
 1	དཔེ་ཆ་	དཔེ་ཆ་	nn	nn	-	3	DOBJ	-	-
 2	ཞིག་	ཞིག་	mg	mg	-	1	DIG	-	-
 3	ཉོས་	ཉོས་	vt	vt	-	8	YGFH	-	-
-4	ན་	ན་	cn	cn	-	3	GX	-	-
+4	ན་	ན་	cn	cn	-	3	GLC	-	-
 5	ཡི་གེ་	ཡི་གེ་	nn	nn	-	8	DOBJ	-	-
 6	ཧ་ཅང་ཆེ་	ཧ་ཅང་ཆེ་	as	as	-	8	ADVA	-	-
 7	བས་	བས་	gx	gx	-	6	GX	-	-
 8	མགོ་ཡུ་འཁོར་བ་	མགོ་ཡུ་འཁོར་བ་	vi	vi	-	11	FH	-	-
 9	ཚོར་བ་	ཚོར་བ་	nn	nn	-	11	DOBJ	-	-
-10	ཡག་པོ་	ཡག་པོ་	as	as	-	9	ADVA	-	-
+10	ཡག་པོ་	ཡག་པོ་	as	as	-	9	HATT	-	-
 11	མི་འདུག	མི་འདུག	vi	vi	-	0	ROOT	-	-
-12	།	།	lz	lz	-	21	PUNCT	-	-
+12	།	།	lz	lz	-	11	PUNCT	-	-
 
 1	དེབ་	དེབ་	nn	nn	-	3	DOBJ	-	-
 2	གོང་མ་	གོང་མ་	tt	tt	-	3	TA	-	-
@@ -25,7 +25,7 @@
 12	འདོད་པ་	འདོད་པ་	nn	nn	-	14	DOBJ	-	-
 13	ཅི་ཡང་	ཅི་ཡང་	ry	ry	-	12	RY	-	-
 14	མི་འདུག	མི་འདུག	vi	vi	-	0	ROOT	-	-
-15	།	།	lz	lz	-	21	PUNCT	-	-
+15	།	།	lz	lz	-	14	PUNCT	-	-
 
 1	ཆ་ཚང་	ཆ་ཚང་	as	as	-	2	ADVA	-	-
 2	ཉོས་	ཉོས་	vi	vi	-	6	VA	-	-
