@@ -12,7 +12,7 @@ def is_a_single_sentence(chunk_list):
     for chunk in chunk_list:
         if chunk["chunk_type"] == "VP" or chunk["chunk_type"] == "vx":
             vp_counter += 1
-    if vp_counter == 1:
+    if vp_counter == 1 or vp_counter == 0:
         return True
     elif vp_counter > 1:
         return False
