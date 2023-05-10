@@ -331,7 +331,10 @@ def chunk_by_rules_sequentially(chunk_list, chunking_rule_list, noun_pos_list):
                             chunk_index += 1
                 chunk_token_index += 1
     for index, chunk in enumerate(chunk_list):
-        if len(chunk["chunk"]) == 1 and (chunk["chunk_type"] == "ux" or chunk["chunk_type"] == "ax" or chunk["chunk_type"] == "df"):
+        if len(chunk["chunk"]) == 1 and \
+                (chunk_list[index]["chunk"][0]["upos"] == "ux" or
+                 chunk_list[index]["chunk"][0]["upos"] == "ax" or
+                 chunk_list[index]["chunk"][0]["xpos"] == "df"):
             chunk_list[index]["chunk"][0]["upos"] = "vx"
             chunk_list[index]["chunk_type"] = "vx"
             chunk_list[index]["core_word"]["upos"] = "vx"
